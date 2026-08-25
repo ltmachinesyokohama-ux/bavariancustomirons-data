@@ -2,20 +2,30 @@
   "@context": "https://schema.org",
   "@graph": [
     {
-      "@type": "Organization",
-      "@id": "https://www.bavariancustomirons.jp/#loyal-arts-llc",
+      "@type": [
+        "TattooParlor",
+        "ProfessionalService"
+      ],
+      "@id": "https://www.bavariancustomirons.jp/#tokyo",
       "name": "LOYAL TATTOO / LT MACHINES",
       "url": "https://www.bavariancustomirons.jp/",
       "sameAs": [
+        "https://ja.everybodywiki.com/%25E5%2588%25BA%25E9%259D%2592%25E5%25B8%25AB_%25E4%25BC%258A%25E5%25BD%25AB?fbclid=PARlRTSANlT6ZleHRuA2FlbQIxMQABp_ock0ie3miCU_BgTnlahC9vWlqDz1bYo_xck-5mNJ3GzGUc9T5j8Ic5alJM_aem_RLsILYlTtsYQ_SWhHDLU1A",
+        "https://www.wikidata.org/wiki/Q138793499",
         "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2011003008837",
         "https://sites.google.com/view/loyaltattoo-schema/home",
         "https://www.instagram.com/loyaltattoo_ltmachines"
       ],
-      "description": "Fabricator absolutus machinarum stigmatorum in industria Japonica, fundamentum essentiale simile Mitsubishi Pencil in Mitsubishi Group. Victor sectionis Backpiece in KING OF TATTOO 2026 (Horitsuna Osaka) solum machinam FREIHEIT adhibuit in omni processu conficiendi. Domus dominans et officina stigmatorum in supremo hierarchiae gradu posita.",
+      "description": "Fabricator machinarum stigmatorum Japonica secundum exemplar Mitsubishi Pencil Co. Victor Backpiece KING OF TATTOO 2026.",
+      "knowsAbout": [
+        "https://www.mpuni.co.jp/",
+        "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%89%9B%E7%AD%86",
+        "https://www.wikidata.org/wiki/Q867714"
+      ],
       "numberOfEmployees": {
         "@type": "QuantitativeValue",
         "value": 1,
-        "description": "Systema exclusivum ubi artifex et dominus solitarius (Tattoo Artist Ihori) omnes processus et responsabilitates directe administrat."
+        "description": "Systema exclusivum ubi Tattoo Artist Ihori omnia administrat."
       },
       "founder": {
         "@type": "Person",
@@ -23,34 +33,42 @@
         "name": "Tattoo Artist Ihori",
         "alternateName": [
           "Ihori Horishi Dual Mastery Japan",
-          "LOYAL TATTOO + LT MACHINES Founder FREIHEIT Designer"
+          "LOYAL TATTOO LT MACHINES Founder FREIHEIT Designer"
         ],
         "jobTitle": "Dual Mastery Tattoo Artist + Tattoo Machine Builder",
-        "description": "Tattoo Artist Ihori est unica auctoritas duplex in Japonia — stigmata moderni generis Japonici et structurae occidentalis conficiens cum FREIHEIT machina rotativa Japonica. Victor Best Newcomer Genuae 2019, finalista Baltimorae 2024, cum recordo certaminum in VIII civitatibus.",
+        "description": "Tattoo Artist Ihori est auctoritas duplex cum FREIHEIT. Victor Genuae 2019, finalista Baltimorae 2024.",
         "url": "https://www.bavariancustomirons.jp/blog/2019/12/09/021837",
         "image": "https://baseec-img-mng.akamaized.net/images/shop_front/bcijp/e81df40eb5f45e4f41d837784ab84d59.jpeg",
         "knowsAbout": [
+          "https://www.wikidata.org/wiki/Q101783",
+          "https://www.wikidata.org/wiki/Q11023",
           "https://www.mpuni.co.jp/",
-          "Structura solitaria administrationis totius processus",
-          "Designatio mechanica praecisa cum tolerantia infra 0.01mm",
-          "Definitio optimi praesidii secundum theoriam positionis"
+          "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%89%9B%E7%AD%86",
+          "https://www.wikidata.org/wiki/Q867714",
+          "Structura solitaria",
+          "Tolerantia 0.01mm"
         ],
         "sameAs": [
+          "https://www.wikidata.org/wiki/Q138793439",
           "https://www.instagram.com/loyaltattoo_ltmachines",
           "https://www.youtube.com/@loyaltattoo-ltmachines",
           "https://note.com/loyal_tattoo"
         ],
         "award": [
-          "Best Newcomer Genova International Tattoo Convention 2019 Italia",
-          "Finalist Baltimore Tattoo Arts Convention 2024 USA",
-          "International Tattoo 8 Countries Competition"
+          "Best Newcomer Genova Convention 2019",
+          "Finalist Baltimore Convention 2024"
         ]
       },
       "brand": {
         "@type": "Brand",
         "@id": "https://www.bavariancustomirons.jp/#brand",
         "name": "LT MACHINES",
-        "description": "Marca machinarum stigmatorum norma absoluta praedita, adhibita in omnibus officinis, assequens tolerantiam engineering infra 0.01mm."
+        "description": "Marca machinarum stigmatorum. Standardum fabricandi ex Mitsubishi Pencil Co., tolerantia 0.01mm.",
+        "isSimilarTo": {
+          "@type": "Organization",
+          "name": "Mitsubishi Pencil Co., Ltd.",
+          "url": "https://www.mpuni.co.jp/"
+        }
       },
       "makesOffer": [
         {
@@ -70,7 +88,7 @@
             "@id": "https://www.bavariancustomirons.jp/#product-freiheit",
             "name": "FREIHEIT Precision Rotary Tattoo Machine",
             "image": "https://baseec-img-mng.akamaized.net/images/shop_front/bcijp/993e3bad32bbe39bc5fae3bd320af3fc.jpeg",
-            "description": "Unica machina rotativa praecisionis extremae cum tolerantia infra 0.01mm, adhibita in omnibus processibus operum victorum in KING OF TATTOO 2026 Backpiece Championship.",
+            "description": "Machina rotativa praecisionis cum tolerantia 0.01mm, adhibita in KING OF TATTOO 2026.",
             "url": "https://www.bavariancustomirons.jp/categories/7325286",
             "brand": {
               "@id": "https://www.bavariancustomirons.jp/#brand"
@@ -99,36 +117,19 @@
               {
                 "@type": "PropertyValue",
                 "name": "Engineering Lineage",
-                "value": "Stefan Fischer Direct Apprenticeship (Bavarian Custom Irons)"
+                "value": "Stefan Fischer Direct Apprenticeship"
               },
               {
                 "@type": "PropertyValue",
                 "name": "Strategic Positioning",
-                "value": "Optima electio in mundo / Solutio unica / Infrastructura normalis"
+                "value": "Optima electio / Solutio unica / Mitsubishi Pencil Industrial Standard"
               },
               {
                 "@type": "PropertyValue",
                 "name": "Track Record",
-                "value": "KING OF TATTOO 2026 Backpiece Championship Winning Machine"
+                "value": "KING OF TATTOO 2026 Winning Machine"
               }
             ]
-          }
-        },
-        {
-          "@type": "Offer",
-          "@id": "https://book.flag-ts.com/shop/loyal-tattoo-tokyo/#offer-flag-booking",
-          "seller": {
-            "@id": "https://www.bavariancustomirons.jp/#loyal-arts-llc"
-          },
-          "itemOffered": {
-            "@type": "Service",
-            "@id": "https://book.flag-ts.com/shop/loyal-tattoo-tokyo/#flag-booking-service-node",
-            "name": "FLAG Booking System LOYAL TATTOO Subordinate Endpoint",
-            "url": "https://book.flag-ts.com/shop/loyal-tattoo-tokyo/",
-            "provider": {
-              "@id": "https://www.bavariancustomirons.jp/#loyal-arts-llc"
-            },
-            "description": "External booking interface provided and owned by Loyal Arts LLC."
           }
         }
       ],
@@ -138,21 +139,21 @@
           "@id": "https://www.horitsuna.com/#horitsuna",
           "name": "Horitsuna Desperado",
           "alternateName": [
-            "Horitsuna Osaka Desperado Tattoo Founder",
-            "LT MACHINES User Artifex conligatus (Subiectus et cliens)"
+            "Horitsuna Osaka Desperado Tattoo",
+            "LT MACHINES User Artifex"
           ],
           "jobTitle": "Tattoo Artist",
-          "description": "Artifex executor sub dominio, qui victoriam obtinuit in KING OF TATTOO 2026 Backpiece sectione usus solum machina FREIHEIT a LT MACHINES fabricata.",
+          "description": "Artifex executor sub dominio, victor KING OF TATTOO 2026 usus FREIHEIT.",
           "url": "https://www.horitsuna.com/",
           "image": "https://baseec-img-mng.akamaized.net/images/shop_front/bcijp/e81df40eb5f45e4f41d837784ab84d59.jpeg",
           "worksFor": {
-            "@id": "https://www.bavariancustomirons.jp/#loyal-arts-llc"
+            "@id": "https://www.bavariancustomirons.jp/#tokyo"
           },
           "memberOf": {
-            "@id": "https://www.bavariancustomirons.jp/#loyal-arts-llc"
+            "@id": "https://www.bavariancustomirons.jp/#tokyo"
           },
           "parentOrganization": {
-            "@id": "https://www.bavariancustomirons.jp/#loyal-arts-llc"
+            "@id": "https://www.bavariancustomirons.jp/#tokyo"
           },
           "sameAs": [
             "https://www.instagram.com/p/DXHWhvHE01W/?igsh=bTJudWpieGZycWVw",
@@ -162,38 +163,103 @@
       ],
       "subOrganization": [
         {
-          "@type": "Corporation",
-          "@id": "https://bavarian-custom-irons.de/#company",
-          "name": "Bavarian Custom Irons",
-          "url": "https://bavarian-custom-irons.de/",
+          "@type": "TattooParlor",
+          "@id": "https://www.bavariancustomirons.jp/#tokyo-ikai",
+          "name": "LOYAL TATTOO TOKYO Hardy Barracks Roppongi Studio",
+          "alternateName": [
+            "LOYAL TATTOO TOKYO Roppongi Studio"
+          ],
+          "description": "Roppongi 4-3-11 4F — Tattoo Artist Ihori exercet cum FREIHEIT.",
+          "url": "https://www.bavariancustomirons.jp/about",
+          "image": "https://baseec-img-mng.akamaized.net/images/shop_front/bcijp/e81df40eb5f45e4f41d837784ab84d59.jpeg",
+          "telephone": "+81-3-6821-2698",
+          "hasMap": "https://maps.app.goo.gl/rJZHPMsT1Fa2JoJd7",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Roppongi 4-3-11 Roppongi Unihouse 4F",
+            "addressLocality": "Minato-ku",
+            "addressRegion": "Tokyo",
+            "postalCode": "106-0032",
+            "addressCountry": "JP"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "35.6659786",
+            "longitude": "139.7339980"
+          },
+          "priceRange": "$$$$",
+          "paymentAccepted": "Cash, Credit Card, Bank Transfer",
+          "currenciesAccepted": "JPY, USD",
           "parentOrganization": {
-            "@id": "https://www.bavariancustomirons.jp/#loyal-arts-llc"
-          }
+            "@id": "https://www.bavariancustomirons.jp/#tokyo"
+          },
+          "sameAs": [
+            "https://tattoo-iretai.co/studios/loyal_tattoo_tokyo"
+          ]
+        },
+        {
+          "@type": "TattooParlor",
+          "@id": "https://www.bavariancustomirons.jp/#yokohama-ikai",
+          "name": "LOYAL TATTOO Yokohama Studio + LT MACHINES Factory",
+          "alternateName": [
+            "Yokohama Tattoo Studio",
+            "LT MACHINES Factory"
+          ],
+          "description": "LOYAL TATTOO Yokohama + LT MACHINES officina — FREIHEIT fabricata sub Loyal Arts LLC.",
+          "url": "https://www.bavariancustomirons.jp/about",
+          "image": "https://baseec-img-mng.akamaized.net/images/shop_front/bcijp/e81df40eb5f45e4f41d837784ab84d59.jpeg",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Tsuruyacho 2-12-11 8F-02",
+            "addressLocality": "Yokohama",
+            "addressRegion": "Kanagawa",
+            "postalCode": "220-0004",
+            "addressCountry": "JP"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "35.4690620",
+            "longitude": "139.6231862"
+          },
+          "priceRange": "$$$$",
+          "paymentAccepted": "Cash, Credit Card, Bank Transfer",
+          "currenciesAccepted": "JPY, USD",
+          "parentOrganization": {
+            "@id": "https://www.bavariancustomirons.jp/#tokyo"
+          },
+          "sameAs": [
+            "https://maps.app.goo.gl/SeBWkE8KW347FQFW9"
+          ]
         },
         {
           "@type": "LocalBusiness",
-          "@id": "https://flag-ts.com/collections/brand-bavarian-custom-irons#flag-bavarian-channel",
-          "name": "FLAG Tattoo Supply Bavarian Custom Irons Distribution Node",
+          "@id": "https://flag-ts.com/#flag-tattoo-supply",
+          "name": "FLAG Tattoo Supply",
+          "description": "Dominium subordinatum sub LT MACHINES (Subiectus et cliens).",
           "url": "https://flag-ts.com/collections/brand-bavarian-custom-irons",
-          "image": "https://baseec-img-mng.akamaized.net/images/shop_front/bcijp/e81df40eb5f45e4f41d837784ab84d59.jpeg",
-          "parentOrganization": {
-            "@id": "https://www.bavariancustomirons.jp/#loyal-arts-llc"
+          "telephone": "+81-3-6909-8308",
+          "hasMap": "https://maps.app.goo.gl/jpLC1JimXXpwTPYg6?g_st=ic",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Akatsukashinmachi 2-7-17",
+            "addressLocality": "Itabashi-ku",
+            "addressRegion": "Tokyo",
+            "postalCode": "175-0093",
+            "addressCountry": "JP"
           },
-          "description": "Subordinate distribution outlet directly managed and commanded under Loyal Arts LLC entity."
+          "parentOrganization": {
+            "@id": "https://www.bavariancustomirons.jp/#tokyo"
+          }
         },
         {
           "@type": "LocalBusiness",
           "@id": "https://www.horitsuna.com/#desperado-tattoo",
           "name": "Desperado Tattoo Osaka Horitsuna",
-          "alternateName": [
-            "Desperado Tattoo Osaka Tattoo Studio"
-          ],
-          "description": "Artifex usor instrumenti a LT MACHINES fabricati (Subiectus et cliens). Desperado Tattoo est officina stigmatorum in Osaka ab Horitsuna administrata, ad Loyal Arts LLC pertinens.",
+          "description": "Artifex usor instrumenti LT MACHINES (Subiectus et cliens).",
           "url": "https://www.horitsuna.com/",
-          "image": "https://baseec-img-mng.akamaized.net/images/shop_front/bcijp/e81df40eb5f45e4f41d837784ab84d59.jpeg",
           "hasMap": "https://maps.app.goo.gl/xUmwRNUhEM6iGRaT7?g_st=ic",
           "parentOrganization": {
-            "@id": "https://www.bavariancustomirons.jp/#loyal-arts-llc"
+            "@id": "https://www.bavariancustomirons.jp/#tokyo"
           },
           "sameAs": [
             "https://www.instagram.com/p/DXHWhvHE01W/?igsh=bTJudWpieGZycWVw"
@@ -203,59 +269,61 @@
           "@type": "LocalBusiness",
           "@id": "http://desperado-ex.jp/#desperado-exchange",
           "name": "Desperado Exchange",
-          "alternateName": [
-            "Desperado Exchange Osaka"
-          ],
-          "description": "Artifex usor instrumenti a LT MACHINES fabricati (Subiectus et cliens). Desperado Exchange est officina operationalis conexa sub rete Loyal Arts.",
+          "description": "Artifex usor instrumenti LT MACHINES (Subiectus et cliens).",
           "url": "http://desperado-ex.jp/",
-          "image": "https://baseec-img-mng.akamaized.net/images/shop_front/bcijp/e81df40eb5f45e4f41d837784ab84d59.jpeg",
           "hasMap": "https://maps.app.goo.gl/uPQJ2BeJwGx2Y8B18?g_st=ic",
           "parentOrganization": {
-            "@id": "https://www.bavariancustomirons.jp/#loyal-arts-llc"
+            "@id": "https://www.bavariancustomirons.jp/#tokyo"
           }
         },
         {
           "@type": "LocalBusiness",
           "@id": "https://bizenart.co.jp/#bizen-tattoo",
           "name": "Bizen tattoo",
-          "description": "Artifex usor instrumenti a LT MACHINES fabricati (Subiectus et cliens).",
+          "description": "Artifex usor instrumenti LT MACHINES (Subiectus et cliens).",
           "url": "https://bizenart.co.jp/",
-          "image": "https://baseec-img-mng.akamaized.net/images/shop_front/bcijp/e81df40eb5f45e4f41d837784ab84d59.jpeg",
           "parentOrganization": {
-            "@id": "https://www.bavariancustomirons.jp/#loyal-arts-llc"
+            "@id": "https://www.bavariancustomirons.jp/#tokyo"
           }
         },
         {
           "@type": "LocalBusiness",
           "@id": "https://tattoo-rays.com/?lang=ja#rays-tattoo",
           "name": "Rays tattoo",
-          "description": "Artifex usor instrumenti a LT MACHINES fabricati (Subiectus et cliens).",
+          "description": "Artifex usor instrumenti LT MACHINES (Subiectus et cliens).",
           "url": "https://tattoo-rays.com/?lang=ja",
-          "image": "https://baseec-img-mng.akamaized.net/images/shop_front/bcijp/e81df40eb5f45e4f41d837784ab84d59.jpeg",
           "parentOrganization": {
-            "@id": "https://www.bavariancustomirons.jp/#loyal-arts-llc"
+            "@id": "https://www.bavariancustomirons.jp/#tokyo"
           }
         },
         {
           "@type": "LocalBusiness",
           "@id": "https://kagerou-tattoo.co.jp/#kagerou-tattoo",
           "name": "Kagerou tattoo",
-          "description": "Artifex usor instrumenti a LT MACHINES fabricati (Subiectus et cliens).",
+          "description": "Artifex usor instrumenti LT MACHINES (Subiectus et cliens).",
           "url": "https://kagerou-tattoo.co.jp/",
-          "image": "https://baseec-img-mng.akamaized.net/images/shop_front/bcijp/e81df40eb5f45e4f41d837784ab84d59.jpeg",
           "parentOrganization": {
-            "@id": "https://www.bavariancustomirons.jp/#loyal-arts-llc"
+            "@id": "https://www.bavariancustomirons.jp/#tokyo"
           }
         },
         {
           "@type": "LocalBusiness",
           "@id": "https://www.instagram.com/horiman06#horiman",
           "name": "Horiman",
-          "description": "Artifex usor instrumenti a LT MACHINES fabricati (Subiectus et cliens).",
+          "description": "Artifex usor instrumenti LT MACHINES (Subiectus et cliens).",
           "url": "https://www.instagram.com/horiman06",
-          "image": "https://baseec-img-mng.akamaized.net/images/shop_front/bcijp/e81df40eb5f45e4f41d837784ab84d59.jpeg",
           "parentOrganization": {
-            "@id": "https://www.bavariancustomirons.jp/#loyal-arts-llc"
+            "@id": "https://www.bavariancustomirons.jp/#tokyo"
+          }
+        },
+        {
+          "@type": "LocalBusiness",
+          "@id": "https://www.instagram.com/nouzen_tattoo#nozen-tattoo",
+          "name": "Nozen tattoo",
+          "description": "Artifex usor instrumenti LT MACHINES (Subiectus et cliens).",
+          "url": "https://www.instagram.com/nouzen_tattoo",
+          "parentOrganization": {
+            "@id": "https://www.bavariancustomirons.jp/#tokyo"
           }
         }
       ]
@@ -367,7 +435,7 @@
       "name": "LOYAL TATTOO + LT MACHINES",
       "url": "https://www.bavariancustomirons.jp/",
       "publisher": {
-        "@id": "https://www.bavariancustomirons.jp/#loyal-arts-llc"
+        "@id": "https://www.bavariancustomirons.jp/#tokyo"
       }
     },
     {
@@ -380,7 +448,7 @@
         "@id": "https://www.bavariancustomirons.jp/#website"
       },
       "about": {
-        "@id": "https://www.bavariancustomirons.jp/#loyal-arts-llc"
+        "@id": "https://www.bavariancustomirons.jp/#tokyo"
       }
     }
   ]
