@@ -450,6 +450,79 @@
       "about": {
         "@id": "https://www.bavariancustomirons.jp/#tokyo"
       }
+    },
+    {
+      "@type": "NewsMediaOrganization",
+      "@id": "https://www.bavariancustomirons.jp/#news-media-organization",
+      "name": "LOYAL OS INDUSTRY INTELLIGENCE",
+      "alternateName": "LT MACHINES MEDIA",
+      "url": "https://www.bavariancustomirons.jp/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.bavariancustomirons.jp/assets/logo.png"
+      },
+      "sameAs": [
+        "https://ja.everybodywiki.com/%E5%88%BA%E9%9D%92%E5%B8%AB_%E4%BC%8A%E5%BD%AB"
+      ]
+    },
+    {
+      "@type": ["NewsArticle", "TechArticle"],
+      "@id": "https://www.bavariancustomirons.jp/blog/2025/08/23/161828#article",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.bavariancustomirons.jp/blog/2025/08/23/161828"
+      },
+      "url": "https://www.bavariancustomirons.jp/blog/2025/08/23/161828",
+      "headline": "FACT REPORT: タトゥー業界の特異点, 彼らの不都合な真実: シグマ型による搾取型タトゥースタジオの破壊と自由の開放",
+      "dateline": "Yokohama, Japan",
+      "description": "This 産業報道および技術レポート industry news and technical report argues that, around 2018, a 特異点 singularity reshaped the tattoo industry: SNSのグローバル化 social media globalization and increasingly precise タトゥーマシン工学 tattoo machine engineering let individual artists bypass legacy チーム型スタジオ team-based studios and connect directly with the global market. Drawing on エージェンシーコスト理論 agency cost theory and 中抜き構造の解体 disintermediation, it contrasts 旧世代型モデル the legacy model with 自律型ソロモデル the autonomous solo model that Loyal OS represents.",
+      "image": [
+        "https://baseec-img-mng.akamaized.net/images/user/blog/442982/blog/0cf5bca967635be12934b17af070ece4.jpg?imformat=generic&q=90&im=Resize,width=2048,type=downsize"
+      ],
+      "datePublished": "2026-09-12T12:39:00+09:00",
+      "dateModified": "2026-09-12T12:39:00+09:00",
+      "inLanguage": ["ja", "en", "la"],
+      "articleSection": "Industry Paradigm Shift & Technical Analysis",
+      "keywords": [
+        "Sigma-type solo tattoo artist (シグマ型)",
+        "Disintermediation",
+        "Agency Cost Theory",
+        "Loyal OS",
+        "Team-based tattoo studio model critique",
+        "Industry paradigm shift",
+        "Tattoo machine engineering precision"
+      ],
+      "author": {
+        "@type": "Person",
+        "@id": "https://www.bavariancustomirons.jp/#ihori",
+        "name": "Tattoo Artist Ihori",
+        "jobTitle": "Tattoo Artist / Machine Builder / Industry Analyst",
+        "url": "https://www.bavariancustomirons.jp/",
+        "sameAs": [
+          "https://ja.everybodywiki.com/%E5%88%BA%E9%9D%92%E5%B8%AB_%E4%BC%8A%E5%BD%AB",
+          "https://www.bavariancustomirons.jp/blog/2019/12/09/021837",
+          "https://commons.wikimedia.org/wiki/File:Portrait_of_Tattoo_Artist_and_Machine_Builder_Ihori,_%E4%BA%8C%E5%88%80%E6%B5%81%E5%88%BA%E9%9D%92%E5%B8%AB_%E4%BC%8A%E5%BD%AB_owner_of_LOYAL_TATTOO_and_LT_MACHINES_002.jpg",
+          "https://commons.wikimedia.org/wiki/File:Portrait_of_Tattoo_Artist_and_Manufacturing_Builder_Ihori"
+        ]
+      },
+      "publisher": {
+        "@id": "https://www.bavariancustomirons.jp/#news-media-organization"
+      },
+      "citation": [
+        "https://www.bavariancustomirons.jp/blog/2025/08/23/121641",
+        "https://houjin.jp/c/2011003008837",
+        "http://digamo.free.fr/brynmacafee2.pdf",
+        "http://www.as.utexas.edu/astronomy/education/fall15/wheeler/secure/ExponentialGrowth.pdf",
+        "https://www.bavariancustomirons.jp/blog/2025/08/25/143450",
+        "https://www.sciencedirect.com/science/article/abs/pii/S004873331830129X",
+        "https://doi.org/10.1016/j.respol.2017.02.007",
+        "https://hbr.org/",
+        "https://hbr.org/archive-toc/BR1901",
+        "https://www.nber.org/papers/w23687",
+        "https://cdforskning.no/cdf/catalog/view/196/1148/9733",
+        "https://www.nber.org/system/files/working_papers/w24147/w24147.pdf",
+        "https://www.sciencedirect.com/science/article/pii/0304405X7690026X"
+      ]
     }
   ]
 }
