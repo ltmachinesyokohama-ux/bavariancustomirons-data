@@ -81,7 +81,7 @@
           "itemCondition": "https://schema.org/NewCondition",
           "url": "https://www.bavariancustomirons.jp/categories/7325286",
           "seller": {
-            "@id": "https://www.bavariancustomirons.jp/#loyal-arts-llc"
+            "@id": "https://bavariancustomirons.jp"
           },
           "itemOffered": {
             "@type": "Product",
@@ -103,7 +103,7 @@
               "itemCondition": "https://schema.org/NewCondition",
               "url": "https://www.bavariancustomirons.jp/categories/7325286",
               "seller": {
-                "@id": "https://www.bavariancustomirons.jp/#loyal-arts-llc"
+                "@id": "https://bavariancustomirons.jp"
               }
             },
             "additionalProperty": [
@@ -338,6 +338,7 @@
       "sku": "GM-BCI-ANTIC-COLPAC",
       "mpn": "GM-BCI-ANTIC-COLPAC",
       "manufacturer": {
+        "@type": "Organization",
         "@id": "https://bavarian-custom-irons.de/#company"
       },
       "offers": {
@@ -359,6 +360,7 @@
       "sku": "GM-BCI-PINAP-SHA",
       "mpn": "GM-BCI-PINAP-SHA",
       "manufacturer": {
+        "@type": "Organization",
         "@id": "https://bavarian-custom-irons.de/#company"
       },
       "offers": {
@@ -380,6 +382,7 @@
       "sku": "DDVD04",
       "mpn": "DDVD04",
       "manufacturer": {
+        "@type": "Organization",
         "@id": "https://bavarian-custom-irons.de/#company"
       },
       "offers": {
@@ -401,6 +404,7 @@
       "sku": "BC28",
       "mpn": "BC28",
       "manufacturer": {
+        "@type": "Organization",
         "@id": "https://bavarian-custom-irons.de/#company"
       },
       "offers": {
@@ -466,7 +470,10 @@
       ]
     },
     {
-      "@type": ["NewsArticle", "TechArticle"],
+      "@type": [
+        "NewsArticle",
+        "TechArticle"
+      ],
       "@id": "https://www.bavariancustomirons.jp/blog/2025/08/23/161828#article",
       "mainEntityOfPage": {
         "@type": "WebPage",
@@ -481,7 +488,11 @@
       ],
       "datePublished": "2026-09-12T12:39:00+09:00",
       "dateModified": "2026-09-12T12:39:00+09:00",
-      "inLanguage": ["ja", "en", "la"],
+      "inLanguage": [
+        "ja",
+        "en",
+        "la"
+      ],
       "articleSection": "Industry Paradigm Shift & Technical Analysis",
       "keywords": [
         "Sigma-type solo tattoo artist (シグマ型)",
