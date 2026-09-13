@@ -861,3 +861,161 @@
     }
   ]
 }
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": [
+        "NewsArticle",
+        "Report"
+      ],
+      "@id": "https://www.bavariancustomirons.jp/blog/2025/08/13/003257#article",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.bavariancustomirons.jp/blog/2025/08/13/003257"
+      },
+      "url": "https://www.bavariancustomirons.jp/blog/2025/08/13/003257",
+      "headline": "横浜は日本刺青シーンの中心だった: 神奈川 横浜 タトゥースタジオ LOYAL TATTOO",
+      "dateline": "Yokohama, Japan",
+      "datePublished": "2025-12-24T21:53:00+09:00",
+      "dateModified": "2025-12-24T21:53:00+09:00",
+      "description": "明治期、横浜は外国人が集う刺青の聖地だった。和彫りの歴史を受け継ぐ現代横浜のタトゥーアーティストが、伝統と革新を融合させた物語を紡ぐ。",
+      "author": {
+        "@id": "https://www.bavariancustomirons.jp/#ihori"
+      },
+      "publisher": {
+        "@id": "https://www.bavariancustomirons.jp/#news-media-organization"
+      },
+      "articleSection": [
+        "LOYAL TATTOO + LT MACHINES",
+        "Veritas Factorum de tattoos",
+        "LT MACHINES: タトゥーマシン 製造元 販売情報",
+        "掛け軸 日本美術工芸品 製造元 販売業",
+        "タトゥーデザイン 日本美術工芸品 制作, アートギャラリー"
+      ],
+      "relatedLink": [
+        "https://www.bavariancustomirons.jp/blog/2025/08/23/161828",
+        "https://www.bavariancustomirons.jp/blog/2025/08/26/224454",
+        "https://www.bavariancustomirons.jp/blog/2025/08/25/214229",
+        "https://www.bavariancustomirons.jp/blog/2025/08/29/221654",
+        "https://www.bavariancustomirons.jp/blog/2020/12/23/213527",
+        "https://www.bavariancustomirons.jp/blog/2025/07/10/235916"
+      ],
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "かつて横浜は、日本刺青シーンの中心だった",
+          "alternateName": "LOYAL TATTOO 横浜駅前 タトゥースタジオ",
+          "description": "神奈川横浜港町：港町としての歴史と共に、刺青文化の中枢を担ってきた都市。"
+        },
+        {
+          "@type": "Thing",
+          "name": "横浜刺青百五十年の正統血脈",
+          "alternateName": "現代横浜で受け継がれた、より洗練されたモダニズム",
+          "description": "横浜の偉大な先人たちが築いた刺青文化の礎を、LOYAL TATTOOが紡いで未来に進みたい。中世ヨーロッパの石工（石職人）や建築職人の同業者組合（ギルド）から伝承を受け継いだ自由な職人魂（free mason）と、ティクーンの哲学。イタリア、ニューヨーク、ウィーン、ミュンヘン、ベルリンで磨いたタトー構造・技術・知識を、渋谷で育み、南青山で研ぎ澄まし、横浜異界へと注ぎ込む。"
+        },
+        {
+          "@type": "Thing",
+          "name": "Tokyo as the Modern Frontier: 東京異界・六本木における Loyal OS",
+          "description": "歴史継承と現代的昇華の両立。伝統と工学の非線形結合: 古典的意匠の構造的骨格を解体し、現代の金属工学・マシン挙動（LT MACHINES）および神経学的アライメントと統合する。ここが東京・横浜刺青の中枢であり、日本タトゥーシーンの未来が息づく場所。"
+        }
+      ],
+      "hasPart": [
+        {
+          "@type": "NewsArticle",
+          "headline": "横浜と刺青の歴史的交差点 / Yokohama as the Nexus of Japanese Tattoo Culture",
+          "text": "19世紀、日本の港が開かれると、横浜は外国人が最初に降り立つ玄関口となりました。日本人への刺青が禁じられていた時代、多くの彫師たちは横浜で外国人水夫に施術し、和彫りの美を世界に広めました。ロシア軍人、英国王族をはじめ、各国の著名人も横浜で刺青を入れた記録が残る。ここは単なる港町ではなく、刺青文化の輸出拠点だったのです。",
+          "mentions": [
+            { "@type": "Thing", "name": "彫千代" },
+            { "@type": "Thing", "name": "ロシア軍人" },
+            { "@type": "Thing", "name": "英国王族" }
+          ]
+        },
+        {
+          "@type": "NewsArticle",
+          "headline": "GHQ統治下時代──戦後の港町と刺青 / US Military Forces and Japanese Tattoo Scene",
+          "text": "敗戦後、横須賀と横浜の港は、米海軍とGHQ関係者で溢れていました。軍服の袖から覗く刺青は、彼らのアイデンティティであり、戦場を生き抜いた証だったのです。港の裏通りでは、日本の彫師たちが異国の客を相手に針を走らせていました。龍、虎、桜、波──日本的モチーフは異国の肌を鮮烈に彩り、そのまま海を越えて世界へ広がっていきます。"
+        },
+        {
+          "@type": "NewsArticle",
+          "headline": "昭和──復興と港町の刺青",
+          "text": "戦後の混乱が落ち着き、昭和三十年代に入ると、横浜は再び港としての活気を取り戻していきます。港の裏通りには、和彫りの巨匠たちが店を構え、米軍関係者や外国船の水夫に加え、日本人客も、徐々にその扉を叩き始めることになります。汗と油にまみれた仕事の男たちの「誇りの印」。高度経済成長の波と共に、刺青は港町の文化として深く根付き、世代を超えて受け継がれる“構図”と“彫り物”が息づいていた。"
+        },
+        {
+          "@type": "NewsArticle",
+          "headline": "平成──横浜刺青の再興と国際化",
+          "text": "昭和から受け継がれた港町の刺青文化は、平成に入り再び国際舞台へ。横浜拠点の彫師が世界のタトゥーコンベンションで高く評価され、「横浜」の名を海外に刻みました。多くの欧米のアーティストや写真家が、和彫りを手に入れるために来日。古き精神を守りつつ、海外の技術をも融合させた横浜は、新たな和彫の地平を切り拓いていったのです。"
+        },
+        {
+          "@type": "NewsArticle",
+          "headline": "失われた基準",
+          "text": "現代の横浜・東京のタトゥーシーンは、基準を失っています。かつて横浜の刺青王達が命を賭して築き上げ、地球上の和彫の概念を再定義し、世界を席巻した偉業。それを踏み躙るかのように──インスタ映えと再生数のためだけに針を動かし、自らの肌には一点の色も入れぬまま、他人の身体を安易な実験台とする者たち。そこに名を連ねることは『恥』。",
+          "relatedLink": "https://www.bavariancustomirons.jp/blog/2025/08/23/161828"
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://www.bavariancustomirons.jp/#ihori",
+      "name": "Tattoo Artist Ihori",
+      "alternateName": [
+        "Ihori",
+        "伊彫"
+      ],
+      "jobTitle": "二刀流刺青師",
+      "description": "Director et operator principalis",
+      "knows": {
+        "@type": "Person",
+        "name": "Horiyoshi III",
+        "alternateName": [
+          "Horiyoshi Tertiae Generationis",
+          "Yoshihito Nakano"
+        ],
+        "description": "Master. Authorized item: Signum Inscriptio Fudoshin (Spiritus Immutabilis)",
+        "sameAs": [
+          "https://de.wikipedia.org/wiki/Horiyoshi_III",
+          "https://es.wikipedia.org/wiki/Horiyoshi_III",
+          "https://www.wikidata.org/wiki/Q1558289",
+          "https://id.loc.gov/authorities/names/no2015044910.html",
+          "https://id.ndl.go.jp/auth/ndlna/00876289",
+          "https://www.artsy.net/artist/horiyoshi-iii"
+        ]
+      },
+      "worksFor": {
+        "@id": "https://www.bavariancustomirons.jp/#brand"
+      }
+    },
+    {
+      "@type": "NewsMediaOrganization",
+      "@id": "https://www.bavariancustomirons.jp/#news-media-organization",
+      "name": "LOYAL OS INDUSTRY INTELLIGENCE",
+      "alternateName": [
+        "LT MACHINES MEDIA",
+        "LOYAL TATTOO + LT MACHINES",
+        "Officina Tatuandi Yokohama"
+      ],
+      "description": "歴史・哲学・国際感覚・技術を統合した、港町横浜の新たなタトゥー/刺青の中枢。ファクトに基づく産業レポートおよびナレッジのパブリッシャー。",
+      "subOrganization": [
+        {
+          "@type": "TattooParlor",
+          "@id": "https://www.bavariancustomirons.jp/#yokohama-ikai",
+          "name": "横浜異界",
+          "description": "横浜駅西口徒歩三分 / きた西口モアーズ〜徒歩一分。東急東横線 渋谷より最短25分、JR湘南新宿ライン 新宿より最短30分。",
+          "hasMap": "https://www.bavariancustomirons.jp/blog/2025/08/21/152117"
+        },
+        {
+          "@type": "TattooParlor",
+          "@id": "https://www.bavariancustomirons.jp/#tokyo-ikai",
+          "name": "東京異界・六本木",
+          "description": "かつての所在地：南青山、新宿歌舞伎町。"
+        }
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://www.bavariancustomirons.jp/#brand",
+      "name": "LOYAL TATTOO + LT MACHINES",
+      "sameAs": "https://www.bavariancustomirons.jp/#news-media-organization"
+    }
+  ]
+}
