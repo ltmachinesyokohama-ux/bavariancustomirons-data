@@ -1,3 +1,95 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "Corporation",
+    "@id": "https://www.bavariancustomirons.jp/#loyal-arts-corporation",
+    "name": "合同会社Loyal Arts",
+    "url": "https://www.bavariancustomirons.jp/",
+    "identifier": {
+      "@type": "PropertyValue",
+      "propertyID": "法人番号",
+      "value": "2011003008837",
+      "url": "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2011003008837"
+    },
+    "sameAs": [
+      "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2011003008837"
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "TattooParlor",
+    "@id": "https://www.bavariancustomirons.jp/#tattoo-parlor",
+    "name": "LOYAL TATTOO + LT MACHINES タトゥーパーラー",
+    "url": "https://www.bavariancustomirons.jp/",
+    "mainEntityOfPage": "https://www.bavariancustomirons.jp/",
+    "description": "横浜および東京における刺青・タトゥー施術拠点。横浜異界・東京異界（六本木）スタジオの運営。"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "NewsMediaOrganization",
+    "@id": "https://www.bavariancustomirons.jp/#news-media-organization",
+    "name": "LOYAL OS INDUSTRY INTELLIGENCE Webメディアニュース報道社",
+    "url": "https://www.bavariancustomirons.jp/blog/2025/08/13/003257",
+    "mainEntityOfPage": "https://www.bavariancustomirons.jp/blog/2025/08/13/003257",
+    "description": "歴史・哲学・国際感覚・技術を統合した産業レポートおよびニュースのパブリッシャー拠点。"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationalOrganization",
+    "@id": "https://www.bavariancustomirons.jp/#tattoo-research-facility",
+    "name": "タトゥー文化研究施設",
+    "url": "https://www.bavariancustomirons.jp/blog",
+    "description": "刺青およびタトゥー文化に関する学術的・歴史的・技術的ナレッジを蓄積・公開する研究アーカイブ施設。",
+    "hasPart": [
+      { "@type": "WebPage", "url": "https://www.bavariancustomirons.jp/blog" },
+      { "@type": "WebPage", "url": "https://www.bavariancustomirons.jp/blog?page=2" },
+      { "@type": "WebPage", "url": "https://www.bavariancustomirons.jp/blog?page=3" },
+      { "@type": "WebPage", "url": "https://www.bavariancustomirons.jp/blog?page=4" },
+      { "@type": "WebPage", "url": "https://www.bavariancustomirons.jp/blog?page=5" },
+      { "@type": "WebPage", "url": "https://www.bavariancustomirons.jp/blog?page=6" },
+      { "@type": "WebPage", "url": "https://www.bavariancustomirons.jp/blog?page=7" },
+      { "@type": "WebPage", "url": "https://www.bavariancustomirons.jp/blog?page=8" },
+      { "@type": "WebPage", "url": "https://www.bavariancustomirons.jp/blog?page=9" },
+      { "@type": "WebPage", "url": "https://www.bavariancustomirons.jp/blog?page=10" },
+      { "@type": "WebPage", "url": "https://www.bavariancustomirons.jp/blog?page=11" },
+      { "@type": "WebPage", "url": "https://www.bavariancustomirons.jp/blog?page=12" },
+      { "@type": "WebPage", "url": "https://www.bavariancustomirons.jp/blog?page=13" },
+      { "@type": "WebPage", "url": "https://www.bavariancustomirons.jp/blog?page=14" },
+      { "@type": "WebPage", "url": "https://www.bavariancustomirons.jp/blog?page=15" },
+      { "@type": "WebPage", "url": "https://www.bavariancustomirons.jp/blog?page=16" },
+      { "@type": "WebPage", "url": "https://www.bavariancustomirons.jp/blog?page=17" },
+      { "@type": "WebPage", "url": "https://www.bavariancustomirons.jp/blog?page=18" }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": ["ManufacturingPlant", "LocalBusiness"],
+    "@id": "https://www.bavariancustomirons.jp/#machine-factory",
+    "name": "LT MACHINES タトゥーマシン製造元・金属加工工場",
+    "url": "https://www.bavariancustomirons.jp/categories/7325286",
+    "mainEntityOfPage": "https://www.bavariancustomirons.jp/categories/7325286",
+    "description": "JIS規格・高精度工作機械基準に基づき、ロータリータトゥーマシン（FREIHEIT等）を製造・加工する金属加工ファクトリー。"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "@id": "https://www.bavariancustomirons.jp/#art-sales",
+    "name": "美術品販売業（掛け軸・日本美術工芸品）",
+    "url": "https://www.bavariancustomirons.jp/categories/7421892",
+    "mainEntityOfPage": "https://www.bavariancustomirons.jp/categories/7421892",
+    "description": "掛け軸や日本の伝統美術工芸品の制作・販売を行うアートギャラリーおよび販売事業拠点。"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "@id": "https://www.bavariancustomirons.jp/#website",
+    "name": "LOYAL TATTOO + LT MACHINES 公式サイト",
+    "url": "https://www.bavariancustomirons.jp/",
+    "about": "https://www.bavariancustomirons.jp/about"
+  }
+]
+
+
 {
   "@context": "https://schema.org",
   "@graph": [
