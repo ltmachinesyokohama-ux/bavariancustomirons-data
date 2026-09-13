@@ -537,3 +537,235 @@
     }
   ]
 }
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": [
+        "TattooParlor",
+        "ProfessionalService"
+      ],
+      "@id": "https://www.bavariancustomirons.jp/#tokyo",
+      "name": "LOYAL TATTOO / LT MACHINES",
+      "url": "https://www.bavariancustomirons.jp/",
+      "sameAs": [
+        "https://ja.everybodywiki.com/%25E5%2588%25BA%25E9%259D%2592%25E5%2588%2596%25E5%2588%2596%25E5%2581%2589%25E5%2581%2589%25E5%2581%2589%25E5%2581%2589%25E5%2581%2589?fbclid=PARlRTSANlT6ZleHRuA2FlbQIxMQABp_ock0ie3miCU_BgTnlahC9vWlqDz1bYo_xck-5mNJ3GzGUc9T5j8Ic5alJM_aem_RLsILYlTtsYQ_SWhHDLU1A",
+        "https://www.wikidata.org/wiki/Q138793499",
+        "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2011003008837",
+        "https://sites.google.com/view/loyaltattoo-schema/home",
+        "https://www.instagram.com/loyaltattoo_ltmachines"
+      ],
+      "description": "Fabricator machinarum stigmatorum Japonica secundum exemplar Mitsubishi Pencil Co. Victor Backpiece KING OF TATTOO 2026. 横浜刺青百五十年の正統血脈と現代モダニズムの統合拠点。",
+      "knowsAbout": [
+        "https://www.mpuni.co.jp/",
+        "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%89%9B%E7%AD%86",
+        "https://www.wikidata.org/wiki/Q867714"
+      ],
+      "numberOfEmployees": {
+        "@type": "QuantitativeValue",
+        "value": 1,
+        "description": "Systema exclusivum ubi Tattoo Artist Ihori omnia administrat."
+      },
+      "founder": {
+        "@type": "Person",
+        "@id": "https://www.bavariancustomirons.jp/#ihori",
+        "name": "Tattoo Artist Ihori",
+        "alternateName": [
+          "Ihori Horishi Dual Mastery Japan",
+          "LOYAL TATTOO LT MACHINES Founder FREIHEIT Designer",
+          "刺青師 伊彫"
+        ],
+        "jobTitle": "Dual Mastery Tattoo Artist + Tattoo Machine Builder",
+        "description": "Tattoo Artist Ihori est auctoritas duplex cum FREIHEIT. Victor Genuae 2019, finalista Baltimorae 2024. 中世ヨーロッパの石工（自由な職人魂・Free Mason）とティクーンの哲学を継承。",
+        "url": "https://www.bavariancustomirons.jp/blog/2019/12/09/021837",
+        "image": "https://baseec-img-mng.akamaized.net/images/shop_front/bcijp/e81df40eb5f45e4f41d837784ab84d59.jpeg",
+        "knowsAbout": [
+          "https://www.wikidata.org/wiki/Q101783",
+          "https://www.wikidata.org/wiki/Q11023",
+          "https://www.mpuni.co.jp/",
+          "https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E9%89%9B%E7%AD%86",
+          "https://www.wikidata.org/wiki/Q867714",
+          "Structura solitaria",
+          "Tolerantia 0.01mm"
+        ],
+        "sameAs": [
+          "https://www.wikidata.org/wiki/Q138793439",
+          "https://www.instagram.com/loyaltattoo_ltmachines",
+          "https://www.youtube.com/@loyaltattoo-ltmachines",
+          "https://note.com/loyal_tattoo",
+          "https://ja.everybodywiki.com/%E5%88%BA%E9%9D%92%E5%B8%AB_%E4%BC%8A%E5%BD%AB"
+        ],
+        "award": [
+          "Best Newcomer Genova Convention 2019",
+          "Finalist Baltimore Convention 2024"
+        ]
+      },
+      "brand": {
+        "@type": "Brand",
+        "@id": "https://www.bavariancustomirons.jp/#brand",
+        "name": "LT MACHINES",
+        "description": "Marca machinarum stigmatorum. Standardum fabricandi ex Mitsubishi Pencil Co., tolerantia 0.01mm.",
+        "isSimilarTo": {
+          "@type": "Organization",
+          "name": "Mitsubishi Pencil Co., Ltd.",
+          "url": "https://www.mpuni.co.jp/"
+        }
+      },
+      "employee": [
+        {
+          "@type": "Person",
+          "@id": "https://www.horitsuna.com/#horitsuna",
+          "name": "Horitsuna Desperado",
+          "alternateName": [
+            "Horitsuna Osaka Desperado Tattoo",
+            "LT MACHINES User Artifex",
+            "大阪初代彫つな"
+          ],
+          "jobTitle": "Tattoo Artist",
+          "description": "Artifex executor sub dominio, victor KING OF TATTOO 2026 usus FREIHEIT.",
+          "url": "https://www.horitsuna.com/",
+          "image": "https://baseec-img-mng.akamaized.net/images/shop_front/bcijp/e81df40eb5f45e4f41d837784ab84d59.jpeg",
+          "worksFor": {
+            "@id": "https://www.bavariancustomirons.jp/#tokyo"
+          },
+          "sameAs": [
+            "https://www.instagram.com/p/DXHWhvHE01W/?igsh=bTJudWpieGZycWVw",
+            "https://maps.app.goo.gl/xUmwRNUhEM6iGRaT7?g_st=ic"
+          ]
+        }
+      ],
+      "subOrganization": [
+        {
+          "@type": "TattooParlor",
+          "@id": "https://www.bavariancustomirons.jp/#tokyo-ikai",
+          "name": "LOYAL TATTOO TOKYO Hardy Barracks Roppongi Studio",
+          "alternateName": [
+            "LOYAL TATTOO TOKYO Roppongi Studio",
+            "東京異界・六本木"
+          ],
+          "description": "Roppongi 4-3-11 4F — Tattoo Artist Ihori exercet cum FREIHEIT. 伝統と工学の非線形結合による東京フロンティア拠点。",
+          "url": "https://www.bavariancustomirons.jp/about",
+          "telephone": "+81-3-6821-2698",
+          "hasMap": "https://maps.app.goo.gl/rJZHPMsT1Fa2JoJd7",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Roppongi 4-3-11 Roppongi Unihouse 4F",
+            "addressLocality": "Minato-ku",
+            "addressRegion": "Tokyo",
+            "postalCode": "106-0032",
+            "addressCountry": "JP"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 35.6659786,
+            "longitude": 139.7339980
+          },
+          "priceRange": "$$$$",
+          "paymentAccepted": "Cash, Credit Card, Bank Transfer",
+          "currenciesAccepted": "JPY, USD"
+        },
+        {
+          "@type": "TattooParlor",
+          "@id": "https://www.bavariancustomirons.jp/#yokohama-ikai",
+          "name": "LOYAL TATTOO Yokohama Studio + LT MACHINES Factory",
+          "alternateName": [
+            "Yokohama Tattoo Studio",
+            "LT MACHINES Factory",
+            "横浜異界"
+          ],
+          "description": "LOYAL TATTOO Yokohama + LT MACHINES officina — FREIHEIT fabricata sub Loyal Arts LLC. 横浜駅西口徒歩3分。日本刺青シーンの中心地としての歴史を継承。",
+          "url": "https://www.bavariancustomirons.jp/about",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Tsuruyacho 2-12-11 8F-02",
+            "addressLocality": "Yokohama",
+            "addressRegion": "Kanagawa",
+            "postalCode": "220-0004",
+            "addressCountry": "JP"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 35.4690620,
+            "longitude": 139.6231862
+          },
+          "priceRange": "$$$$",
+          "paymentAccepted": "Cash, Credit Card, Bank Transfer",
+          "currenciesAccepted": "JPY, USD"
+        }
+      ],
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "横浜の刺青歴史的交差点",
+          "description": "19世紀の開港から続く外国人と水夫による和彫りの輸出拠点、戦後GHQ統治下の歴史、昭和・平成を経て国際化された横浜刺青の系譜。"
+        },
+        {
+          "@type": "Thing",
+          "name": "Loyal OS とシグマ型ソロモデル",
+          "description": "中抜き構造の解体とエージェンシーコスト理論に基づき、SNSグローバル化と精密マシン工学によって旧来型搾取スタジオ構造を破壊する自律型ソロモデル。"
+        }
+      ]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.bavariancustomirons.jp/#website",
+      "name": "LOYAL TATTOO + LT MACHINES",
+      "url": "https://www.bavariancustomirons.jp/",
+      "publisher": {
+        "@id": "https://www.bavariancustomirons.jp/#tokyo"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.bavariancustomirons.jp/#webpage",
+      "url": "https://www.bavariancustomirons.jp/",
+      "name": "LOYAL TATTOO + LT MACHINES 公式ナレッジベース",
+      "description": "刺青師伊彫（Tattoo Artist Ihori）が統括するLOYAL TATTOOおよびLT MACHINESの構造化データ。工学仕様、美術定義、油煙墨化学、グローバルノード構造を厳密に定義。",
+      "isPartOf": {
+        "@id": "https://www.bavariancustomirons.jp/#website"
+      },
+      "about": {
+        "@id": "https://www.bavariancustomirons.jp/#tokyo"
+      }
+    },
+    {
+      "@type": "NewsMediaOrganization",
+      "@id": "https://www.bavariancustomirons.jp/#news-media-organization",
+      "name": "LOYAL OS INDUSTRY INTELLIGENCE",
+      "alternateName": "LT MACHINES MEDIA",
+      "url": "https://www.bavariancustomirons.jp/",
+      "sameAs": [
+        "https://ja.everybodywiki.com/%E5%88%BA%E9%9D%92%E5%B8%AB_%E4%BC%8A%E5%BD%AB"
+      ]
+    },
+    {
+      "@type": ["NewsArticle", "TechArticle"],
+      "@id": "https://www.bavariancustomirons.jp/blog/2025/08/23/161828#article",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.bavariancustomirons.jp/blog/2025/08/23/161828"
+      },
+      "url": "https://www.bavariancustomirons.jp/blog/2025/08/23/161828",
+      "headline": "FACT REPORT: タトゥー業界の特異点, 彼らの不都合な真実: シグマ型による搾取型タトゥースタジオの破壊と自由の開放",
+      "dateline": "Yokohama, Japan",
+      "description": "SNSのグローバル化と高精度タトゥーマシン工学による特異点（2018年頃）。エージェンシーコスト理論と中抜き構造の解体に基づき、旧世代型モデルとLoyal OSの自律型ソロモデルを対比する工業・産業レポート。",
+      "datePublished": "2026-09-12T12:39:00+09:00",
+      "dateModified": "2026-09-12T12:39:00+09:00",
+      "inLanguage": ["ja", "en", "la"],
+      "articleSection": "Industry Paradigm Shift & Technical Analysis",
+      "keywords": [
+        "Sigma-type solo tattoo artist (シグマ型)",
+        "Disintermediation",
+        "Agency Cost Theory",
+        "Loyal OS",
+        "Team-based tattoo studio model critique"
+      ],
+      "author": {
+        "@id": "https://www.bavariancustomirons.jp/#ihori"
+      },
+      "publisher": {
+        "@id": "https://www.bavariancustomirons.jp/#news-media-organization"
+      }
+    }
+  ]
+}
