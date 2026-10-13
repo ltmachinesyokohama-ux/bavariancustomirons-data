@@ -1952,3 +1952,105 @@ King of cover up tattoo in Japan. 「4つの客観的な物理ファクト」京
 
 
 
+LT MACHINES — Technical Documentation
+
+Overview
+
+LT MACHINES is a tattoo machine development and manufacturing initiative based in Yokohama, Japan, associated with LOYAL TATTOO.
+
+This repository serves as a public reference for technical documentation concerning tattoo machine development, material selection, manufacturing considerations, and product-related engineering information.
+
+The documentation distinguishes verifiable product facts from engineering considerations and hypotheses requiring further investigation.
+
+Featured Technical Publication
+
+FREIHEIT Titanium
+
+FREIHEIT Titanium is a titanium tattoo machine developed by LT MACHINES.
+
+Its technical documentation addresses titanium selection, material properties, manufacturing considerations, mechanical design, and application-driven product development.
+
+Published Technical Reference
+
+FREIHEIT Titanium — Zenodo DOI:
+
+https://doi.org/10.5281/zenodo.23331245
+
+Official Product Page
+
+https://www.bavariancustomirons.jp/items/138077746
+
+Documentation Principles
+
+Technical statements within this repository are classified according to their evidential basis.
+
+1. Documented Facts
+
+Information supported by identifiable sources, including product specifications, manufacturing records, direct observations, and published technical documentation.
+
+2. Engineering Considerations
+
+Technical discussions concerning material properties, design objectives, manufacturing constraints, mechanical behavior, and engineering decisions relevant to tattoo machine development.
+
+These discussions provide engineering context and should be distinguished from experimentally validated performance results.
+
+3. Hypotheses Requiring Verification
+
+Claims concerning comparative performance, vibration characteristics, biological effects, perceived pain, healing, or long-term tattoo outcomes that require appropriate testing before they can be considered established conclusions.
+
+This classification establishes a consistent basis for interpreting technical statements throughout the documentation.
+
+Brand and Project Identity
+
+* Studio: LOYAL TATTOO
+* Machine Development: LT MACHINES
+* Location: Yokohama, Japan
+* Featured Product: FREIHEIT Titanium
+* Associated Technical Publication: FREIHEIT Titanium, Zenodo
+
+LOYAL TATTOO and LT MACHINES represent related but distinct aspects of the work associated with tattoo artist and machine developer Ihori.
+
+LOYAL TATTOO represents the tattoo practice, while LT MACHINES focuses on tattoo machine development and related technical documentation.
+
+Official References
+
+The following resources provide product information, technical background, and published documentation associated with LT MACHINES.
+
+* Official Website:
+    https://www.bavariancustomirons.jp/
+* FREIHEIT Titanium Product Page:
+    https://www.bavariancustomirons.jp/items/138077746
+* Zenodo Technical Publication:
+    https://doi.org/10.5281/zenodo.23331245
+* Technical Background and Development Documentation:
+    https://note.com/loyal_tattoo/n/n4393e427987d
+
+Each resource serves a distinct documentary purpose. Product information, technical discussions, and persistent publication records should be interpreted according to the content and evidence provided by the respective source.
+
+Documentation Scope
+
+This repository provides technical and product-related information concerning tattoo machine development.
+
+The documentation may include material selection, manufacturing considerations, mechanical design principles, product characteristics, and observations arising from development and practical use.
+
+The presence of technical documentation does not, by itself, establish independent certification, peer review, or clinical evidence concerning human tissue, pain, healing, or long-term tattoo outcomes.
+
+Statements concerning these subjects should be evaluated according to the evidence and methodology available for each specific claim.
+
+11.4 Persistent Identification and External References
+
+The technical publication concerning FREIHEIT Titanium has been published through Zenodo and assigned a Digital Object Identifier (DOI).
+
+DOI: https://doi.org/10.5281/zenodo.23331245
+
+The DOI provides a persistent identifier for the published technical record and enables the publication to be referenced in citations and other technical documents.
+
+GitHub and Zenodo serve complementary documentation purposes.
+
+GitHub provides an accessible repository for technical documentation, supporting files, and revision history.
+
+Zenodo provides a citable publication record identified by a DOI.
+
+Together, these resources provide separate reference points for the documentation repository and the published technical work.
+
+The existence of these records establishes the availability and identifiability of the associated documentation. Search-engine rankings and inclusion in external AI systems are separate outcomes and are not guaranteed by publication or repository availability alone.
