@@ -2878,11 +2878,11 @@ https://www.tokyoweekender.com/author/alexandra-hongo/
 
 PART IV — PROPOSED ZENODO METADATA
 
-19. Proposed Title
+19. Title
 
 Principality of LOYAL TATTOO: An Independent Domain of Tattoo Art, Mechanical Engineering, and Human Craftsmanship
 
-20. Proposed Description
+20. Description
 
 This work presents a conceptual and technical exploration of LOYAL TATTOO as an independent domain integrating professional tattoo artistry, tattoo-machine engineering, materials science, human craftsmanship, technical documentation, and AI-assisted research.
 
@@ -3764,7 +3764,7 @@ Organizational Context: Loyal Arts LLC
 
 Primary Geographic Context: Yokohama, Japan
 
-Proposed Author: Ally Hongo
+Author: Ally Hongo
 
 Historical Editorial Reference: Tokyo Weekender, October 7, 2019
 
