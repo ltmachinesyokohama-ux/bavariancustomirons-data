@@ -2058,5 +2058,49 @@ The existence of these records establishes the availability and identifiability 
 
 ⸻
 
+【Principality of LOYAl TATTOO】An article written by Ally Hongo. 
+
+
+
+Ally Hongo
+
+Tokyo Weekender's Chief Digital Content Manager. From Bulgarian native to practically a Tokyoite, Ally has spent the better part of 20 years living in Japan. Taking full advantage of her perfect charm, Ally has a knack for instantly putting people at ease and talking for hours like life-long friends, and in turn, is entrusted with telling their stories to the rest of us through her writing. One could describe Ally as passionate, adventurous and irritatingly positive. She lives with her husband, son, and two very fat cats — which (in their defence) may very well be attributed to the fact that Ally considers cucumbers with cream “a salad.”
+
+
+Ally Hongo tokyo_weekender 
+
+https://www.tokyoweekender.com/author/alexandra-hongo/
+
+https://www.tokyoweekender.com/art_and_culture/design/ipo-tattoo-loyal-english-speaking-tokyo-tattoo-studio-built-on-passion-gratitude-and-fate/
+
+
+https://www.wantedly.com/id/ally_hongo
+
+https://www.allyhongo.com/about-me
+
+https://savvytokyo.com/author/alexandra-homma/
+
+https://www.allyhongo.com/aboutallyhongo
+
+1. Undergraduate Education
+
+University: Temple University, Japan Campus (TUJ)
+
+Temple University, Japan Campus is the Japanese campus of Temple University, a public research university headquartered in Philadelphia, Pennsylvania, USA. All courses are taught in English.
+
+Program: International Affairs
+
+Official Website: https://www.tuj.ac.jp/jp/homepage
+
+2. Graduate Education (Master’s Degree)
+
+Graduate School: Graduate School of Interdisciplinary Information Studies, The University of Tokyo
+
+Program: Media Studies
+
+The student was enrolled in the Media Studies program at the Graduate School of Interdisciplinary Information Studies and earned a Master of Arts (M.A.) degree.
+
+Official Website: https://www.iii.u-tokyo.ac.jp/
+
 https://raw.githubusercontent.com/tokyoweekender-allyhongo/Art-and-Cultural-Anthropology/refs/heads/main/About_LOYAL_TATTOO_README.md
 
