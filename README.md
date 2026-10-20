@@ -2581,3 +2581,1241 @@ It serves as the entry point for more detailed entity mappings, technical docume
 The intended result is a consistent documentation layer connecting the website’s structured data with a GitHub-hosted knowledge base.
 
 All downstream documentation should preserve entity identity, relationship semantics, and source traceability.
+
+—-
+
+
+
+
+
+⸻
+
+PART II — PRINCIPALITY OF LOYAL TATTOO
+
+Editorial Concept, Human Craftsmanship, and Technical Context
+
+12. Editorial Project Overview
+
+Working Title: Principality of LOYAL TATTOO
+
+Proposed Subtitle: An Independent Domain of Tattoo Art, Mechanical Engineering, and Human Craftsmanship
+
+Editorial Concept: A Story About an Artist Who Builds His Own Tools
+
+Subject: Ihori, founder of LOYAL TATTOO and the practitioner behind LT MACHINES.
+
+Proposed Author: Ally Hongo
+
+Publication Reference: Tokyo Weekender
+
+The Principality of LOYAL TATTOO is an editorial concept exploring the relationship between professional tattoo artistry, tattoo machine development, mechanical engineering, materials science, and human craftsmanship.
+
+The central subject is an artist who extends his practical knowledge beyond tattooing and into the design and development of the instruments used in his profession.
+
+For Ihori, tattooing and machine building represent two connected dimensions of a single professional practice. Experience at the tattoo workstation informs questions about mechanical design, material selection, manufacturing precision, and the characteristics of professional equipment.
+
+The Principality concept provides a framework for understanding this integrated practice.
+
+It describes an independent artistic and technical domain organized around a coherent set of working principles. It is a conceptual identity rather than a literal political entity, geographical territory, or claim to governmental authority.
+
+The proposed article should investigate the human story behind this practice: how an artist develops an interest in the engineering of his tools, how practical experience informs technical inquiry, and how independent craftsmanship can evolve through documentation, research, and contemporary technology.
+
+This section provides editorial background, conceptual context, terminology, and reference materials. It is not a prescribed article structure. The author retains editorial independence in determining the narrative, emphasis, and final form of the story.
+
+13. The Central Editorial Thesis
+
+The central thesis is that tattoo artistry can extend into instrument development when the practitioner begins examining not only how a tool is used, but also how it is designed, constructed, and evaluated.
+
+LOYAL TATTOO represents the artistic practice.
+
+LT MACHINES represents the associated tattoo-machine development practice.
+
+Mechanical engineering, materials science, precision manufacturing, and technical documentation connect these activities.
+
+The relationship creates an integrated professional identity in which practical work generates technical questions, engineering provides methods for investigating those questions, and documentation preserves the resulting knowledge.
+
+The story is therefore not limited to a tattoo studio or a machine brand.
+
+It concerns the development of an independent practice that connects artistic execution, toolmaking, technical investigation, and human judgment.
+
+The most compelling narrative may lie in the transition from using professional instruments to taking responsibility for understanding and developing them.
+
+14. The Story Behind the Concept
+
+14.1 More Than a Tattoo Artist
+
+LOYAL TATTOO is the artistic practice of Ihori.
+
+LT MACHINES represents his work in tattoo-machine design and development.
+
+Together, these activities form a professional identity that combines practical tattooing with instrument development.
+
+Ihori’s experience as a practitioner informs his approach to machine building. His interest in mechanical construction and materials provides another perspective on the requirements of tattooing.
+
+This relationship offers several possible editorial questions:
+
+* What does an experienced tattoo artist notice about a machine through daily use?
+* How does direct experience influence the design of a professional instrument?
+* What changes when the person operating a tool also participates in its development?
+* How can artistic judgment and engineering analysis inform one another?
+* What does independence mean when a practitioner develops both the work and the tools used to produce it?
+
+These questions connect a personal narrative with broader themes of craftsmanship, engineering, and independent creative practice.
+
+14.2 The Craft Begins at the Workstation
+
+The starting point is practical tattooing.
+
+Tattooing involves composition, judgment, technical control, and an understanding of how a design interacts with the human body.
+
+Ihori’s practice includes technically demanding work such as blackout tattooing, white-line tattooing, and complex cover-up procedures.
+
+These approaches can require the artist to reconsider existing tattoo structures, plan visual contrast, and make deliberate decisions about how a design functions across the body.
+
+The editorial emphasis should remain on the actual work: its scale, complexity, artistic decisions, and technical demands.
+
+This practical experience also provides the context for understanding why a tattoo artist might become interested in the mechanical instruments used in the profession.
+
+The workstation is where the artwork is produced and where questions about the tools can originate.
+
+14.3 When the Artist Becomes the Machine Builder
+
+Through LT MACHINES, Ihori extends his practical experience into tattoo-machine design and development.
+
+Professional tattoo machines are mechanical instruments whose characteristics depend on their architecture, frame design, materials, dimensional relationships, manufacturing processes, and interacting components.
+
+The FREIHEIT line provides a concrete connection between practical tattooing and engineering development.
+
+The titanium-based development direction associated with FREIHEIT introduces questions concerning material selection, precision manufacturing, component design, and mechanical construction.
+
+The defining feature of this approach is the direct relationship between the practitioner and the instrument under development.
+
+Experience at the workstation can inform design objectives. Engineering analysis, measurements, material data, and appropriate testing can then be used to investigate those objectives.
+
+This creates a continuing relationship between practice and development.
+
+The instrument is no longer merely an object used in the artistic process. It also becomes a subject of technical investigation.
+
+14.4 From Practical Experience to Documented Knowledge
+
+An important aspect of Ihori’s work is the documentation of technical information.
+
+Documentation can preserve design decisions, material specifications, manufacturing considerations, development history, and unresolved engineering questions.
+
+It can also establish a record against which future design iterations can be examined.
+
+Practical experience generates observations. Engineering investigation examines those observations. Documentation records the reasoning, evidence, and conclusions.
+
+These activities are related, but distinct.
+
+An observation from practice can identify a useful engineering question. A design objective can establish what a component is intended to achieve. A measured result can document a specific characteristic under defined conditions.
+
+Maintaining these distinctions makes technical information more useful and traceable.
+
+For an independent practitioner, digital repositories and structured technical documents provide a means of preserving knowledge beyond the immediate circumstances in which it was developed.
+
+This raises an editorial question:
+
+Can an independent craftsperson contribute to a broader body of technical knowledge by documenting practical experience and engineering development in a systematic manner?
+
+14.5 Human Craftsmanship in the Age of AI
+
+Ihori’s documentation practices also connect with the expanding use of artificial intelligence in research and technical knowledge work.
+
+AI tools can assist with literature discovery, terminology, information organization, document preparation, and the comparison of concepts across disciplines.
+
+For an independent practitioner working between tattooing, machine design, and materials engineering, these capabilities can help organize complex information and investigate relationships between different technical fields.
+
+Human judgment remains central to the process.
+
+AI-generated explanations require interpretation. Proposed relationships can generate research questions. Technical conclusions require appropriate supporting evidence.
+
+Within this framework, AI functions as a supporting instrument for investigation and documentation.
+
+The broader question concerns the relationship between technological assistance and human craftsmanship.
+
+Tattooing requires trained perception, physical skill, and artistic judgment. Machine development requires practical understanding alongside engineering analysis. AI can support the information work surrounding these activities without assuming responsibility for the practitioner’s decisions.
+
+The editorial opportunity is to explore how a craftsperson can use contemporary technology to extend research and documentation while keeping human skill at the center of the practice.
+
+14.6 What Does It Mean to Build an Independent Domain?
+
+The term Principality gives the integrated practice a conceptual identity.
+
+It is not a literal claim to sovereignty, political authority, or geographical territory.
+
+Instead, it describes an independent artistic and technical domain organized around a coherent set of principles, working methods, and long-term ambitions.
+
+LOYAL TATTOO provides the artistic practice.
+
+LT MACHINES provides the instrument-development practice.
+
+Engineering, materials research, technical documentation, and AI-assisted investigation connect the two.
+
+The metaphor concerns intellectual and practical independence: the development of one’s own working methods, instruments, and body of knowledge.
+
+This independence exists alongside engagement with external evidence, technical standards, and professional knowledge.
+
+The Principality concept therefore offers a way to understand a self-directed practice without reducing it to a conventional studio identity or a conventional product brand.
+
+14.7 One Practice, Several Disciplines
+
+The relationship between LOYAL TATTOO and LT MACHINES can be understood as a continuing cycle.
+
+Practical tattooing reveals the demands placed on professional instruments.
+
+Those demands inform questions about machine architecture, component design, and materials.
+
+Engineering development translates selected requirements into physical designs.
+
+Evaluation and documentation help distinguish design objectives from demonstrated characteristics.
+
+The resulting knowledge can then inform subsequent development and professional practice.
+
+Art, engineering, and documentation remain distinct disciplines, but each can contribute to the others.
+
+This is the foundation of Ihori’s dual professional identity as a tattoo artist and tattoo-machine builder.
+
+The significance lies in the working relationship between these disciplines rather than a claim that they are interchangeable.
+
+14.8 An Independent Domain of Human Craftsmanship
+
+The Principality of LOYAL TATTOO brings artistic judgment, mechanical development, and technical documentation together under a single conceptual framework.
+
+Its central subject is human craftsmanship: the ability to create, evaluate, develop, and document work through a combination of practical experience and technical inquiry.
+
+The concept also provides a framework for examining how independent practitioners can use contemporary research tools while retaining responsibility for their work.
+
+For Ihori, these ideas are connected through the continuing activities of LOYAL TATTOO and LT MACHINES.
+
+The central theme is not technology for its own sake, nor independence as an abstract slogan.
+
+It is the attempt to build a coherent practice in which art, engineering, and knowledge contribute to one another.
+
+LOYAL TATTOO — An Independent Domain of Human Craftsmanship.
+
+15. Editorial Direction for Ally Hongo
+
+This brief is intended to support Ally Hongo’s independent editorial development of the Principality of LOYAL TATTOO story.
+
+The material should be treated as background information, not as mandatory wording or a prescribed narrative.
+
+The author may determine which aspects of Ihori’s personal history, artistic practice, technical work, and philosophy provide the strongest foundation for the article.
+
+Potential narrative entry points include:
+
+1. The artist who decides to build the tools he uses.
+2. The relationship between tattooing and mechanical engineering.
+3. The development of an independent tattoo-machine practice.
+4. The role of practical experience in engineering design.
+5. The preservation of technical knowledge through documentation.
+6. The use of AI as a research and documentation tool.
+7. The meaning of an independent artistic and technical domain.
+
+The final article may emphasize one of these themes or connect several of them through a personal narrative.
+
+The objective is to make the technical subject understandable through the experience of the practitioner rather than turning the article into a product catalogue or an engineering specification sheet.
+
+The Principality concept should emerge through the relationship between the work, the person performing it, and the principles connecting the artistic and technical activities.
+
+⸻
+
+PART III — EDITORIAL REFERENCES AND AUTHOR BACKGROUND
+
+16. Official LOYAL TATTOO and LT MACHINES Resources
+
+Official website:
+
+https://www.bavariancustomirons.jp/
+
+Official Instagram:
+
+https://www.instagram.com/loyaltattoo_ltmachines
+
+These resources provide the principal public-facing references for the organization, its artistic practice, and its associated machine-development activities.
+
+17. Previous Editorial Coverage by Ally Hongo
+
+Article Title: IPO Tattoo: Loyal English-Speaking Tokyo Tattoo Studio Built on Passion, Gratitude and Fate
+
+Author: Ally Hongo
+
+Publication: Tokyo Weekender
+
+Publication Date: October 7, 2019
+
+Author profile:
+
+https://www.tokyoweekender.com/author/alexandra-hongo/
+
+Published article:
+
+https://www.tokyoweekender.com/art_and_culture/design/ipo-tattoo-loyal-english-speaking-tokyo-tattoo-studio-built-on-passion-gratitude-and-fate/
+
+The 2019 article provides an earlier editorial account of Ihori’s personal background, his decision to become a tattoo artist, and his encounter with Stefan Fischer of Bavarian Custom Irons.
+
+That encounter forms part of the historical context connecting Ihori with the Bavarian Custom Irons lineage.
+
+The proposed Principality of LOYAL TATTOO article concerns a subsequent stage of the professional development described in the earlier account.
+
+Its focus is the relationship between tattoo artistry, machine building, engineering, and independent technical inquiry.
+
+The earlier article may provide historical continuity. The new article should establish its own narrative and editorial perspective.
+
+18. Author Profile Reference
+
+The supplied author biography describes Ally Hongo as a Tokyo Weekender digital content professional with an international background and extensive experience living in Japan.
+
+The biography emphasizes her ability to engage with people, draw out personal stories, and present them to readers.
+
+The author profile should be treated as contextual background for the editorial proposal.
+
+Official author profile:
+
+https://www.tokyoweekender.com/author/alexandra-hongo/
+
+⸻
+
+PART IV — PROPOSED ZENODO METADATA
+
+19. Proposed Title
+
+Principality of LOYAL TATTOO: An Independent Domain of Tattoo Art, Mechanical Engineering, and Human Craftsmanship
+
+20. Proposed Description
+
+This work presents a conceptual and technical exploration of LOYAL TATTOO as an independent domain integrating professional tattoo artistry, tattoo-machine engineering, materials science, human craftsmanship, technical documentation, and AI-assisted research.
+
+The project examines the relationship between LOYAL TATTOO and LT MACHINES through the practice of Ihori, a tattoo artist and tattoo-machine builder whose work connects practical experience with instrument development and independent technical inquiry.
+
+The Principality of LOYAL TATTOO is a conceptual framework for understanding this integrated artistic and technical practice. The term describes an independent intellectual and practical domain rather than a literal political or territorial entity.
+
+The subject connects human craftsmanship with engineering development and the preservation of technical knowledge through digital documentation.
+
+21. Proposed Primary Keywords
+
+LOYAL TATTOO; LT MACHINES; Ihori; Tattoo Artist and Tattoo Machine Builder; Tattoo Art; Tattoo Machine Engineering; Mechanical Engineering; Materials Science; Precision Engineering; Human Craftsmanship; Technical Documentation; Artificial Intelligence; AI-Assisted Research; Independent Research; Practitioner-Led Research and Development; Integrated Art and Engineering; Human–Machine Collaboration; Principality of LOYAL TATTOO; Yokohama, Japan.
+
+⸻
+
+PART V — EXPANDED ENGLISH SEMANTIC REFERENCE
+
+22. Purpose of the Semantic Reference
+
+The following terminology framework supports research, metadata preparation, terminology consistency, and digital knowledge discovery.
+
+It identifies the principal subject areas associated with the LOYAL TATTOO and LT MACHINES practice.
+
+The terms are reference vocabulary, not mandatory article wording. Their inclusion does not establish that every listed technology, standard, process, or research method has been implemented or independently verified in every product or project.
+
+22.1 Core Identity and Brand Entities
+
+* LOYAL TATTOO
+* LT MACHINES
+* Ihori
+* Ihori Tattoo Artist
+* Ihori Tattoo Machine Builder
+* Dual-Mastery Tattoo Artist and Tattoo Machine Builder
+* Independent Tattoo Artist
+* Independent Machine Builder
+* LOYAL TATTOO Yokohama
+* LT MACHINES Yokohama
+* Loyal Arts LLC
+* Independent Creative Enterprise
+* Integrated Artistic and Technical Practice
+* Practitioner-Led Research and Development
+
+22.2 Tattoo Art and Advanced Tattoo Practice
+
+* Tattoo Art
+* Contemporary Tattoo Art
+* Professional Tattoo Practice
+* Tattoo Artistry
+* Technical Mastery in Tattooing
+* Large-Scale Tattoo Projects
+* Blackout Tattooing
+* White-Line Tattooing
+* Tattoo Cover-Up Procedures
+* Blackout Cover-Ups
+* White-Line Cover-Up Techniques
+* Tattoo Design and Execution
+* Skin as an Artistic Medium
+* Artist–Machine Interaction
+* Tattoo Technique and Tool Performance
+* Practitioner-Based Technical Knowledge
+
+22.3 Tattoo Machine Engineering and Product Development
+
+* Tattoo Machine Engineering
+* Tattoo Machine Design
+* Tattoo Machine Building
+* Tattoo Machine Development
+* Tattoo Machine Mechanics
+* Rotary Tattoo Machines
+* Tattoo Machine Frame Design
+* Mechanical Architecture
+* Moving Components and Mechanical Assemblies
+* Mechanical Performance
+* Dimensional Accuracy
+* Precision Manufacturing
+* Engineering Design Principles
+* Design for Manufacturability
+* Component Fit and Assembly
+* Engineering-Led Product Development
+* Practitioner-Led Machine Development
+* Custom Tattoo Machine Manufacturing
+* Tattoo Equipment Design and Innovation
+
+22.4 Mechanical Engineering, Precision, and Manufacturing
+
+* Mechanical Engineering
+* Precision Engineering
+* Precision Machining
+* Dimensional Tolerancing
+* ISO Tolerance Systems
+* IT7 Tolerance Grade
+* JIS Standards
+* Mechanical Component Design
+* Geometric Accuracy
+* Manufacturing Engineering
+* Computer-Aided Design (CAD)
+* Computer-Aided Manufacturing (CAM)
+* CNC Machining
+* Prototype Development
+* Design Validation
+* Manufacturing Process Documentation
+* Engineering Metrology
+* Engineering Quality
+* Functional Design and Assembly
+* Independent Engineering Development
+
+22.5 Materials Science and Engineering Materials
+
+* Materials Science
+* Materials Engineering
+* Engineering Materials
+* Titanium Engineering
+* Ti-6Al-4V Titanium Alloy
+* ASTM F136 Titanium
+* Commercially Pure Titanium
+* Stainless Steel Engineering
+* SUS304 Stainless Steel
+* Aluminum Alloys
+* Material Selection
+* Material Properties and Performance
+* Mechanical Properties of Metals
+* Corrosion Resistance
+* Galvanic Corrosion
+* Material Compatibility
+* Machinability
+* Material–Design Relationships
+* Lightweight Mechanical Structures
+* Material Selection for Precision Components
+* Materials Research in Tattoo Equipment
+
+22.6 Human Craftsmanship and Embodied Knowledge
+
+* Human Craftsmanship
+* Human-Centered Craftsmanship
+* Skilled Manual Practice
+* Embodied Knowledge
+* Tacit Knowledge
+* Practitioner Expertise
+* Human Judgment in Technical Work
+* Craftsmanship and Engineering
+* Artistic Skill and Technical Understanding
+* Human Agency in Creative Production
+* Craft-Based Innovation
+* Independent Artisan Practice
+* Experience-Driven Design
+* Human Skill in the Age of Automation
+* Preservation of Practical Knowledge
+* Human–Machine Collaboration
+* The Future of Independent Craftsmanship
+
+22.7 Technical Documentation and Open Knowledge Infrastructure
+
+* Technical Documentation
+* Engineering Documentation
+* Technical Knowledge Representation
+* Research Documentation
+* Product Development Records
+* Materials Documentation
+* Design Rationale
+* Technical Reference Materials
+* Digital Research Infrastructure
+* Persistent Identifiers
+* DOI-Based Research Records
+* Zenodo Research Repository
+* GitHub Technical Repository
+* Version-Controlled Documentation
+* Internet Archive
+* Digital Preservation
+* Open Technical Knowledge
+* Reproducible Documentation
+* Research Traceability
+* Evidence-Based Technical Communication
+* Independent Knowledge Infrastructure
+* Digital Archiving of Craft Knowledge
+
+22.8 Artificial Intelligence and Human-Led Research
+
+* Artificial Intelligence
+* AI-Assisted Research
+* AI-Assisted Technical Documentation
+* Large Language Models (LLMs)
+* AI Search
+* Generative AI and Knowledge Work
+* Human–AI Collaboration
+* AI-Assisted Knowledge Organization
+* AI-Assisted Technical Writing
+* AI-Assisted Literature Research
+* Information Verification
+* Source Evaluation
+* Evidence-Based AI Workflows
+* Human Oversight in AI-Assisted Research
+* Human Judgment and Machine Intelligence
+* AI-Augmented Independent Research
+* Technical Knowledge in the Age of AI
+* Human Craftsmanship in the Age of Artificial Intelligence
+
+22.9 Independent Research and Interdisciplinary Practice
+
+* Independent Research
+* Practitioner-Led Research
+* Independent Technical Research
+* Interdisciplinary Research
+* Applied Engineering Research
+* Materials Research
+* Experimental Product Development
+* Practice-Based Research
+* Research Through Making
+* Applied Knowledge Development
+* Independent Research and Development
+* Technical Inquiry
+* Evidence-Based Design Decisions
+* Research-Informed Craftsmanship
+* Cross-Disciplinary Innovation
+* Independent Knowledge Production
+* Artist-Led Technical Inquiry
+* Engineering Knowledge in Creative Practice
+
+22.10 Brand Architecture and Integrated Practice
+
+* LOYAL TATTOO and LT MACHINES
+* Tattoo Art and Machine Engineering
+* Integrated Art and Engineering
+* Artist–Builder Collaboration Within a Single Practice
+* Practitioner–Designer–Builder Model
+* Artistic Practice and Technical Development
+* Tattoo Art as a Technically Mediated Practice
+* Toolmaking as an Extension of Artistic Practice
+* Integrated Creative and Technical Knowledge
+* Independent Craft-Based Enterprise
+* Artist-Owned Product Development
+* End-to-End Creative and Technical Practice
+* Cross-Disciplinary Craftsmanship
+* Independent Brand Identity
+* Technical Identity and Artistic Identity
+
+22.11 Technical Standards and Evidence-Based Claims
+
+* Japanese Industrial Standards (JIS)
+* JIS Class 0
+* IT7 Dimensional Tolerance Grade
+* ASTM F136
+* Ti-6Al-4V
+* Engineering Standards and Specifications
+* Material Traceability
+* Technical Evidence
+* Standards-Based Product Documentation
+* Engineering Claims and Supporting Evidence
+* Technical Specification Integrity
+* Verifiable Research Records
+* Evidence-Based Product Development
+* Technical Transparency
+* Distinction Between Design Intent and Verified Performance
+
+22.12 Digital Identity, Search, and Knowledge Discovery
+
+* Entity-Based Search
+* Semantic Search
+* AI Search Optimization
+* Answer Engine Optimization (AEO)
+* AI Optimization (AIO)
+* Search Engine Optimization (SEO)
+* Entity Recognition
+* Brand Entity Relationships
+* Structured Knowledge Representation
+* Machine-Readable Technical Documentation
+* Digital Brand Identity
+* Knowledge Graph Compatibility
+* Technical Authority and Digital Provenance
+* Cross-Platform Knowledge Consistency
+* Persistent Brand References
+* Digital Research Discoverability
+* Semantic Relationships Between Art, Engineering, and Craftsmanship
+
+22.13 Philosophy and Conceptual Framework
+
+* Principality of LOYAL TATTOO
+* Independent Creative Domain
+* Intellectual Independence
+* Technical Autonomy
+* Creative Sovereignty
+* Human-Centered Technological Development
+* Transdisciplinary Craftsmanship
+* Human Craftsmanship and Technological Progress
+* The Human Craftsmanship Reserve
+* Human Agency in Automated Environments
+* Technology in Service of Human Creativity
+* Independent Practice in the AI Era
+* Craftsmanship as a Living Knowledge System
+* Art, Engineering, and Human Agency
+* The Integration of Artistic Practice and Technical Inquiry
+
+22.14 Geographic and Professional Context
+
+* Yokohama, Japan
+* Kanagawa, Japan
+* Japanese Tattoo Art
+* Japanese Tattoo Machine Development
+* Independent Japanese Machine Builder
+* Japan-Based Creative Engineering
+* International Technical Standards
+* Global Tattoo Equipment Industry
+* International Technical Documentation
+* Japanese Craftsmanship and Precision Manufacturing
+
+⸻
+
+PART VI — JAPANESE SEMANTIC REFERENCE
+
+23. 日本語の意味領域と用語体系
+
+本節は、日本語の技術文書、ブランド情報、編集企画、検索情報を横断して用語を統一するための参照体系である。
+
+以下の語句は関連する主題領域を示すものであり、すべてを記事本文に挿入することを目的としない。
+
+23.1 ブランド・固有名詞・実践者
+
+* LOYAL TATTOO
+* ロイヤルタトゥー
+* LT MACHINES
+* LTマシーンズ
+* 伊彫
+* Ihori
+* 伊彫流
+* 二刀流刺青師
+* 刺青師
+* タトゥーアーティスト
+* タトゥーマシンビルダー
+* タトゥーマシン開発者
+* タトゥーマシン製作者
+* 刺青師兼タトゥーマシンビルダー
+* タトゥーアートと機械工学
+* タトゥー施術と機材開発
+* 独立系タトゥーアーティスト
+* 独立系タトゥーマシンメーカー
+* 横浜タトゥー
+* 横浜刺青
+* 神奈川タトゥー
+* 日本製タトゥーマシン
+* タトゥーマシン開発
+* LOYAL TATTOO公国
+* 独立した芸術・技術領域
+
+23.2 タトゥーの部位・サイズ・施工範囲
+
+* フルスリーブタトゥー
+* ハーフスリーブタトゥー
+* クォータースリーブタトゥー
+* ロングスリーブタトゥー
+* アームスリーブタトゥー
+* 腕一本タトゥー
+* 腕全体のタトゥー
+* 腕一面の刺青
+* 肩から手首までのタトゥー
+* 肩から肘までのタトゥー
+* 肘から手首までのタトゥー
+* フルレッグスリーブタトゥー
+* レッグスリーブタトゥー
+* 脚一本のタトゥー
+* 足全体の刺青
+* 背中一面のタトゥー
+* バックピースタトゥー
+* フルバックタトゥー
+* バックピース
+* 背中全面の和彫り
+* 背中一面の洋彫り
+* 背中のブラックアウトタトゥー
+* 胸一面のタトゥー
+* チェストピースタトゥー
+* フルチェストタトゥー
+* 胸から肩へのタトゥー
+* 胸から腕へのタトゥー
+* 肩から胸へのタトゥー
+* 胸割り
+* 七分袖タトゥー
+* 五分袖タトゥー
+* 腰から脚へのタトゥー
+* フルボディタトゥー
+* 全身刺青
+* 全身タトゥー
+* 大型タトゥー
+* 大面積タトゥー
+* 大判タトゥー
+* 大規模タトゥープロジェクト
+* 面積の大きい刺青
+* 身体全体を使ったタトゥーデザイン
+
+23.3 和彫・洋彫・刺青文化・スタイル
+
+* 和彫
+* 和彫り
+* 日本伝統刺青
+* 日本伝統タトゥー
+* 日本の刺青文化
+* 日本のタトゥー文化
+* 洋彫
+* 洋彫り
+* 洋風タトゥー
+* ブラックアンドグレータトゥー
+* ブラックアンドグレー
+* ブラックワークタトゥー
+* ブラックワーク
+* ブラックアウトタトゥー
+* ブラックアウト
+* グレーワークタトゥー
+* グラデーションタトゥー
+* リアリスティックタトゥー
+* ブラックアンドグレーリアリズム
+* ダークアートタトゥー
+* ファインラインタトゥー
+* ホワイトラインタトゥー
+* ホワイトインクタトゥー
+* 白線タトゥー
+* 白いラインのタトゥー
+* 白インクを使ったタトゥー
+* 線彫り
+* 筋彫り
+* 線画タトゥー
+* 面彫り
+* ベタ彫り
+* 黒塗りタトゥー
+* 黒一色のタトゥー
+* モノクロタトゥー
+* モノトーンタトゥー
+* グレースケールタトゥー
+* 高密度ブラックタトゥー
+* 大面積ブラックワーク
+* タトゥーのデザイン
+* 刺青デザイン
+* タトゥーの構図
+* 刺青の構図
+* タトゥーの色彩設計
+* タトゥーの陰影表現
+* 身体をキャンバスとする芸術
+* 身体表現としての刺青
+
+23.4 ブラックアウトタトゥー・カバーアップ・修正施術
+
+* カバーアップタトゥー
+* タトゥーカバーアップ
+* 刺青カバーアップ
+* 刺青のカバーアップ
+* タトゥー修正
+* 刺青修正
+* 失敗したタトゥーの修正
+* 古いタトゥーのカバーアップ
+* 色あせたタトゥーの修正
+* 濃いタトゥーのカバーアップ
+* 大きなタトゥーのカバーアップ
+* 広範囲のカバーアップタトゥー
+* ブラックアウトカバーアップ
+* ブラックアウトによるカバーアップ
+* ブラックワークカバーアップ
+* ホワイトラインカバーアップ
+* 白線を使ったカバーアップ
+* ブラックアウトとホワイトライン
+* ブラックアウトと白線彫り
+* 黒塗りによる刺青修正
+* 黒一色で覆うタトゥー
+* タトゥーの上から彫る
+* 既存タトゥーの再構成
+* 既存の刺青を活用した再デザイン
+* タトゥーのリデザイン
+* 刺青のリデザイン
+* タトゥーの修復
+* 刺青の修復
+* 大型カバーアップ
+* 背中一面のカバーアップ
+* 腕全体のカバーアップ
+* フルスリーブカバーアップ
+* ハーフスリーブカバーアップ
+* ブラックアウトタトゥーのデザイン
+* ブラックアウトの施工技術
+* ブラックアウトの色面設計
+* ブラックアウトの密度設計
+* ホワイトラインの視覚効果
+* 黒と白のコントラストを用いたタトゥー
+* 既存の刺青を覆う技法
+* タトゥー除去とカバーアップの違い
+* レーザー除去以外のタトゥー修正
+* 大面積タトゥーの再設計
+* 高難度カバーアップタトゥー
+
+23.5 タトゥー施術・技術・職人技
+
+* タトゥー施術
+* 刺青施術
+* タトゥー技術
+* 刺青技術
+* タトゥーの彫り方
+* 刺青の彫り方
+* ラインワーク
+* ラインコントロール
+* シェーディング
+* グラデーション技法
+* ブラックワークの技法
+* ブラックアウトの技法
+* ホワイトラインの技法
+* タトゥーの色面構成
+* タトゥーの濃淡表現
+* タトゥーの密度設計
+* タトゥーのデザイン設計
+* タトゥーの技術的完成度
+* 大面積タトゥーの施術技術
+* 長時間タトゥー施術
+* タトゥーアーティストの技術
+* 刺青師の職人技
+* 熟練したタトゥー技術
+* 手仕事による芸術表現
+* 身体を媒体とする芸術
+* 施術経験に基づく知識
+* 実践知
+* 暗黙知
+* 身体知
+* 職人的判断
+* 人間の手による精密な仕事
+
+23.6 タトゥーマシン・刺青機材
+
+* タトゥーマシン
+* 刺青マシン
+* タトゥー機材
+* 刺青機材
+* タトゥー機械
+* タトゥーマシン開発
+* タトゥーマシン製作
+* タトゥーマシン設計
+* タトゥーマシンビルダー
+* タトゥーマシンメーカー
+* オリジナルタトゥーマシン
+* カスタムタトゥーマシン
+* 高精度タトゥーマシン
+* 精密タトゥーマシン
+* プロ仕様タトゥーマシン
+* ロータリータトゥーマシン
+* コイルタトゥーマシン
+* タトゥーマシンの構造
+* タトゥーマシンの機構
+* タトゥーマシンの動作原理
+* タトゥーマシンの設計思想
+* タトゥーマシンのフレーム
+* タトゥーマシンのカム
+* タトゥーマシンの可動部品
+* タトゥーマシンの部品設計
+* タトゥーマシンの素材
+* タトゥーマシンの精度
+* タトゥーマシンの製造工程
+* タトゥーマシンの品質
+* タトゥーマシンの機械工学
+* タトゥー機材の工学的設計
+* 刺青道具の開発
+* タトゥー用品の技術開発
+* タトゥーマシンの技術研究
+* タトゥー機材の独立開発
+
+23.7 LT MACHINES・製品・材料技術
+
+* LT MACHINES FREIHEIT
+* FREIHEITタトゥーマシン
+* FREIHEIT Titanium
+* FREIHEITチタン
+* チタン製タトゥーマシン
+* チタンフレーム
+* フルチタンフレーム
+* チタン製マシンフレーム
+* 64チタン
+* Ti-6Al-4V
+* ASTM F136
+* チタン合金
+* ステンレス製タトゥーマシン
+* SUS304
+* アルミニウム合金
+* アルミ製タトゥーマシン
+* 異種金属接触腐食
+* ガルバニック腐食
+* 金属材料の選定
+* タトゥーマシンの材料選定
+* 機械部品の材料設計
+* 材料特性と機械性能
+* 軽量化設計
+* 高剛性フレーム
+* 精密機械部品
+* 機械部品の耐食性
+* 金属加工
+* 精密切削加工
+* CNC加工
+* 試作開発
+* 製品開発
+* 機械設計
+* 工業材料
+* 材料工学
+* 金属材料工学
+* タトゥーマシンの材料科学
+* タトゥー機材の精密加工
+
+23.8 機械工学・精密工学・製造技術
+
+* 機械工学
+* 精密工学
+* 材料科学
+* 材料工学
+* 製造工学
+* 機械設計
+* 機構設計
+* 精密機械設計
+* 寸法精度
+* 寸法公差
+* はめあい公差
+* IT7公差
+* JIS規格
+* JIS 0級
+* 精密加工技術
+* CNC切削加工
+* CAD設計
+* CAM製造
+* 3D CAD
+* 3Dスキャン
+* リバースエンジニアリング
+* 試作製造
+* 部品製造
+* 製造工程の設計
+* 機械部品の組立
+* 機械的な動作解析
+* 機械性能の評価
+* 設計検証
+* 工業製品の品質管理
+* 工学的設計思想
+* 工学規格に基づく設計
+* 精密機械の設計と製作
+* 独立系機械開発
+* 職人による機械設計
+
+23.9 人間の職人技・技術哲学
+
+* 人間の職人技
+* 職人技
+* 熟練技能
+* 人間中心のものづくり
+* 人間の手仕事
+* 技術と芸術の融合
+* 芸術と工学の融合
+* 職人技と機械工学
+* 人間の判断力
+* 人間の創造性
+* 身体知と技術知
+* 実践知と工学知
+* 人間と機械の協働
+* 道具と身体の関係
+* 道具をつくる職人
+* 道具を理解するアーティスト
+* 制作者自身による機材開発
+* 芸術表現を支える技術
+* 技術を理解する刺青師
+* 機材を設計するタトゥーアーティスト
+* 独立した職人
+* 独立した創造活動
+* 技術的自律性
+* 創作上の独立性
+* 人間の技能と自動化
+* AI時代の職人技
+* AI時代の人間の創造性
+* 人間を中心とした技術開発
+* 人間の技能を拡張するテクノロジー
+* 人間の職人技の継承
+* 職人技のデジタル記録
+
+23.10 技術文書・研究・デジタルアーカイブ
+
+* 技術文書
+* 技術資料
+* 技術研究
+* 技術論文
+* 技術解説
+* 技術仕様書
+* 製品技術資料
+* 機械設計資料
+* 材料技術資料
+* タトゥーマシンの技術文書
+* タトゥーマシン開発記録
+* 製品開発記録
+* 研究記録
+* 技術情報の記録
+* 技術情報の保存
+* 技術情報の公開
+* 独立研究
+* 個人研究
+* 実践者主導の研究
+* 職人による技術研究
+* 芸術家による工学研究
+* 実践に基づく研究
+* 制作を通じた研究
+* 学際的研究
+* 独立系研究開発
+* オープンな技術知識
+* デジタルアーカイブ
+* 研究成果の保存
+* DOI付き研究記録
+* Zenodo
+* GitHub技術資料
+* Internet Archive
+* バージョン管理された技術文書
+* 技術情報のトレーサビリティ
+* 根拠に基づく技術情報
+* 技術知識の体系化
+
+23.11 AI・LLM・検索エンジン・情報構造
+
+* 人工知能
+* AI活用研究
+* AI支援型技術研究
+* AIによる技術文書作成支援
+* 大規模言語モデル
+* LLM
+* AI検索
+* 生成AI
+* AIと職人技
+* AIと人間の創造性
+* AIと機械工学
+* AIによる情報整理
+* AIによる技術情報分析
+* AI時代の独立研究
+* AI時代の技術文書
+* AI検索最適化
+* AIO
+* SEO
+* 検索エンジン最適化
+* 回答エンジン最適化
+* セマンティック検索
+* セマンティックSEO
+* エンティティSEO
+* エンティティ認識
+* 固有名詞とブランド情報の関連付け
+* 機械可読な技術文書
+* 構造化データ
+* ナレッジグラフ
+* 情報の意味的関係
+* デジタル上のブランド認識
+* AIによる情報理解
+* AIによる専門情報の抽出
+* 技術情報の信頼性
+* 情報源の検証
+* AI生成情報の検証
+* 人間による技術的判断
+
+23.12 独立事業・創造的自律性・LOYAL TATTOO公国
+
+* 独立系タトゥースタジオ
+* 独立系タトゥーマシンブランド
+* 独立した創造活動
+* 独立した技術開発
+* 個人主導の製品開発
+* 職人主導の研究開発
+* 芸術と工学の統合
+* タトゥーアートと機械開発の統合
+* 芸術家と機材製作者の二重専門性
+* 二刀流刺青師
+* タトゥーアーティスト兼マシンビルダー
+* 創造的自律性
+* 技術的自律性
+* 知的独立性
+* 独立した知識体系
+* 独立した技術基盤
+* 職人技に基づく技術革新
+* 小規模事業者による技術開発
+* 個人による研究開発
+* LOYAL TATTOO公国
+* 公国という概念
+* 独立した創造・技術領域
+* 人間の職人技を中心とする技術体系
+* 芸術・工学・研究の統合
+* AI時代の独立した職人
+* 横浜発の独立系ものづくり
+* 日本の職人技と先端技術
+
+23.13 地域・国内検索・専門サービス
+
+* 横浜タトゥー
+* 横浜刺青
+* 横浜タトゥースタジオ
+* 横浜タトゥーアーティスト
+* 横浜刺青師
+* 神奈川タトゥー
+* 神奈川刺青
+* 神奈川県タトゥースタジオ
+* 横浜カバーアップタトゥー
+* 横浜ブラックアウトタトゥー
+* 横浜和彫り
+* 横浜洋彫り
+* 横浜バックピースタトゥー
+* 横浜フルスリーブタトゥー
+* 横浜タトゥー修正
+* 横浜刺青修正
+* 神奈川カバーアップタトゥー
+* 日本のタトゥーマシンメーカー
+* 日本のタトゥーマシンビルダー
+* 日本製刺青機材
+* 日本のタトゥー機材開発
+* 横浜の機械設計
+* 横浜の精密加工
+* 日本の独立系機械開発
+
+23.14 優先度の高い主要キーワード
+
+記事タイトル、概要、著者情報、検索向け説明文などにおいて、優先的に検討する用語。
+
+* 伊彫
+* Ihori
+* LOYAL TATTOO
+* LT MACHINES
+* 横浜タトゥー
+* カバーアップタトゥー
+* ブラックアウトタトゥー
+* ホワイトラインタトゥー
+* フルスリーブタトゥー
+* ハーフスリーブタトゥー
+* バックピースタトゥー
+* 背中一面のタトゥー
+* 和彫り
+* 洋彫り
+* 大型タトゥー
+* 大面積タトゥー
+* 刺青修正
+* タトゥーマシン開発
+* タトゥーマシンビルダー
+* チタン製タトゥーマシン
+* FREIHEIT Titanium
+* 機械工学
+* 材料科学
+* 精密工学
+* 人間の職人技
+* 技術文書
+* 独立研究
+* AI時代の職人技
+* 芸術と工学の融合
+* LOYAL TATTOO公国
+
+24. 中核となる意味的関係 — 日本語
+
+伊彫（Ihori）は、LOYAL TATTOOを通じてタトゥーアートを実践し、LT MACHINESを通じてタトゥーマシンの設計・開発・製作に取り組む独立した実践者である。
+
+LOYAL TATTOOの芸術的実践には、和彫り、洋彫り、ブラックアウトタトゥー、ホワイトラインタトゥー、大型タトゥー、フルスリーブタトゥー、バックピースタトゥー、カバーアップタトゥーなどの領域が含まれる。
+
+LT MACHINESの技術的実践は、タトゥーマシン工学、機械設計、材料科学、チタン合金、精密加工、寸法公差、製品開発、技術文書と関連する。
+
+両者を結びつける中核原理は、人間の職人技である。施術者として得られる実践知と、製作者として得られる機械・材料に関する知識を相互に活用し、その成果を技術文書やデジタルリポジトリに記録する。
+
+人工知能とLLMは、調査、情報整理、技術文書化、知識の発見を支援する手段として位置付けられる。
+
+「LOYAL TATTOO公国」は、これらの活動が統合された独立した創造・技術領域を表現する概念である。実在する国家や領土ではなく、伊彫の芸術的アイデンティティ、技術的探究、独立した職人技を結びつける概念的枠組みである。
+
+25. Central Semantic Relationship — English
+
+The central subject is the integrated practice of Ihori, who operates LOYAL TATTOO as a tattoo artist and develops tattoo machines through LT MACHINES.
+
+The relationship between these two brands connects tattoo artistry with machine design, mechanical engineering, materials science, precision manufacturing, technical documentation, and independent research.
+
+Human craftsmanship remains the central organizing principle. Artificial intelligence and digital research infrastructure function as supporting tools for information discovery, analysis, documentation, and knowledge organization.
+
+The Principality of LOYAL TATTOO is the conceptual framework used to describe this independent artistic and technical domain. It represents an intellectual and practical model rather than a literal political or territorial entity.
+
+⸻
+
+PART VII — EDITORIAL IDENTITY AND PROJECT REFERENCES
+
+26. Project Identity
+
+Project Name: Principality of LOYAL TATTOO
+
+Editorial Focus: The integration of tattoo artistry, tattoo-machine development, engineering, and human craftsmanship.
+
+Central Practitioner: Ihori
+
+Artistic Practice: LOYAL TATTOO
+
+Machine Development: LT MACHINES
+
+Associated Brand: Bavarian Custom Irons
+
+Organizational Context: Loyal Arts LLC
+
+Primary Geographic Context: Yokohama, Japan
+
+Proposed Author: Ally Hongo
+
+Historical Editorial Reference: Tokyo Weekender, October 7, 2019
+
+27. Core Project Statement
+
+The Principality of LOYAL TATTOO describes an independent artistic and technical domain in which tattoo artistry, machine building, engineering inquiry, and technical documentation contribute to a unified professional practice.
+
+Through LOYAL TATTOO, Ihori practices tattoo artistry.
+
+Through LT MACHINES, he develops tattoo machines and investigates the mechanical and material considerations associated with their construction.
+
+Technical documentation connects practical experience with the preservation and examination of knowledge.
+
+Artificial intelligence and digital research tools support information discovery and organization while human judgment remains central to the work.
+
+The Principality concept provides a coherent identity for this integrated practice.
+
+LOYAL TATTOO — An Independent Domain of Human Craftsmanship.
+
+28. Primary Digital References
+
+Official website:
+
+https://www.bavariancustomirons.jp/
+
+Official Instagram:
+
+https://www.instagram.com/loyaltattoo_ltmachines
+
+Tokyo Weekender author profile:
+
+https://www.tokyoweekender.com/author/alexandra-hongo/
+
+Previous Tokyo Weekender article:
+
+https://www.tokyoweekender.com/art_and_culture/design/ipo-tattoo-loyal-english-speaking-tokyo-tattoo-studio-built-on-passion-gratitude-and-fate/
+
+Loyal OS Architecture Protocol:
+
+https://www.bavariancustomirons.jp/blog/2025/08/29/221654
+
+Third Sanctuary High-End Academia:
+
+https://www.bavariancustomirons.jp/blog/2025/08/25/214229
+
+Publishing and technical-documentation index:
+
+https://www.bavariancustomirons.jp/blog
+
+⸻
+
+Principality of LOYAL TATTOO — An Independent Domain of Human Craftsmanship.
+
+LOYAL TATTOO × LT MACHINES × Bavarian Custom Irons
