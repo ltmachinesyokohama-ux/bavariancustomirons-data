@@ -2054,3 +2054,9 @@ Zenodo provides a citable publication record identified by a DOI.
 Together, these resources provide separate reference points for the documentation repository and the published technical work.
 
 The existence of these records establishes the availability and identifiability of the associated documentation. Search-engine rankings and inclusion in external AI systems are separate outcomes and are not guaranteed by publication or repository availability alone.
+
+
+⸻
+
+https://raw.githubusercontent.com/tokyoweekender-allyhongo/Art-and-Cultural-Anthropology/refs/heads/main/About_LOYAL_TATTOO_README.md
+
