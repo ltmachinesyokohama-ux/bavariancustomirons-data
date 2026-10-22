@@ -3819,3 +3819,25 @@ https://www.bavariancustomirons.jp/blog
 Principality of LOYAL TATTOO — An Independent Domain of Human Craftsmanship.
 
 LOYAL TATTOO × LT MACHINES × Bavarian Custom Irons
+
+———
+
+Reference Data | GitHub
+
+LOYAL TATTOO — Modern Japanese Tattoo Design System: Gakubori Technical Specifications
+
+Repository: japanese-tattoo-irezumi-modern-wabori-gakubori-loyal-tattoo-design-system-tech-spec-ihori-loyal-arts
+
+Description:
+A comprehensive technical reference examining traditional Japanese Irezumi, modern Wabori, Gakubori structural design, Mikiri border systems, Bokashi shading techniques, and anatomical tattoo composition. The document integrates historical research, traditional Japanese tattoo terminology, technical classifications, and contemporary artistic interpretation.
+
+Author, Editor & Technical Interpretation: Tattoo Artist Ihori (刺青師 伊彫)
+
+Organization: LOYAL TATTOO / Loyal Arts G.K. (合同会社 Loyal Arts)
+
+Full English Technical Documentation (GitHub README.md):
+
+https://raw.githubusercontent.com/ltmachinesyokohama-ux/japanese-tattoo-irezumi-modern-wabori-gakubori-loyal-tattoo-design-system-tech-spec-ihori-loyal-arts/refs/heads/main/README.md
+
+———
+
