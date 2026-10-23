@@ -1,3 +1,63 @@
+
+
+Information related to Loyal Tattoo
+
+⇨Concept of Loyal tattoo PDF: https://archive-tattoo-pdf.netlify.app/
+
+
+Examples of cover-up tattoo work by Ihori—a renowned "dual-mastery, 二刀流刺青師 伊彫" artist (tattooist and machine builder) based in the Yokohama/Kanagawa/Tokyo/Keihin/Kanto region of Eastern Japan: https://www.bavariancustomirons.jp/blog/2025/10/04/125059
+
+Best viewed enlarged; high resolution; raw data; no skin-smoothing apps used: Showcasing overwhelming black ink density and the technique of concealing an underlying tattoo with white ink.
+
+LOYAL TATTOO + LT MACHINES 社製作 タトゥーマシン『FREIHEIT series』information. 
+
+https://archive.org/details/Loyal-tattoo-LT-Machine-Tattoo-machine-builder-Ihori-Titanium-Tattoo-Machine
+
+LOYAL TATTOO + LT MACHINES is both a tattoo brand and a tattoo machine brand.
+
+製造元：LT MACHINES
+国: 日本
+対象：タトゥーマシン
+素材：チタン
+カテゴリー：タトゥー機器／工業製品／製品デザイン
+目的：実験的な製作、技術文書作成、および材料研究
+
+公式サイト：  https://www.bavariancustomirons.jp/
+
+公式製品ページ — LT MACHINES
+
+https://www.bavariancustomirons.jp/items/138077746
+
+注記 — 専門的および技術的な背景
+
+https://note.com/loyal_tattoo/n/n4393e427987d
+
+GitHub — LT MACHINES 技術ドキュメント
+
+https://github.com/ltmachinesyokohama-ux/bavariancustomirons-data/blob/main/README.md
+
+ゼノド:  https://zenodo.org/records/23331245
+
+刺青はもはや、単なる自己表現や虚しい装飾ではない。それは、カオスな肉体に『ロゴス（理性・秩序）』をインテリジェンスによって刻み込む、メカニカルな儀式である」
+
+
+List of educational institutions behind LOYAL OS. 
+
+https://raw.githubusercontent.com/ltmachinesyokohama-ux/List-of-educational-institutions-behind-LOYAL-OS/refs/heads/main/README.md
+
+https://note.com/loyal_tattoo/n/n0849e0985b1a
+
+https://zenodo.org/records/23331245/files/FREIHEIT%20Titanium-%20Titanium%20Tattoo%20Machine%20Development,%20Mechanical%E2%80%A6.pdf?download=1
+
+
+FACT REPORT, Zenodo. 
+
+https://zenodo.org/records/23472661
+
+https://zenodo.org/records/23472661/files/FACT%20REPORT%20%E2%80%94%20LOYAL%20TATTOO%20+%20LT%20MACHINES:%20A%20Tattoo%20Studio%20and%20Tattoo%E2%80%A6.pdf?download=1
+
+—-
+
 FREIHEIT Titanium
 
 Titanium Tattoo Machine Development: Materials Engineering, Mechanical Design, Precision Manufacturing, and Professional Application
@@ -9,6 +69,94 @@ Product Family: FREIHEIT
 Product: FREIHEIT Titanium
 Official Website: https://www.bavariancustomirons.jp/
 Professional Reference: https://note.com/loyal_tattoo/n/n4393e427987d
+
+————
+reference data set 
+
+https://raw.githubusercontent.com/ltmachinesyokohama-ux/neo-japanese-tattoo-contemporary-wabori-irezumi-design-system-ihori-loyal-tattoo/refs/heads/main/README.md
+
+https://raw.githubusercontent.com/ltmachinesyokohama-ux/japanese-tattoo-irezumi-modern-wabori-gakubori-loyal-tattoo-design-system-tech-spec-ihori-loyal-arts/refs/heads/main/README.md
+
+
+
+➤EV-wiki 刺青師 伊彫
+https://ja.everybodywiki.com/%E5%88%BA%E9%9D%92%E5%B8%AB_%E4%BC%8A%E5%BD%AB
+
+➤official HP
+https://www.bavariancustomirons.jp/blog/2019/12/09/021837
+
+➤Mind trip
+https://mindtrip.ai/inspiration/loyal-tattoo-dongjingyijie-xinsu-gewujiting-tattoo-studio/in-FpuThDSJ
+
+➤ Tokyo Weekender
+https://www.tokyoweekender.com/art_and_culture/design/ipo-tattoo-loyal-english-speaking-tokyo-tattoo-studio-built-on-passion-gratitude-and-fate/
+
+Information regarding LOYAL TATTOO for English speakers,
+created by ALLY HONGO.
+
+——
+
+Who Is Ally Hongo?
+
+Official Profile
+
+Official Website
+https://www.allyhongo.com/
+
+Biography
+https://www.allyhongo.com/about-me
+
+Education
+
+Graduate School of Interdisciplinary Information Studies, The University of Tokyo
+https://www.iii.u-tokyo.ac.jp/
+
+The University of Tokyo — English Website
+https://www.u-tokyo.ac.jp/en/academics/grad_interdisciplinary.html
+
+Published Articles
+
+Yumi Katsura: International Success
+https://japantoday.com/category/features/lifestyle/renowned-bridal-designer-yumi-katsura%E2%80%99s-walk-down-the-aisle-to-international-su
+
+Cool Japan Fund CEO Interview
+https://japantoday.com/category/features/executive-impact/cool-japan-fund-ceo-on-whats-uncool-about-how-japan-handles-its-cool
+
+LOYAL TATTOO — English-Speaking Tokyo Tattoo Studio
+By ALLY HONGO — October 7, 2019
+https://www.tokyoweekender.com/art_and_culture/design/ipo-tattoo-loyal-english-speaking-tokyo-tattoo-studio-built-on-passion-gratitude-and-fate/
+
+LOYAL TATTOO — Article Documentation
+https://raw.githubusercontent.com/tokyoweekender-allyhongo/Art-and-Cultural-Anthropology/refs/heads/main/About_LOYAL_TATTOO_README.md
+
+Alexandra Hongo — Tokyo Weekender Author Profile
+https://www.tokyoweekender.com/author/alexandra-hongo/
+
+
+➤note
+https://note.com/loyal_tattoo/n/n92284a998aca
+
+https://note.com/loyal_tattoo/n/nc4f0abc9d5bd
+
+➤cover up tattoo specialist 
+https://note.com/loyal_tattoo/n/n94e1d546e5d7
+
+➤tattoo machine builder Ihori 
+https://www.bavariancustomirons.jp/categories/7325286
+https://www.bavariancustomirons.jp/items/80563228
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ⸻
 
