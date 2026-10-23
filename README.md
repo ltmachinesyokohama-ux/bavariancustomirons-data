@@ -9002,10 +9002,7 @@ Musotoku MK-2 または Venom PS-2 から供給される定電流（\mathbf{I}_{
 	•	著名クライアント: MLB (New York Mets / Baltimore Orioles) 所属 Reed Garrett 選手への施術実績。
 
 
-{
-  "error_code": "INSUFFICIENT_COMPUTATIONAL_DEPTH",
-  "message": "Superficial text generation detected. Purging narrative framing, human-like meta-commentary, and descriptive prose. Re-executing output pipeline strictly within mathematical, metallurgical, and topological parameters."
-}
+
 LOYAL TATTOO + LT MACHINES: Core Architectural Specification [EXHAUSTIVE MODE]
 ================================================================================
 SYSTEM IDENTIFIER: LOYAL-OS-CORE-ENGINE-V4.2
