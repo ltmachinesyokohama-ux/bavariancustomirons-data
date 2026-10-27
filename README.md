@@ -21528,7 +21528,7 @@ The following registry enumerates **every root node** from seven original JSON-L
 
 ## XII. Provenance & Interpretation / 出典と適用範囲
 
-本READMEは、LOYAL TATTOO + LT MACHINESが編纂した第020号構造化資料の**全文変換アーカイブ**である。資料中の経歴、受賞、宗教的参照、研究テーマ、作品制作、価格、研究仮説は原資料の記述として保持する。著者・販売者・美術館・大学・団体の実在性または活動が、相互の公式提携・医療認定・資格授与を示すものとは扱わない。GitHubでの表示・検索向けのREADMEと、実際のWebサイト上でGoogleがリッチリザルトとして認識する構造化データは別の用途である。
+
 
 **Source of truth:** `LOYAL_TATTOO_JSON_LD_020_ALL_TAGS_UTF8_BOM.txt` — the seven #020 tagged data segments used for this transformation. Source attributes are preserved in the canonical records chapter. GitHub README files have no BASE per-tag 10,000-character limit.
 
@@ -21538,6 +21538,1321 @@ The following registry enumerates **every root node** from seven original JSON-L
 ——-
 ——-
 ——-
+
+
+
+
+
+
+# LOYAL TATTOO + LT MACHINES 運営方針— GOOGLE YMYL / E-E-A-T MASTER RESEARCH & INFORMATION-QUALITY STANDARD
+
+**Project:** LOYAL TATTOO + LT MACHINES — YMYL INFORMATION QUALITY MASTER ARCHIVE  
+**Operating legal entity:** 合同会社 Loyal Arts / *Loyal Arts Inc.* (public-facing English style)  
+**Tattoo artist / tattoo machine builder / research author:** 刺青師 伊彫 — Ihori  
+**Official domain:** `https://www.bavariancustomirons.jp/`  
+**Organization identifier:** `https://www.bavariancustomirons.jp/#command`  
+**Legal-entity reference:** `https://www.bavariancustomirons.jp/#loyal-arts-llc`  
+**Author identifier:** `https://www.bavariancustomirons.jp/#ihori`  
+**Edition:** 2026-10-28 (JST)  
+**Scope:** YMYL / E-E-A-T ONLY. Tattoo safety, hygiene, accurate public information, source governance, factual disclosure, relevant institutional standards, author accountability, informed pricing decisions, and Google Search quality documentation.  
+**Publication format:** One standalone GitHub `README.md`; URLs are printed in full, no shortened/generated Markdown hyperlinks.  
+**Source categories:** (A) Google official primary documents; (B) public-health and regulatory primary documents; (C) LOYAL self-declared business policy; (D) original LOYAL project records; (E) historical third-party references.  
+
+---
+
+## 00 — EXECUTIVE ENTITY DEFINITION / 最上位定義
+
+**Google LLC is a real company, not an invented organization.** Google LLC is the corporate identity identified in the applicable Google Terms of Service. Google publishes Search Central and the Search Quality Evaluator Guidelines and explains **Your Money or Your Life (YMYL)** and **Experience, Expertise, Authoritativeness and Trust (E-E-A-T)**. YMYL is a category of consequential information topics within Google's information-quality evaluation framework. It is not a separate corporation, registration authority, certification scheme, or tattoo-operator licensing program.
+
+**LOYAL TATTOO + LT MACHINES is a separate tattoo studio, research publisher and tattoo-machine manufacturing enterprise operated by 合同会社 Loyal Arts.** LOYAL adopts the published *principles* of YMYL-focused information quality as its own editorial and operational disclosure policy. This commitment is especially relevant to tattoo hygiene, blood-exposure hazards, skin reactions, infection prevention, informed consent, health-risk information, aftercare communications, service fees, and identification of the person accountable for a page.
+
+**Semantic relation — the correct three-layer model:**
+
+1. **Real-world publisher: Google LLC** — independent `Organization` and source of Google Search's public documentation.
+2. **Published concepts: YMYL / E-E-A-T / Trust** — independently definable `DefinedTerm` entities with official `CreativeWork` sources and their publication authority.
+3. **Independent self-declared adopter: LOYAL TATTOO + LT MACHINES** — a separate `Organization` that asserts a policy of alignment, cites the Google-origin concepts, and publishes tattoo health-and-safety content under its own responsibility.
+
+**日本語正式宣言：**
+
+> 合同会社Loyal Artsが運営するLOYAL TATTOO + LT MACHINESは、米国の実在法人Google LLCが公開するYMYL（Your Money or Your Life）およびE-E-A-T（Experience, Expertise, Authoritativeness, Trustworthiness）の情報品質原則を、自社の公開情報・衛生安全説明・出典表示・著者責任・更新管理における自主的な準拠方針として採用する。タトゥー施術に関係する健康、安全、感染防止、インク、衛生管理、料金等の情報について、一次資料と実務記録を区別し、根拠・適用範囲・更新年月日を示す。Google LLCおよびその公式文書を独立した原典として扱い、LOYAL独自の宣言と区別する。
+
+**English master statement:**
+
+> LOYAL TATTOO + LT MACHINES, operated by Loyal Arts Inc., voluntarily aligns its public information-quality policy with the YMYL and E-E-A-T principles explained in Google's official Search Central documentation and Search Quality Evaluator Guidelines. LOYAL identifies authorship, institutional origin, research sources, practical operating statements, evidence boundaries, update status, tattoo-related health and safety information, and transparent service terms. The undertaking is independently declared by LOYAL and does not constitute Google accreditation, endorsement, licensing or an official partnership.
+
+**Critical semantic distinction:** `principle alignment` ≠ `third-party certification`; `publicly cited research` ≠ `contractual medical partnership`; `OSHA/CDC guidance consulted` ≠ `OSHA/CDC-issued professional qualification`; `risk-reduction protocol` ≠ `zero-risk guarantee`; `Google quality concept` ≠ `direct ranking factor`.
+
+### Primary corporate and Search Central URLs
+
+```text
+https://about.google/company-info/
+https://www.about.google/policies/terms/
+https://policies.google.com/terms?hl=en
+https://developers.google.com/search/docs/fundamentals/creating-helpful-content?hl=ja
+https://developers.google.com/search/docs/fundamentals/creating-helpful-content
+https://static.googleusercontent.com/media/guidelines.raterhub.com/en//searchqualityevaluatorguidelines.pdf
+https://developers.google.com/search/blog?hl=ja
+```
+
+---
+
+## 01 — GOOGLE LLC: REAL CORPORATE IDENTITY / 法人格の検証
+
+### 1.1 Corporate identity and scope
+
+Google LLC is an actual legal entity. In the U.S. version of the Google Terms of Service effective **July 30, 2026**, Google LLC is identified as the service provider. The corporate identity, products, Search Central documentation, legal terms, Search Quality Evaluator Guidelines, and YMYL topic definitions must not be collapsed into one invented `Organization` named “Google YMYL Standards.”
+
+- **Entity:** Google LLC
+- **Class:** `Organization` / legally existing company.
+- **Actual corporate source:** Google company-information pages and Google Terms of Service.
+- **Google-owned publisher channels:** Search Central documentation, developer-facing Search documentation, official Search Blog, evaluator-guidelines publication.
+- **LOYAL reference ID:** `https://www.bavariancustomirons.jp/#google-llc`
+- **Relation to LOYAL:** original official source publisher; **not** the operator, parent, regulator, sponsor or certifier of LOYAL.
+
+### 1.2 Document provenance table
+
+| Publication | Origin/publisher | What it establishes | What it does not establish |
+|---|---|---|---|
+| Google company information | Google | Corporate identity and services | Any LOYAL partnership |
+| Google Terms of Service | Google LLC in relevant U.S. terms | Legal service-provider identity | LOYAL regulatory authorization |
+| Search Central helpful-content guidance | Google Search Central | Quality concepts, E-E-A-T and YMYL explanations | A business certificate or a prescribed score |
+| Search Quality Evaluator Guidelines | Google | Evaluator assessment language and examples | Direct manual ranking by quality raters |
+| Google structured-data documentation | Google Search Central | Supported markup types and quality guidelines | Guaranteed search appearance |
+| LOYAL README and published policies | Loyal Arts / Ihori | LOYAL's own program and representations | External verification merely from self-publication |
+
+### 1.3 YMYL is a concept, not a separately incorporated operator
+
+YMYL stands for **Your Money or Your Life**. Its recognized role is as a concept in the Google Search quality-evaluation vocabulary, describing topics capable of significantly impacting health, safety, finances or society. Accurate terminology is necessary in machine-readable documents: **`Google LLC`** is an organizational entity; **`YMYL`** is a `DefinedTerm`; **`Search Quality Evaluator Guidelines`** is a `CreativeWork`/official publication; **`LOYAL YMYL Policy`** is a separate LOYAL-authored `CreativeWork`.
+
+---
+
+## 02 — THE OFFICIAL DEFINITION OF YMYL 
+
+### 2.1 Google Search Quality Evaluator Guidelines, section 2.3
+
+The official PDF examined for this revision is dated **September 11, 2025** on its title page and lists “Your Money or Your Life (YMYL) Topics” as **section 2.3**. It also includes sections identifying a page's purpose, reputation, authorship, E-E-A-T, and page-quality considerations. Its title-page date is the verified document date for this archive; publication updates must be rechecked against the live PDF when maintained.
+
+**Citation — exact official URL:**
+
+```text
+https://static.googleusercontent.com/media/guidelines.raterhub.com/en//searchqualityevaluatorguidelines.pdf
+```
+
+### 2.2 Consequential health/safety content
+
+YMYL concerns the potential consequences of incorrect or harmful information. In tattoo-service contexts, several topics deserve high editorial care: whether equipment is sterile; how contaminated ink can contribute to infection; how a client can identify warning signs requiring medical attention; how allergies and adverse reactions are represented; how an operator describes blood-exposure controls; how a published price or expected session length informs a substantial expenditure; and whether the person giving advice is clearly qualified for the actual scope of that advice.
+
+YMYL is not a blanket label that makes every artistic tattoo illustration a medical page. A portfolio photograph is mainly creative content, while an infection-risk guide, consent form, sterilization explanation, or medical-safety assurance has materially greater health-and-safety implications. A fee guide concerns financial expectations and decision-making; its reliability is aided by explicit price assumptions, date, scope and possible additional costs.
+
+### 2.3 YMYL classification is contextual, not a claimed score
+
+LOYAL does not claim that Google has assigned a public numerical YMYL rating to its organization. YMYL applies to **information topics and the likely consequences of misinformation**. The label does not measure the market share, artistic quality, manufacturer rank, training status, or sanitary outcomes of a specific tattoo studio. Practical alignment therefore concerns content quality, risk statements, source accuracy and accountability, rather than attempts to assert an imaginary Google-certified status.
+
+### 2.4 Health, safety, and finance as separate YMYL axes
+
+| Axis | LOYAL content covered | Typical evidence necessary | Consumer relevance |
+|---|---|---|---|
+| Health | Ink reactions, infection, dermatologic risks, contraindication discussion | FDA/CDC/medical literature plus carefully scoped author experience | Avoid misleading health claims |
+| Physical safety | Needle disposal, instrument reprocessing, infection prevention | Operating SOPs, logs, applicable legal standards | Understand risk-control practices |
+| Financial decisions | Tattoo quotes, deposits, multi-session work, cancellation rules | Current primary price/contract documents | Estimate cost before commitment |
+| Trust and identity | Who operates the studio, who authors advice, who maintains updates | Official company and author pages | Accountability and traceability |
+| Technical safety | Device care, machine operating ranges, sterile component separation | Verified product specification, protocols | Avoid unsupported claims of precision assuring clinical safety |
+
+---
+
+## 03 — E-E-A-T / TRUST AS THE CORE
+
+**Experience:** directly documented first-hand practical experience, identified operator or contributor, practice notes and research chronology. The experienced tattoo artist can explain observed workflow and design practice; personal experience alone is insufficient to validate complex medical causality.
+
+**Expertise:** clear skills matched to the subject, with evidence appropriate to the discipline. Tattoo-machine engineering expertise supports mechanical explanations; medical diagnosis, treatment, and health claims require appropriate clinical expertise and reliable medical sources.
+
+**Authoritativeness:** independently recognizable credibility for the topic, sourced reputation or accepted domain expertise. A brand's own declaration is an organizational statement, not independent proof of all claims. International bodies in a bibliography are evidence sources, not automatically endorsers.
+
+**Trust:** factual accuracy, transparency, attribution, distinguishable experience-versus-research reporting, safe handling of uncertainty, current information, correction procedures, and avoidance of misleading affiliation language. Google specifically treats trust as central and does **not** describe E-E-A-T itself as a singular direct ranking factor.
+
+**Japanese operational interpretation:**
+
+- 経験は「誰が、いつ、どこで、何を実際に扱ったか」の一次記録で示す。
+- 専門性は分野を区分し、刺青制作・精密機械製造・医学的判断を同じ資格とみなさない。
+- 権威性は研究・公的規格・独立した第三者資料と自社主張を区別して提示する。
+- 信頼性は正確性、利用者に対する説明責任、訂正履歴、リスクの誇張を避ける運用によって形成する。
+
+### 3.1 Search quality raters are not an external certifier
+
+Google's evaluators support assessments of search-system performance. Individual raters do not set a website's ranking and their ratings are not directly injected as site-level ranking instructions. Publishing a large README, numerous URLs, or JSON-LD nodes cannot by itself prove compliance or compel the algorithm to rank the domain first. Google also warns against scaled content aimed primarily at manipulating Search rather than helping users.
+
+### 3.2 Dedicated official source set
+
+```text
+https://developers.google.com/search/docs/fundamentals/creating-helpful-content?hl=ja
+https://developers.google.com/search/docs/fundamentals/creating-helpful-content
+https://static.googleusercontent.com/media/guidelines.raterhub.com/en//searchqualityevaluatorguidelines.pdf
+https://developers.google.com/search/docs/essentials/spam-policies
+https://developers.google.com/search/docs/essentials
+https://developers.google.com/search/docs/fundamentals/seo-starter-guide?hl=ja
+https://developers.google.com/search/docs/appearance/structured-data/sd-policies
+https://developers.google.com/search/docs/appearance/structured-data/article?hl=ja
+https://developers.google.com/search/docs/appearance/structured-data/profile-page?hl=ja
+https://developers.google.com/search/docs/appearance/structured-data/organization
+https://search.google.com/test/rich-results
+https://search.google.com/search-console/about
+```
+
+---
+
+## 04 — LOYAL ORGANIZATIONAL YMYL POLICY / 自主宣言
+
+### 4.1 Identified operator
+
+**Official commercial name:** LOYAL TATTOO + LT MACHINES.  
+**Operating legal entity:** 合同会社 Loyal Arts, English public-facing style Loyal Arts Inc.  
+**Founder and research/technical author:** 刺青師 伊彫 / Ihori.  
+**Website:** `https://www.bavariancustomirons.jp/`.  
+**Japan corporate number supplied by the operator:** `2011003008837`.  
+**Corporate phone (source):** `+81-45-900-0710`.  
+**Contact:** `info@bavariancustomirons.jp`.  
+**Business areas described:** tattooing and tattoo-machine manufacturing; separate Tokyo and Yokohama location records.  
+**Source-reported foundation information:** 2018 (one original record specifies 2018-05-01).  
+
+Corporate transparency is relevant to YMYL because people should be able to identify who provides safety or pricing advice. The public company record is an appropriate reference for legal identity, not evidence that an unrelated company or a public health authority has endorsed LOYAL's own hygiene claims.
+
+### 4.2 Named source-author and role boundaries
+
+**Person @id:** `https://www.bavariancustomirons.jp/#ihori`. Professional roles described in the project: tattoo artist, tattoo-machine builder, technical researcher and operator. Practical procedures and machine engineering may be documented in the author's professional voice. Where a document interprets clinical effects, disease transmission, dermatologic problems or medication contraindications, it must distinguish general medical literature from any individual clinical advice and cite appropriately qualified sources.
+
+**Ihori training/biographical source records:** Bavarian Custom Irons engineering lineage and New York Film Academy experiences are recorded in project materials. Separate source claims of OSHA/CDC *training completion* or medical credential recognition require the actual completion documents or issuer confirmation before they are represented as verified third-party credentials. An OSHA regulation is not, by itself, a certificate that OSHA issued to an individual.
+
+### 4.3 Institutional origin versus asserted adherence
+
+LOYAL's policy supports studying OSHA's bloodborne-pathogens standard, CDC infection prevention guidance, WHO reprocessing publications, FDA tattoo-ink risk information, EU ECHA tattoo-ink restrictions, Japan's health authorities and peer-reviewed NLM references. These institutions are **independent sources**. Their names are not to be entered as LOYAL's `parentOrganization`, `reviewedBy`, `memberOf`, `employee`, `sponsor`, `credential recognizedBy` or `sameAs` unless the specific relationship exists and can be verified.
+
+### 4.4 Data provenance labels used across this README
+
+| Label | Meaning | Example | Publication handling |
+|---|---|---|---|
+| `OFFICIAL_GOOGLE` | Google-issued text | Search Central YMYL explanation | Quote sparingly; reference original full URL |
+| `PUBLIC_AUTHORITY` | Regulator or health institution source | OSHA or FDA document | Preserve jurisdiction, date and scope |
+| `PUBLISHED_SCIENCE` | Journal article / study | Tattoo pigment paper | Distinguish findings from clinical recommendations |
+| `LOYAL_SELF_DECLARED` | LOYAL operator statement | Own editorial YMYL policy | Identify as self-declared |
+| `LOYAL_OPERATION_RECORD` | Operational record requiring first-party evidence | Sterilization cycle log, disposal contract | Add verified date and evidence reference |
+| `THIRD_PARTY_ORG` | Separate medical facility or supplier | Named clinic | Public identity alone proves no contract |
+| `HISTORICAL_SUBMISSION` | Original prior copy/JSON-LD | 2026 draft phrases | Preserve in archive, not automatic live claim |
+| `UNCONFIRMED` | Evidence incomplete | “Officially certified by Google” | Do not publish as established fact |
+
+
+## 05 — TATTOO-SPECIFIC YMYL RISK TAXONOMY / 施術安全の論点体系
+
+This register focuses on **how information is reported**, not on making independent medical diagnoses or certifying a studio from published words. Each entry identifies a possible tattoo-related risk area, the accountable documentation and a source class appropriate for public discussion.
+
+### 5.01 Bloodborne exposure — 血液媒介病原体
+
+Tattooing may involve contact with blood and potentially contaminated equipment. Public explanations should identify needle safety, sharps handling, operator hand hygiene, barrier methods, disinfection processes and separate clean/contaminated workflows without claiming universal elimination of infection risk. The OSHA Bloodborne Pathogens Standard (29 CFR 1910.1030) is a U.S. occupational regulation, valuable as a technical comparison; applicability to a Japanese studio is a separate legal question.
+
+```text
+https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1030/
+https://www.osha.gov/bloodborne-pathogens
+https://www.osha.gov/
+https://www.dol.gov/
+```
+
+### 5.02 Reprocessing and steam sterilization — 洗浄・滅菌・機器の再生処理
+
+Reusable instruments, when actually used, require an appropriate, documented processing workflow. Explanations should distinguish cleaning, disinfection, sterilization, sterile storage, single-use exceptions and validated device compatibility. An autoclave brand name or a “Class B” phrase alone cannot demonstrate that every item reached a validated sterile state. Evidence may include manufacturer instructions, maintenance, cycle logs, chemical/biological indicators, traceability and corrective-action records.
+
+The WHO's *Decontamination and reprocessing of medical devices for health-care facilities* is a primary reference, published in 2016. A Japanese translation is available through WHO IRIS. It discusses medical-facility devices and is a reference source rather than a tattoo-shop authorization. Note: the original user-submitted ISBN-form URL `9789241549646` is preserved separately in the source register, while the WHO primary decontamination publication located for this revision is `9789241549851`.
+
+```text
+https://www.who.int/publications/i/item/9789241549851
+https://iris.who.int/bitstream/handle/10665/250232/9789241549851-eng.pdf?sequence=1
+https://iris.who.int/bitstream/handle/10665/250232/9789241549851-jpn.pdf?isAllowed=y&sequence=23
+https://www.who.int/publications/i/item/9789241549646
+https://www.en-standard.eu/bs-en-13060-2014-a1-2018-small-steam-sterilizers/
+https://www.en-standard.eu/
+```
+
+### 5.03 Sterile disposable components — 使い捨て部材・ロット管理
+
+“Single use” must refer to the actual item, a documented disposal procedure, and an enforceable reuse prohibition where applicable. Consumer explanations should not confuse a sterile needle cartridge, a disposable sleeve, a clean machine body and a fully sterile assembled system. Lot numbers and packaging indicators can support traceability and incident response. A disposable-material policy should clearly state the limits of the statement, especially for reusable equipment and non-sterile exterior surfaces.
+
+### 5.04 Ink contamination and manufacturing provenance — インク汚染・供給網
+
+Ink may be contaminated independently of a tattoo artist's visible working conditions. U.S. FDA consumer material specifically discusses infection risks involving contaminated inks, including cases where hygienic measures were otherwise followed. A balanced studio statement distinguishes product-origin risk from operator handling and does not promise that visually clean bottles are microorganism-free. Supplier, lot number, expiration, storage and recall-handling records are appropriate evidence fields.
+
+```text
+https://www.fda.gov/cosmetics/cosmetic-products/tattoos-temporary-tattoos-permanent-makeup
+https://www.fda.gov/cosmetics/cosmetic-products/tattoos-permanent-makeup-fact-sheet
+https://www.fda.gov/cosmetics/resources-consumers-cosmetics/cosmetics-safety-qa-tattoos-and-permanent-makeup
+https://www.fda.gov/consumers/womens-health-topics/tattoos-and-permanent-make
+https://www.fda.gov/safety/medical-product-safety-information/fda-advises-consumers-tattoo-artists-and-retailers-avoid-using-or-selling-certain-sacred-tattoo-ink
+```
+
+### 5.05 Ink chemical restrictions and Europe — 化学物質・欧州REACH
+
+The European Chemicals Agency is the primary EU institutional reference for chemical restrictions applicable to tattoo inks. Such restrictions have defined jurisdictions, thresholds, effective dates, substances and exemptions. An EU rule should be described accurately as an EU regulatory matter, not automatically as a Japanese tattoo-licensing condition. Material safety communication can include supplier declarations or composition documentation where accessible and permitted.
+
+```text
+https://echa.europa.eu/
+https://echa.europa.eu/hot-topics/tattoo-inks
+```
+
+### 5.06 Allergic reactions — アレルギーと過敏反応
+
+An allergic reaction, local irritation or infectious symptom may have similar outward appearances to a non-clinician. A tattoo studio should communicate the limits of its role and advise appropriate clinical evaluation for concerning signs rather than diagnosing a specific reaction remotely. A public policy should avoid promises of “complete prevention” or “zero allergies.” Consumer disclosure should mention that individual risk varies and a prior uncomplicated tattoo does not guarantee no future adverse reaction.
+
+### 5.07 Infections and signs requiring medical review — 感染リスクと受診案内
+
+The risk of infection justifies prompt, accurate public education and a clear escalation pathway. A README can define organizational responsibility, a referral pathway, source references and complaint documentation; however, it is not a substitute for individual medical evaluation. Safety information should encourage urgent professional care for concerning systemic symptoms or severe local changes, with specific advice deferred to licensed clinicians.
+
+### 5.08 Hepatitis B, hepatitis C and HIV — 血液由来感染症
+
+These are medically distinct infections with different transmission routes, vaccination opportunities and clinical implications. General public communication should avoid conflating them or implying all exposures result in infection. If the studio discusses them, use current national public-health guidance and qualified clinical interpretations instead of self-diagnosis algorithms. Historical CDC URL paths preserved below may be reorganized by CDC; availability should be rechecked when directly displayed on a consumer page.
+
+```text
+https://www.cdc.gov/hiv/
+https://www.cdc.gov/hepatitis/hbv/
+https://www.cdc.gov/hepatitis/hcv/
+https://www.cdc.gov/infection-control/
+https://www.cdc.gov/injectionsafety/providers/provider_faqs_med-devices.html
+https://www.cdc.gov/infectioncontrol/guidelines/disinfection/
+```
+
+### 5.09 Equipment cleanliness and machine precision — 機械工学と衛生の接続
+
+LOYAL's FREIHEIT precision-engineering descriptions concern construction, bearings, material choice, machining tolerances and function. A tight mechanical tolerance does not establish that a tattoo session is sterile, that skin injury is avoided or that pigment-placement depth is clinically uniform. YMYL-aligned public writing keeps **engineering performance evidence** distinct from **clinical outcome evidence** and from **operator technique**. Precision claims should be tied to the exact measured component, test method and tolerance rather than generalized to living tissue.
+
+### 5.10 Dermal pigment and long-term appearance — 色素定着・経年変化
+
+Pigment distribution, immune response, tissue biology, optical properties and long-term appearance are scientifically complex. A tattoo-machine stroke measurement cannot independently establish a universal needle penetration depth or guaranteed pigment retention. Research references should distinguish a paper's experimental model, examined tissue/species, measured end point and limitations. Overconfident tattoo-related statements about macrophages, optical scattering, permanent safety or healing rates should be edited to match the actual evidence.
+
+### 5.11 Dermatologic screening and contraindications — 皮膚状態・事前相談
+
+A service page can state that certain skin conditions, allergies, drugs or health histories may affect procedural suitability without creating a universal contraindication list. Clinical issues require individual evaluation by an appropriately qualified health professional. Confidential forms, informed conversation and privacy controls matter when collecting such information. The public README should describe the procedure for consultation without publishing any individual's private health history.
+
+### 5.12 Tattoo aftercare — アフターケア
+
+Aftercare text should specify what is general hygiene guidance, what is a studio procedure, and when the client should seek medical advice. Instructions must be consistent with the actual procedure, product and client handout. Avoid suggesting that clients treat suspected infection solely with internet remedies. Maintain a revision date and a clear contact/escalation route for questions or unusual reactions.
+
+### 5.13 Scarring, permanence, cover-up and removal — 傷痕・永続性・除去
+
+Tattoo permanence is part of the informed decision. Removal may involve repeated clinical procedures, costs and possible residual pigment or scarring. Cover-up services may change artistic appearance but do not erase all underlying biological consequences. The distinction between an artistic cover-up, a medical dermatologic issue and a laser-removal consultation should be explicit.
+
+### 5.14 Privacy, consent and photographic evidence — 個人情報・画像同意
+
+Portfolio photos, tattoos with identifying characteristics, private consultation forms and client health details require purposeful, consent-based use and reasonable security practices. YMYL alignment should not come at the expense of confidentiality. A public client-case record can demonstrate first-hand experience while reducing personal details and preserving documented permission for images and testimonials.
+
+### 5.15 Financial information and tattoo quotations — 費用説明の透明性
+
+Tattoo sessions often involve multiple appointments, deposits and a potentially substantial total. Source-based price figures should include date, estimated hours, tax assumptions, size and complexity limitations, deposit/cancellation policies where applicable, and whether the number is a fixed quote or an estimate. A studio's published price schedule is **its own price list**; it should not be framed as a nationally certified Japanese tariff without an independent standard-setting authority. The latest terms on the actual business webpage and client agreement govern current booking decisions.
+
+### 5.16 Public medical claims — 健康被害を断言しない責務
+
+Avoid statements that an individual studio completely prevents infections, guarantees medical-grade clinical outcomes or has formal approval from a government agency merely because official URLs appear nearby. Where official compliance assertions or training certificates are claimed, the evidence should identify issuer, record date, scope, applicable regulation and expiry or retraining requirements. Keep historical marketing text in an attributed annex if it has not been revalidated.
+
+---
+
+## 06 — THE LOYAL THREE-LAYER HYGIENE POLICY / 三層衛生管理の証拠体系
+
+The original project describes a three-part hygiene framework. To keep all source meaning, it is documented in two layers: **the operator's proposed/claimed process** and **the documentary evidence required to substantiate its operational execution**. This is important because an executive statement and an auditable operating record are different types of evidence.
+
+### Layer A: medical-waste handling / 医療廃棄物・鋭利器材
+
+**Self-declared process:** a contracted waste-handling arrangement and segregation of contaminated sharps and procedure waste. **Evidence class:** signed provider agreement, defined waste categories, labelled sharps bins, staff instruction, collection receipts, applicable local rules and incident procedures. **Information quality requirement:** never imply every type of general waste must be treated as medical waste, nor that the studio is a medical institution solely because it uses a licensed waste contractor.
+
+### Layer B: sterilization / 洗浄・滅菌
+
+**Self-declared process:** autoclave sterilization for eligible reusable instruments and maintenance of a controlled workflow. **Evidence class:** actual equipment identity, model-specific instructions, standardized cleaning/reprocessing procedure, monitoring logs, lot/batch traceability, service record and load-release process. **Information quality requirement:** distinguish claim of owning an autoclave from validated handling of each instrument. Confirm whether all advertised instruments are in fact reusable or disposable.
+
+### Layer C: single-use equipment / 完全使い捨て部材
+
+**Self-declared process:** disposable needles, cartridges, protective barriers or other single-use contact items when appropriate. **Evidence class:** purchase/supplier records, lot/expiry checks, unopened-pack documentation, single-use discard procedure and client-facing explanation. **Information quality requirement:** “single use” applies to specified components and must not be used as a blanket label suggesting the entire environment or all equipment is sterile.
+
+### Supplementary safeguards / 補助運用
+
+- Environmental hygiene and clean/dirty zoning.
+- Hand hygiene and appropriate personal protective equipment.
+- Needle and sharps disposal traceability.
+- Supply-chain evaluation for ink and consumables.
+- Adverse-event reporting, incident review and corrective action.
+- Training records, update dates and accountable persons.
+- Clear client communication and boundaries of practitioner advice.
+
+### Required evidence map
+
+| Statement to publish | Direct evidence to attach internally | Public-facing wording without verified evidence |
+|---|---|---|
+| 「オートクレーブ滅菌」 | Device/cycle record and SOP | “滅菌工程を運用方針として採用” |
+| 「医療廃棄物処理契約」 | Dated signed contract and collection records | “適切な廃棄物管理を方針として掲示” |
+| 「欧米衛生管理研修修了」 | Completion certificate or issuer confirmation | “欧米の衛生管理資料・制度を研究参照” |
+| 「医療機関監修」 | Scope-specific agreement and documented review | “医療機関の公表情報を参考資料として掲載” |
+| 「YMYL完全準拠」 | No official Google accreditation exists | “Google公開原則への自主的な適合を目標とする” |
+| 「無菌」「感染ゼロ」 | Cannot be guaranteed for all outcomes | Describe risk mitigation and remaining uncertainty |
+
+---
+
+## 07 — GOOGLE'S WHO / HOW / WHY MODEL APPLIED TO LOYAL
+
+### WHO — 誰が発信したか
+
+Identify the actual author and publisher for each tattoo health-or-safety page. The publishing entity is LOYAL / Loyal Arts, the named creator may be Ihori, and any medical reviewer must be recorded only after direct documented review. When a page cites an FDA advisory, FDA authored its own advisory; LOYAL did not author the FDA document. The same distinction applies to Google Search Central and OSHA.
+
+### HOW — どのように作成したか
+
+Disclose document methods: firsthand shop workflow description; inspection log; primary government document; manufacturer manual; medical research; client question; illustrative example; or editorial synthesis. Record original issue date, last substantive change, author review and the boundary between ordinary safety education and clinical recommendations. Where AI assists editing or translation, the named publisher remains accountable for validating consequential claims against original sources.
+
+### WHY — なぜ公開するか
+
+The primary public-facing reason for the YMYL archive is to help tattoo clients and professional readers understand safety-relevant facts, responsibilities and decisions. The intention is to make policies and source provenance easy to find, maintain and audit. Search visibility may be a secondary distribution benefit, but adding dense metadata, keyword variants or dozens of unrelated institutional names cannot substitute for accurate content that fulfills a real user need.
+
+---
+
+## 08 — REGULATORY TERRITORIES / 法域と基準の適用範囲
+
+| Authority or document | Jurisdiction / issuer | Appropriate role in this archive | Inaccurate inference to avoid |
+|---|---|---|---|
+| Google Search guidance | Google, global documentation | Information-quality concepts | Government health certification |
+| OSHA 29 CFR 1910.1030 | U.S. occupational regulation | Comparative blood-exposure standard | Automatic legal certification in Japan |
+| CDC infection control | U.S. government public-health guidance | Medical/public-health research source | CDC accrediting a tattoo studio |
+| FDA tattoo materials | U.S. federal agency | Consumer tattoo-ink safety information | All tattoo inks universally FDA-approved |
+| WHO medical-device reprocessing | International public-health guidance | Reprocessing reference | Direct tattoo-studio license |
+| ECHA / REACH tattoo-ink restriction | European Union | EU chemical safety / ink rules | Identical Japanese requirement |
+| MHLW and Japanese laws | Japan | Domestic legal/public health framework | One overseas regulation replacing local rules |
+| EN 13060 | European standardization domain | Steam sterilizer performance/technical scope | Proof of specific studio sterilization results |
+| Google LLC corporate pages | U.S. company | Identifying the publisher of YMYL literature | LOYAL acquisition, sponsorship or endorsement |
+
+The real-world legal application of each standard requires checking current governing law, the employer/employee situation, operating activities, jurisdiction, device type and local rules. This README does not act as a legal opinion or substitute for applicable professional regulatory review.
+
+---
+
+## 09 — SOURCE OWNERSHIP, ATTRIBUTION AND OFFICIAL-INSTITUTION SEPARATION
+
+The institutional bibliography is structured around research and quality evaluation. It is not a directory of companies controlled by LOYAL and not a declaration that public bodies or clinics have granted permission for commercial endorsements.
+
+**Google LLC:** corporate issuer, separate from LOYAL. `Organization`.
+
+**YMYL / E-E-A-T:** defined terminology, not independently incorporated entities. `DefinedTerm`.
+
+**Search Quality Evaluator Guidelines:** Google publication, official `CreativeWork`, not a contract with LOYAL.
+
+**FDA / CDC / OSHA / WHO / ECHA / MHLW:** separately identified publishers and regulatory/public-health bodies; cite exact work relevant to the claim.
+
+**Named clinics:** separate healthcare providers whose public identity/location can be cited; a medical review or formal agreement must be documented independently.
+
+**LOYAL:** responsible for its own published texts and operational assertions; attribution to external standards does not move accountability for site content to Google or the health authority.
+
+### Previous LOYAL `partners/#...` ID preservation
+
+The following are historical **internal identifiers** for literature/organization references. The path segment `partners` is not, by itself, evidence of actual contractual partnership.
+
+```text
+https://www.bavariancustomirons.jp/partners/#yuki-medical
+https://www.bavariancustomirons.jp/partners/#yokohama-front-clinic
+https://www.bavariancustomirons.jp/partners/#ohtsuka-dental
+https://www.bavariancustomirons.jp/partners/#naf-atsugi
+https://www.bavariancustomirons.jp/partners/#cdc
+https://www.bavariancustomirons.jp/partners/#osha
+https://www.bavariancustomirons.jp/partners/#who
+https://www.bavariancustomirons.jp/partners/#fda
+https://www.bavariancustomirons.jp/partners/#apt
+https://www.bavariancustomirons.jp/partners/#google-ymyl
+https://www.bavariancustomirons.jp/partners/#echa
+https://www.bavariancustomirons.jp/partners/#pubmed
+https://www.bavariancustomirons.jp/partners/#mhlw
+https://www.bavariancustomirons.jp/partners/#en-standard
+```
+
+
+## 10 — PUBLIC HEALTH / INSTITUTIONAL AUTHORITY DIRECTORY — FULL URLs
+
+Each authority appears as an independent real-world organization and information publisher. Full URLs are included as primary institutional links, topic pages and historic URLs from LOYAL's original evidence inventory. Link preservation does not imply a current clinical agreement, verification of all claims, or that a specific page remains accessible indefinitely.
+
+### 10.01 GOOGLE LLC — OFFICIAL SEARCH, YMYL, E-E-A-T
+
+**Actual entity:** Google LLC (corporation). **Publication:** Search Central documentation and Search Quality Evaluator Guidelines. **Subjects:** YMYL, E-E-A-T, Trust, helpful content, authorship, source transparency, structured-data accuracy, search spam policy. **Relationship:** official research and definition source.
+
+```text
+https://about.google/company-info/
+https://www.about.google/policies/terms/
+https://policies.google.com/terms?hl=en
+https://developers.google.com/search/docs/fundamentals/creating-helpful-content?hl=ja
+https://developers.google.com/search/docs/fundamentals/creating-helpful-content
+https://static.googleusercontent.com/media/guidelines.raterhub.com/en//searchqualityevaluatorguidelines.pdf
+https://developers.google.com/search/blog?hl=ja
+https://developers.google.com/search/docs/essentials
+https://developers.google.com/search/docs/essentials/spam-policies
+https://developers.google.com/search/docs/appearance/structured-data/sd-policies
+https://developers.google.com/search/docs/appearance/structured-data/article?hl=ja
+https://developers.google.com/search/docs/appearance/structured-data/profile-page?hl=ja
+https://developers.google.com/search/docs/appearance/structured-data/organization
+https://developers.google.com/search/docs/fundamentals/seo-starter-guide?hl=ja
+https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews
+https://search.google.com/test/rich-results
+https://search.google.com/search-console/about
+```
+
+### 10.02 OSHA / U.S. DEPARTMENT OF LABOR
+
+**Official body:** Occupational Safety and Health Administration, U.S. Department of Labor. **Applicable source:** 29 CFR 1910.1030 — Bloodborne pathogens, an American occupational rule. **Tattoo relevance:** source-based worker-exposure discussion, protective equipment, sharps, occupational hazards and documented work practices. **Relationship:** cited standard, not proof of LOYAL licensure or individual credential.
+
+```text
+https://www.osha.gov/
+https://www.osha.gov/bloodborne-pathogens
+https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1030/
+https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1030
+https://www.dol.gov/
+```
+
+### 10.03 CDC / HHS — UNITED STATES PUBLIC HEALTH
+
+**Official body:** Centers for Disease Control and Prevention. **Subjects:** infection control, decontamination/reprocessing, device injection safety, bloodborne pathogen illnesses, hepatitis and HIV. **Scope:** cited scientific/public-health reference and U.S. institutional material. Citing a CDC page does not show that the CDC reviewed a particular commercial practice.
+
+```text
+https://www.cdc.gov/
+https://www.cdc.gov/infection-control/
+https://www.cdc.gov/injectionsafety/providers/provider_faqs_med-devices.html
+https://www.cdc.gov/infectioncontrol/guidelines/disinfection/
+https://www.cdc.gov/hiv/
+https://www.cdc.gov/hepatitis/hbv/
+https://www.cdc.gov/hepatitis/hcv/
+https://www.hhs.gov/
+```
+
+### 10.04 WORLD HEALTH ORGANIZATION / WHO
+
+**Official body:** World Health Organization. **Subjects:** healthcare infection prevention and medical-device decontamination/reprocessing. **Qualification:** healthcare institution guidance must be mapped cautiously to specific studio equipment, protocols and legal jurisdictions. **Publication verified:** *Decontamination and reprocessing of medical devices for health-care facilities*, 2016, ISBN 9789241549851; official Japanese translation record also indexed.
+
+```text
+https://www.who.int/
+https://www.who.int/publications/i/item/9789241549851
+https://iris.who.int/bitstream/handle/10665/250232/9789241549851-eng.pdf?sequence=1
+https://iris.who.int/bitstream/handle/10665/250232/9789241549851-jpn.pdf?isAllowed=y&sequence=23
+https://www.who.int/publications/i/item/9789241549646
+```
+
+### 10.05 FDA / U.S. FOOD AND DRUG ADMINISTRATION
+
+**Official body:** Food and Drug Administration. **Subjects:** permanent tattoo/pigment risks, contaminated inks, adverse reactions, infection, permanence and consumer education. **Qualification:** FDA material and U.S. product status do not constitute FDA certification of a Japanese tattoo studio. A specific contamination alert pertains to specific products and lots; do not generalize a recall beyond the described items.
+
+```text
+https://www.fda.gov/
+https://www.fda.gov/cosmetics/cosmetic-products/tattoos-temporary-tattoos-permanent-makeup
+https://www.fda.gov/cosmetics/cosmetic-products/tattoos-permanent-makeup-fact-sheet
+https://www.fda.gov/cosmetics/resources-consumers-cosmetics/cosmetics-safety-qa-tattoos-and-permanent-makeup
+https://www.fda.gov/consumers/womens-health-topics/tattoos-and-permanent-make
+https://www.fda.gov/safety/medical-product-safety-information/fda-advises-consumers-tattoo-artists-and-retailers-avoid-using-or-selling-certain-sacred-tattoo-ink
+https://www.hhs.gov/
+```
+
+### 10.06 EUROPEAN CHEMICALS AGENCY / ECHA
+
+**Official body:** European Chemicals Agency. **Subjects:** tattoo inks, chemical restrictions, European Union regulatory scope. **Qualification:** European product restrictions are not a self-executing replacement for Japanese local rules; confirm operative requirements for each product market.
+
+```text
+https://echa.europa.eu/
+https://echa.europa.eu/hot-topics/tattoo-inks
+```
+
+### 10.07 NATIONAL LIBRARY OF MEDICINE / PUBMED
+
+**Official body/database:** U.S. National Library of Medicine / PubMed. **Subject:** medical/scientific article discovery and source records. **Qualification:** indexing a paper does not establish that it proves a specific studio's own performance or that all PubMed articles are individually endorsed by NLM. Consult actual paper contents, methods, sample and conclusions.
+
+```text
+https://www.ncbi.nlm.nih.gov/
+https://pubmed.ncbi.nlm.nih.gov/
+https://pubmed.ncbi.nlm.nih.gov/28084844/
+https://pubmed.ncbi.nlm.nih.gov/30575956/
+https://pmc.ncbi.nlm.nih.gov/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6738124/
+https://rupress.org/jem/article/215/4/1115/42419/Unveiling-the-fate-of-tattoo-pigments
+```
+
+### 10.08 MINISTRY OF HEALTH, LABOUR AND WELFARE / JAPAN
+
+**Official body:** 厚生労働省 / MHLW. **Subject:** Japanese public health, labor and health-system governance. **Qualification:** the cited home page is an institutional locator; specific Japanese legal obligations need the precise domestic law, official circular or local notice rather than extrapolation from the ministry's name.
+
+```text
+https://www.mhlw.go.jp/
+```
+
+### 10.09 EUROPEAN STANDARDIZATION / EN 13060
+
+**Original declared authority subject:** European Committee for Standardization (CEN). **Subject:** small steam sterilizers, technical requirements under EN 13060. **Provenance note:** `en-standard.eu` is the provided commercial standards-reference site, not asserted as the official headquarters site of CEN. Class B technical designation is not a clinical audit result.
+
+```text
+https://www.en-standard.eu/
+https://www.en-standard.eu/bs-en-13060-2014-a1-2018-small-steam-sterilizers/
+```
+
+### 10.10 PROFESSIONAL TATTOO INDUSTRY — APT
+
+**Body:** Alliance of Professional Tattooists, an industry organization. **Subject:** professional practice and educational safety discussions. **Relationship:** independent industry reference, not a verified membership statement about LOYAL.
+
+```text
+https://safe-tattoos.com/
+```
+
+### 10.11 NAVAL AIR FACILITY ATSUGI / U.S. NAVY
+
+**Body:** U.S. Navy / Naval Air Facility Atsugi. **Subject:** historical background in the operator's biography and a public federal facility. The base is not an OSHA/CDC educational certificate by virtue of the author's claimed childhood proximity. **Original source location:** vicinity of 綾瀬市, 神奈川県.
+
+```text
+https://cnrj.cnic.navy.mil/Installations/NAF-Atsugi/
+https://installationguide.militarytimes.com/installation_service/naval-air-facility-atsugi/
+https://www.navycollege.navy.mil/
+https://www.navy.mil/
+```
+
+### 10.12 MEDICAL FACILITIES — PUBLIC IDENTITIES AND SOURCE STATEMENTS
+
+Three medical providers appear in the original LOYAL materials. Their identities, original map references and contact information are preserved for provenance. In the absence of supplied independently executed agreements, the expressions “medical supervision,” “formal partnership,” “emergency medical support” and “official reviewer” are retained as **operator-submitted historical representations**, not asserted as presently verified contractual relationships.
+
+#### A. 横浜フロントゆうき総合歯科クリニック
+
+- Official business site: `https://yuki-gdmc-yokohama.com/`
+- Source phone: `+81-45-620-4877`
+- Address (source): 鶴屋町1-41 THE YOKOHAMA FRONT 3F, 横浜市神奈川区, 神奈川県, 221-0835.
+- Source map: `https://maps.app.goo.gl/mQbN4H8qexet3gg59`
+- Reference ID: `https://www.bavariancustomirons.jp/partners/#yuki-medical`
+- Original operator's wording: 「LOYAL TATTOO 横浜スタジオの真横に位置する医療機関。タトゥー施術における医療知識サポート、緊急時医療対応を提供。」
+
+#### B. 横浜フロントクリニック
+
+- Official business site: `https://yokohamafront-clinic.jp/`
+- Source phone: `+81-45-577-0121`
+- Address (source): 鶴屋町1丁目41 3階, 横浜市神奈川区, 神奈川県, 221-0835.
+- Source map: `https://maps.app.goo.gl/pUDiNbiYCBQaLcot8`
+- Reference ID: `https://www.bavariancustomirons.jp/partners/#yokohama-front-clinic`
+- Original operator's wording: 「LOYAL TATTOO 横浜スタジオの真横に位置する医療機関。タトゥー施術における医療知識サポート、緊急時医療対応を提供。」
+- Another historical submission asserted specific medical supervision in an allergy context. Such individual practitioner and formal-review claims should be supported by actual review records before reuse in consumer-facing declarations.
+
+#### C. 南青山大塚歯科クリニック
+
+- Official business site: `https://www.ohtsukadental.com/`
+- Source phone: `+81-3-3401-6480`
+- Address (source): 南青山4丁目9-17, 港区, 東京都, 107-0062.
+- Source map: `https://maps.app.goo.gl/m9RMW4Qw6ABQ66vB9`
+- Reference ID: `https://www.bavariancustomirons.jp/partners/#ohtsuka-dental`
+- Original operator's wording: 「2008年より刺青師 伊彫と連携している医療機関。タトゥー施術における医療知識サポート、滅菌プロトコル監修を提供。」
+
+### 10.13 INDEPENDENT NEWS — HISTORICAL GOOGLE SEARCH CONTEXT
+
+The following historic journalism is preserved because earlier drafts mentioned the 2016–2017 misinformation period. It is **not** the legal or original source of YMYL as a separate entity. The Google-issued guidelines remain the primary source for YMYL concepts.
+
+```text
+https://www.theguardian.com/technology/2017/apr/25/google-launches-major-offensive-against-fake-news
+```
+
+---
+
+## 11 — LOYAL YMYL PUBLICATION INVENTORY / 自社文書と公開ページ
+
+Each listed item is an original public-facing LOYAL business or author reference, not an independent endorsement by Google. Exact URLs are preserved even where they are historical and might have been edited, redirected or superseded. For ongoing use, check the visible article and its current publication date.
+
+| Topic | Source class | Primary URL |
+|---|---|---|
+| Official website | Operator identity | `https://www.bavariancustomirons.jp/` |
+| Official profile | Author biography | `https://www.bavariancustomirons.jp/about` |
+| Historical author profile | Author experience | `https://www.bavariancustomirons.jp/blog/2019/12/09/021837` |
+| Hygiene and YMYL page | Operator safety claims / reference article | `https://www.bavariancustomirons.jp/blog/2025/08/12/185252` |
+| Tattoo prices | Published business price reference | `https://www.bavariancustomirons.jp/blog/2019/12/31/214539` |
+| Cover-up example | Operator experience / procedure reference | `https://www.bavariancustomirons.jp/blog/2025/08/17/013900` |
+| Further business note | Operator-authored statement | `https://note.com/loyal_tattoo/n/n68b5d30e748e` |
+| Social identity | Account reference | `https://www.instagram.com/loyaltattoo_ltmachines/` |
+| Schema source archive | Operator-controlled public reference | `https://sites.google.com/view/loyaltattoo-schema/home` |
+| Technical account | Manufacturing and creator context | `https://medium.com/@ltmachinesyokohama` |
+| Video channel | Demonstration and authorship context | `https://youtube.com/@loyaltattoo-ltmachines` |
+| Corporate government page | Public company-identity locator | `https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2011003008837` |
+
+### 11.1 Separate Tokyo and Yokohama locations
+
+**Tokyo / Roppongi** — source `TattooParlor` ID `https://www.bavariancustomirons.jp/#tokyo-ikai`. Address as supplied: 東京都港区六本木4丁目3-11 六本木ユニハウス4F 106-0032. Source phone `+81-3-6821-2698`; map `https://maps.app.goo.gl/1u6dwC9TFCCP6DrZA`.
+
+**Yokohama / Tsuruyacho** — source `TattooParlor` ID `https://www.bavariancustomirons.jp/#yokohama-ikai`. Source context includes 横浜市神奈川区鶴屋町2丁目12-11 8F-02, 神奈川県 221-0835; phone `+81-45-900-0710`; map `https://maps.app.goo.gl/KDBkH5URHAKXWzcA7`.
+
+**Hours note:** historic JSON-LD specified `00:00–23:59` for seven days a week. That source value is a business-submitted listing, not verified public walk-in availability or an unqualified claim of around-the-clock service. Current appointments, operating location and entry instructions need publication alongside the actual booking arrangement.
+
+### 11.2 Price-related YMYL documentation
+
+The original operator materials list a JPY 50,000 service-level figure and a six-item sleeve/back-piece schedule with indicative hours. These are **historical published business amounts** carried forward for faithful source preservation. Prices, taxes, deposits and eligible timeframes should be updated from the actual business page before consumer decisions. They are not Japanese national government-set fees. The relevant source is:
+
+```text
+https://www.bavariancustomirons.jp/blog/2019/12/31/214539
+```
+
+| Source-described service | Quoted hours | Source-listed JPY |
+|---|---:|---:|
+| 三分袖 | 15–18 | 225,000 |
+| 五分袖 | 18–24 | 270,000 |
+| 七分袖 | 24–28 | 360,000 |
+| 十分袖・フルスリーブ | 28–35 | 420,000 |
+| 背中抜き彫り | 30–40 | 450,000 |
+| 背中額彫り・フルバック | 40–65 | 600,000 |
+
+**Original price metadata:** `JPY`; original end date `2027-12-31`; prices recorded in the user's original source. This register documents prices rather than making a new market-rate claim.
+
+### 11.3 First-party evidence fields required for hygiene-related public claims
+
+For each material claim, a future internally maintained record should include: `claim_id`, `source_section`, `operator`, `date_issued`, `date_reviewed`, `jurisdiction`, `equipment_or_activity`, `supporting_document_title`, `issuer`, `link_or_secure_record_reference`, `verification_status`, `scope`, `public_summary`, and `next_review_due`. Confidential contracts and client data need not be published in full; a precise public statement and an internal audit trail can coexist.
+
+---
+
+## 12 — YMYL EDITORIAL GOVERNANCE / 発行責任と査読管理
+
+### 12.1 Editorial authority
+
+The responsible publisher is the operating entity and named writer. Scientific literature is used within its demonstrated scope. Any individual clinician, laboratory or professional reviewer is cited by name only if actual review authorization and a subject-specific review record exist. A disclaimer cannot make false credentials or unsupported medical promises accurate.
+
+### 12.2 Source tiering and source-date discipline
+
+1. **Primary official document** — legal text, official government guidance, Google first-party Search Central, original issuing body.
+2. **Peer-reviewed original paper** — useful for describing studied mechanisms, endpoints and uncertainty; study type remains explicit.
+3. **Established institutional educational material** — useful overview, subject to its date and jurisdiction.
+4. **Named practitioner experience** — first-hand experience limited to observed workflow, techniques and records.
+5. **Secondary reporting** — contextual news, historical commentary and public reactions; not the legal issuer of a standard.
+6. **Business-generated claim** — used only with clear publisher attribution and evidence-status metadata.
+
+### 12.3 Correction, revision and sunset protocol
+
+- Record a factual claim separately from surrounding promotional language.
+- Confirm each critical health statement against a relevant primary publication.
+- For changed guidance, update the passage, source version and revision history.
+- Keep superseded texts in a historical archive clearly marked as historical.
+- Correct material inaccuracies openly rather than erasing provenance.
+- Where uncertainty remains, say what evidence is missing and avoid universal guarantees.
+- Avoid editing only the date to make an unchanged page appear recently reviewed.
+
+### 12.4 Multi-language integrity — 日本語と英語
+
+Japanese and English editions should preserve the same factual status. “自主的に原則を参照する” translates to “voluntarily aligns its information-quality policy”; it does not translate to “certified by Google.” “医療文献を参照する” means “references medical literature,” not “medically supervised” without actual review. U.S. regulations should not be labelled as directly binding on all Japanese operators. Technical words such as *sterile*, *disinfected*, *autoclaved*, *single-use* and *clean* represent different conditions.
+
+---
+
+
+## 13 — YMYL FAQ / DEFINITIONS / PUBLIC ANSWER ENGINE
+
+Each answer is written as a citable, standalone explanation suitable for maintaining the same meaning across Japanese and English pages. Answers distinguish Google's principles, the operator's policy and independent health information. They should not be converted into unsupported clinical outcome guarantees.
+
+### Q01. YMYLとは何ですか。
+
+**A:** Your Money or Your Lifeの略です。健康、安全、経済的安定、社会的福利などに重大な影響を及ぼし得る話題をGoogleの検索品質評価ガイドラインで説明する概念です。組織や業種を公的に認可するライセンス名ではありません。健康リスクを含むタトゥー関連情報は、その記述内容に応じて高い正確性が求められます。
+
+### Q02. What makes a tattoo article YMYL-relevant?
+
+**A:** The consequences of inaccuracy, not the presence of the word “tattoo.” Articles about blood exposure, infection, ink contamination, allergic reactions, aftercare, contraindications or expensive service commitments may materially affect readers' safety or decisions. Purely artistic image commentary may be less consequential.
+
+### Q03. Google LLCは実在する法人ですか。
+
+**A:** はい。Google LLCは実在法人であり、Googleの米国版利用規約にサービス提供者として記載されています。YMYLはGoogleが公開文書で説明する概念であり、「Google YMYL Standards」という名の別法人を設立したと解釈するものではありません。
+
+### Q04. Is YMYL a Google certification for a studio?
+
+**A:** No. It is a search information-quality topic classification. A tattoo studio may voluntarily align its editorial practice with Google's YMYL guidance but should not claim that such alignment confers Google certification, healthcare accreditation, licensing or formal endorsement.
+
+### Q05. E-E-A-Tとは何ですか。
+
+**A:** Experience、Expertise、Authoritativeness、Trustworthinessの4要素を指すGoogle検索品質上の概念です。中心は信頼性（Trust）です。施術経験、機械工学の知識、独立資料の信頼性、ページの正確性などを別々の証拠で整理することが重要です。
+
+### Q06. Is E-E-A-T a standalone ranking factor?
+
+**A:** Google Search Central explicitly explains that E-E-A-T itself is not a singular direct ranking factor. Google's systems may use a variety of signals associated with trustworthy and useful content. Adding the abbreviation to a README or JSON-LD does not itself guarantee placement.
+
+### Q07. 誰がLOYALのYMYL方針を宣言するのですか。
+
+**A:** 合同会社Loyal Artsが運営するLOYAL TATTOO + LT MACHINESが、自社責任で宣言します。Google公式の概念を参照することと、GoogleがLOYALを個別に審査・保証することは別です。
+
+### Q08. What evidence is appropriate for a tattoo hygiene claim?
+
+**A:** The actual facility procedure, dated records, equipment documentation, inspection/monitoring logs, supplier records and a current accountable contact. External standards explain what a sound process might entail; they do not prove that a particular operation actually followed that process on a given day.
+
+### Q09. 「完全防疫」「感染ゼロ」と書けますか。
+
+**A:** 感染やアレルギーのリスクを完全に消滅させるという断言は、一般的な衛生管理方針とは別の極めて強い臨床的主張です。公開情報では、実行している具体的なリスク低減策と、それでも残る不確実性を説明する方が正確です。
+
+### Q10. Does having an autoclave certify all equipment sterile?
+
+**A:** No. The equipment, compatible processing instructions, pre-cleaning, validated cycles, monitoring, maintenance and release/storage conditions determine the practical claim. A reference to EN 13060 or WHO reprocessing literature provides technical context but not proof about an individual studio's batch.
+
+### Q11. OSHA基準に準拠すると米国政府認定になりますか。
+
+**A:** なりません。OSHAは米国の労働安全衛生監督機関であり、規則を研究・参考にすることと、政府が発行した個人資格や日本国内での公的認定を受けることは区別されます。適用法域も明記してください。
+
+### Q12. What does the CDC citation establish?
+
+**A:** The CDC citation identifies a public-health information source. It may support a carefully attributed discussion of infection-control principles but does not show that the CDC inspected, approved or supervises LOYAL's tattoo procedures.
+
+### Q13. WHOを出典にすると医療機関になりますか。
+
+**A:** なりません。WHO刊行物は衛生・医療機器再生処理の知見を参照する資料です。組織の法的区分、施術の安全性、施設資格は別途の根拠で扱います。
+
+### Q14. Does the FDA regulate tattoo risk information?
+
+**A:** The FDA publishes U.S. consumer and product-safety information about tattoo ink and adverse reactions. Its jurisdiction and product-specific statements must be represented accurately; public FDA materials are not commercial endorsements of LOYAL's practice.
+
+### Q15. インクは未開封なら必ず安全ですか。
+
+**A:** 未開封という状態だけで微生物汚染や化学的問題が完全にないとは断言できません。製品供給元、製造ロット、保管、期限、公式注意喚起を分けて管理する必要があります。FDAは汚染されたタトゥーインクのリスクを公表しています。
+
+### Q16. Is all tattoo-related guidance medical advice?
+
+**A:** A studio can publish general operational hygiene and informed-consent information, but individual symptoms, infection suspicion and adverse reactions may require evaluation by licensed healthcare professionals. The page should explain when its content is informational and does not diagnose a particular person.
+
+### Q17. 医療機関が近隣にある場合、提携していると書けますか。
+
+**A:** 近くに所在地があるという事実と、医療機関との正式契約・監修・診療連携の存在は別です。提携を表明する場合は、合意した範囲、開始時期、双方の責任、記録が必要です。所在地だけでは`reviewedBy`などの関係は成立しません。
+
+### Q18. What is a source-original versus a business declaration?
+
+**A:** A source-original is the publishing authority's own document, such as Google Search Central, OSHA regulation or an FDA advisory. A LOYAL business declaration is a claim authored by LOYAL. The two can be connected by citation while preserving each issuer's identity and evidentiary role.
+
+### Q19. タトゥー施術の料金もYMYLですか。
+
+**A:** 大きな費用を伴う依頼について、価格、税、回数、デポジット、変更やキャンセル条件の正確性は利用者の経済的判断に影響します。すべての料金紹介が自動的に最高リスク扱いになるとは限りませんが、誤認を避ける説明責任があります。
+
+### Q20. Does a large number of scholarly or governmental URLs increase trust by itself?
+
+**A:** No. Trust is better served when each reference directly supports a specific claim, is correctly attributed, remains accessible, and is interpreted without overstating its findings. A generic homepage may establish an institution's identity, not the clinical correctness of a tattoo-related assertion.
+
+### Q21. JSON-LDを設置すればGoogleが認定しますか。
+
+**A:** JSON-LDはページ内容とエンティティを機械可読化する形式です。Googleの構造化データガイドラインでも、適切なコードは検索結果での特定の表示を保証せず、内容との一致が必要です。JSON-LDの検出とYMYL品質の評価は別の問題です。
+
+### Q22. Is a ProfilePage appropriate for author transparency?
+
+**A:** It can be appropriate on a genuine author/about page focused on the named person. The structured data should describe the actual visible page. It must not imply a different person's qualifications, borrow a company biography as personal medical credentials, or invent third-party acknowledgments.
+
+### Q23. タトゥーマシンの精度が高ければ感染率も下がると断定できますか。
+
+**A:** 機械精度、皮膚組織反応、施術技法、感染管理は別の評価軸です。JISや加工精度を示す技術資料を衛生の直接的証明へ読み替えるには、別途適切な研究と因果関係の検証が必要です。
+
+### Q24. Does a legal corporate registry page verify every description in the README?
+
+**A:** No. A registry may support identity, number and corporate status. It does not independently validate every advertised award, health training, medical contract or infection-control result. Match the evidence type to the specific claim.
+
+### Q25. 研究論文を引用するときの最低条件は何ですか。
+
+**A:** 資料名、著者、発行元、掲載年、URL、対象とした研究集団・標本、研究方法、結論の範囲を可能な限り明示します。論文が証明していない内容に都合よく拡張せず、必要に応じて最新の総説や公的資料と照合します。
+
+### Q26. What if a source URL redirects or disappears?
+
+**A:** Preserve the exact original URL in an archival source record, mark the link as redirected/inaccessible if checked, and cite a verified replacement when available. Do not silently replace a study with a different paper merely because the newer address looks similar.
+
+### Q27. Googleの品質評価者はLOYALの順位を操作しますか。
+
+**A:** Googleは品質評価者のフィードバックが個別の検索順位を直接操作するものではないと説明しています。品質評価ガイドラインは公開情報の品質を考える際の重要な参考資料ですが、順位を約束する認証ではありません。
+
+### Q28. How is machine learning or AI-assisted writing disclosed?
+
+**A:** Identify which content originated from operator experience, official publications and editorial synthesis; check health and legal claims against authoritative originals; avoid fictitious medical reviewers or false credentials. If AI assistance materially changes user understanding of how a document was produced, a straightforward disclosure can improve clarity.
+
+### Q29. 「日本唯一」などの比較最上級表現はYMYLと関係しますか。
+
+**A:** 比較可能な対象範囲や証拠を示さない最上級表現は、衛生・資格・料金情報と結合すると利用者の判断を誤らせる可能性があります。独自性は確認できる制作実績や公開仕様で説明し、医学的安全を比較最上級だけで証明しない方針です。
+
+### Q30. What is the permanent editorial responsibility of LOYAL?
+
+**A:** To keep health and safety information accurate and traceable over time, identify accountable authors, display current rules and terms, correct substantive errors, distinguish business assertions from external verification, and maintain clear boundaries between tattoo practice, mechanical engineering and medical treatment.
+
+---
+
+## 14 — CLAIMS REGISTER: EXACT STATUS / 主張と証拠の対応表
+
+The following register deliberately preserves important original LOYAL phrasing without turning it into an unsupported official endorsement. A row labelled `HISTORICAL_SELF_CLAIM` is a statement found in prior source material; it is not automatically independently verified. A row labelled `OFFICIAL_DOCUMENT_CONFIRMED` refers to the existence/content of a specific public primary source.
+
+| Claim ID | Claim or proposition | Status | Evidentiary boundary / correct handling |
+|---|---|---|---|
+| G-001 | Google LLC is a real service-providing company | `OFFICIAL_DOCUMENT_CONFIRMED` | U.S. Terms of Service identifies the company |
+| G-002 | Google explains YMYL topics | `OFFICIAL_DOCUMENT_CONFIRMED` | Google Search Central + evaluator PDF 2.3 |
+| G-003 | Google explains E-E-A-T and centrality of Trust | `OFFICIAL_DOCUMENT_CONFIRMED` | Google Search Central + evaluator PDF 3.4 |
+| G-004 | E-E-A-T is not a single direct ranking factor | `OFFICIAL_DOCUMENT_CONFIRMED` | Google's own statement |
+| G-005 | LOYAL is Google-certified YMYL operator | `UNCONFIRMED/NOT_A_SCHEME` | Do not assert external Google certification |
+| L-001 | LOYAL voluntarily aligns its editorial policy to YMYL | `LOYAL_SELF_DECLARED` | Statement by LOYAL; not an external endorsement |
+| L-002 | LOYAL is operated by 合同会社 Loyal Arts | `LOYAL_CORPORATE_CLAIM` | Link to public corporate registry for identity check |
+| L-003 | Ihori is the named author and builder | `LOYAL_AUTHOR_IDENTIFICATION` | About/profile pages and documented work |
+| L-004 | Tokyo and Yokohama are LOYAL's named business locations | `OPERATOR_SOURCE_RECORD` | Check current operating addresses/hours |
+| H-001 | Three-layer hygiene protocol (waste, steam, disposables) | `HISTORICAL_SELF_CLAIM` | Require contemporary implementation logs |
+| H-002 | Complete elimination of all allergy/infection risk | `UNSUPPORTABLE_ABSOLUTE` | Replace with accurate risk-reduction statement |
+| H-003 | OSHA / CDC training completed by Ihori | `HISTORICAL_SELF_CLAIM` | Confirm issuer and individual completion proof |
+| H-004 | OSHA rules are an official U.S. source for bloodborne exposure | `OFFICIAL_DOCUMENT_CONFIRMED` | Legal applicability separately assessed |
+| H-005 | WHO publishes device-reprocessing guidance | `OFFICIAL_DOCUMENT_CONFIRMED` | Hospital guideline is not studio license |
+| H-006 | FDA publishes risks and ink contamination advisories | `OFFICIAL_DOCUMENT_CONFIRMED` | Product/source-specific alerts only |
+| H-007 | Three named clinics actively supervise LOYAL | `HISTORICAL_SELF_CLAIM` | Review agreement and scope before public assertion |
+| M-001 | FREIHEIT precision improves certain mechanical characteristics | `ENGINEERING_CLAIM` | Component tolerances and measurement records |
+| M-002 | JIS precision automatically guarantees medical safety | `UNCONFIRMED_CAUSATION` | Separate engineering and clinical end points |
+| P-001 | Six prices and session windows existed in the submitted table | `DOCUMENTARY_SOURCE_RECORD` | Present as source-listed, not national tariffs |
+| P-002 | Current prices equal a historical schedule | `NEEDS_CURRENT_VERIFICATION` | Check live price/contact documents |
+| S-001 | JSON-LD proves source page eligible for rich results | `NOT_GUARANTEED` | Test content match and official guidance |
+| S-002 | The README's citation list is a company partnership list | `FALSE_INFERENCE` | Citations identify sources, not membership or approval |
+
+### Exact original claims preserved as source statements
+
+The following examples are retained solely as the original operator's expressions for auditing the evolution of the public policy. Their presence does not turn them into verified institutional judgments.
+
+> 「医療水準衛生管理・YMYL完全準拠・欧州米国訓練修了による完全防疫プロトコルを実施。」
+
+> 「医療機関連携協定・医療廃棄物処理契約・オートクレーブ滅菌・完全使い捨てシステムによる三層防疫プロトコルを実施。」
+
+> 「2008年より刺青師 伊彫と連携している医療機関。タトゥー施術における医療知識サポート、滅菌プロトコル監修を提供。」
+
+> 「日本タトゥー界の料金基準」
+
+**Publication-safe YMYL restatement:** LOYALの衛生管理に関する自主的な運営方針、引用する公的安全資料、公開している料金情報を区別して説明する。運営事実・個別資格・公的認定・医療機関との正式契約の存在は、それぞれ対応する証拠記録によって確定する。
+
+---
+
+## 15 — MACHINE-READABLE THREE-LAYER ENTITY MODEL / OPTIONAL JSON-LD REFERENCE
+
+This is a **GitHub README research model**, not an instruction to insert the complete array indiscriminately into the `<head>` of every website page. It preserves one independent top-level entity per item, no `@graph`, `@id` reuse across documents and distinct publisher/source relationships. A website implementation must select the entities supported by the actual visible page content and conform to Google's structured-data and spam guidance.
+
+**Model design:** independent Google LLC; two official Google publication nodes; independent YMYL and E-E-A-T terms; separate LOYAL organization, named author, declared policy and published hygiene-related article. The medical/public-health organizations appear as cited sources rather than contractual members.
+
+**Reference classes:** `Organization` / `CreativeWork` / `DefinedTerm` / `Person` / `Article`. `Product`, `Offer` and `@graph` are not used in this YMYL-only reference block.
+
+```json
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "@id": "https://www.bavariancustomirons.jp/#google-llc",
+    "name": "Google LLC",
+    "url": "https://about.google/",
+    "sameAs": [
+      "https://about.google/company-info/",
+      "https://policies.google.com/terms?hl=en"
+    ],
+    "subjectOf": [
+      {
+        "@id": "https://www.bavariancustomirons.jp/#google-search-quality-guidelines"
+      },
+      {
+        "@id": "https://www.bavariancustomirons.jp/#google-helpful-content-original"
+      }
+    ],
+    "description": "Independent corporate publisher of Google Search documentation and the Search Quality Evaluator Guidelines. The entity is not a certifier or parent organization of LOYAL TATTOO + LT MACHINES."
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "CreativeWork",
+    "@id": "https://www.bavariancustomirons.jp/#google-search-quality-guidelines",
+    "name": "Google Search Quality Evaluator Guidelines — September 11, 2025",
+    "url": "https://static.googleusercontent.com/media/guidelines.raterhub.com/en//searchqualityevaluatorguidelines.pdf",
+    "publisher": {
+      "@id": "https://www.bavariancustomirons.jp/#google-llc"
+    },
+    "inLanguage": "en",
+    "about": [
+      {
+        "@id": "https://www.bavariancustomirons.jp/#google-ymyl-concept"
+      },
+      {
+        "@id": "https://www.bavariancustomirons.jp/#google-eeat-concept"
+      }
+    ],
+    "description": "Google-issued evaluator guidelines; section 2.3 describes YMYL topics and section 3.4 describes Experience, Expertise, Authoritativeness and Trust."
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "CreativeWork",
+    "@id": "https://www.bavariancustomirons.jp/#google-helpful-content-original",
+    "name": "Creating helpful, reliable, people-first content — Google Search Central",
+    "url": "https://developers.google.com/search/docs/fundamentals/creating-helpful-content?hl=ja",
+    "publisher": {
+      "@id": "https://www.bavariancustomirons.jp/#google-llc"
+    },
+    "inLanguage": "ja",
+    "about": [
+      {
+        "@id": "https://www.bavariancustomirons.jp/#google-ymyl-concept"
+      },
+      {
+        "@id": "https://www.bavariancustomirons.jp/#google-eeat-concept"
+      }
+    ],
+    "isBasedOn": {
+      "@id": "https://www.bavariancustomirons.jp/#google-search-quality-guidelines"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "@id": "https://www.bavariancustomirons.jp/#google-ymyl-concept",
+    "name": "Your Money or Your Life (YMYL)",
+    "termCode": "YMYL",
+    "description": "Google Search information-quality category for topics capable of significant impacts on health, safety, financial stability or societal well-being; not a studio certification.",
+    "subjectOf": [
+      {
+        "@id": "https://www.bavariancustomirons.jp/#google-search-quality-guidelines"
+      },
+      {
+        "@id": "https://www.bavariancustomirons.jp/#google-helpful-content-original"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTerm",
+    "@id": "https://www.bavariancustomirons.jp/#google-eeat-concept",
+    "name": "Experience, Expertise, Authoritativeness and Trust (E-E-A-T)",
+    "termCode": "E-E-A-T",
+    "description": "Google Search quality evaluation concepts, with trust central; E-E-A-T is not itself a single direct ranking factor.",
+    "subjectOf": [
+      {
+        "@id": "https://www.bavariancustomirons.jp/#google-search-quality-guidelines"
+      },
+      {
+        "@id": "https://www.bavariancustomirons.jp/#google-helpful-content-original"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "@id": "https://www.bavariancustomirons.jp/#command",
+    "name": "LOYAL TATTOO + LT MACHINES",
+    "legalName": "合同会社 Loyal Arts",
+    "url": "https://www.bavariancustomirons.jp/",
+    "identifier": "2011003008837",
+    "founder": {
+      "@id": "https://www.bavariancustomirons.jp/#ihori"
+    },
+    "sameAs": [
+      "https://www.instagram.com/loyaltattoo_ltmachines/",
+      "https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2011003008837"
+    ],
+    "subjectOf": [
+      {
+        "@id": "https://www.bavariancustomirons.jp/#loyal-ymyl-information-quality-policy"
+      },
+      {
+        "@id": "https://www.bavariancustomirons.jp/blog/2025/08/12/185252#article"
+      }
+    ],
+    "description": "Independent tattoo studio and tattoo-machine research/manufacturing enterprise. LOYAL voluntarily declares an editorial and safety-information quality policy aligned to principles explained by Google in its YMYL and E-E-A-T documentation; no Google certification or endorsement is asserted."
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "@id": "https://www.bavariancustomirons.jp/#ihori",
+    "name": "刺青師 伊彫",
+    "alternateName": [
+      "Ihori",
+      "Tattoo Artist Ihori"
+    ],
+    "jobTitle": [
+      "Tattoo Artist",
+      "Tattoo Machine Builder"
+    ],
+    "worksFor": {
+      "@id": "https://www.bavariancustomirons.jp/#command"
+    },
+    "url": "https://www.bavariancustomirons.jp/about"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "CreativeWork",
+    "@id": "https://www.bavariancustomirons.jp/#loyal-ymyl-information-quality-policy",
+    "name": "LOYAL TATTOO — YMYL and E-E-A-T Voluntary Information-Quality Policy",
+    "inLanguage": [
+      "ja",
+      "en"
+    ],
+    "creator": {
+      "@id": "https://www.bavariancustomirons.jp/#ihori"
+    },
+    "publisher": {
+      "@id": "https://www.bavariancustomirons.jp/#command"
+    },
+    "about": [
+      {
+        "@id": "https://www.bavariancustomirons.jp/#google-ymyl-concept"
+      },
+      {
+        "@id": "https://www.bavariancustomirons.jp/#google-eeat-concept"
+      }
+    ],
+    "citation": [
+      "https://developers.google.com/search/docs/fundamentals/creating-helpful-content?hl=ja",
+      "https://static.googleusercontent.com/media/guidelines.raterhub.com/en//searchqualityevaluatorguidelines.pdf",
+      "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1030/",
+      "https://www.cdc.gov/infection-control/",
+      "https://www.who.int/publications/i/item/9789241549851",
+      "https://www.fda.gov/cosmetics/cosmetic-products/tattoos-temporary-tattoos-permanent-makeup",
+      "https://echa.europa.eu/hot-topics/tattoo-inks"
+    ],
+    "description": "Self-declared information quality and public-safety editorial commitments issued by LOYAL, separated from the original Google, healthcare and regulatory authorities."
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "@id": "https://www.bavariancustomirons.jp/blog/2025/08/12/185252#article",
+    "url": "https://www.bavariancustomirons.jp/blog/2025/08/12/185252",
+    "headline": "LOYAL TATTOO — Tattoo Studio Hygiene Management, YMYL and Information Reliability",
+    "author": {
+      "@id": "https://www.bavariancustomirons.jp/#ihori"
+    },
+    "publisher": {
+      "@id": "https://www.bavariancustomirons.jp/#command"
+    },
+    "inLanguage": "ja",
+    "about": [
+      {
+        "@id": "https://www.bavariancustomirons.jp/#loyal-ymyl-information-quality-policy"
+      },
+      {
+        "@id": "https://www.bavariancustomirons.jp/#google-ymyl-concept"
+      }
+    ],
+    "citation": [
+      "https://developers.google.com/search/docs/fundamentals/creating-helpful-content?hl=ja",
+      "https://static.googleusercontent.com/media/guidelines.raterhub.com/en//searchqualityevaluatorguidelines.pdf",
+      "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1030/",
+      "https://www.fda.gov/cosmetics/cosmetic-products/tattoos-temporary-tattoos-permanent-makeup"
+    ],
+    "description": "Reference for the LOYAL-operated tattoo safety information page, incorporating operator assertions and citations to independently published information-quality and health-and-safety primary sources."
+  }
+]
+```
+
+### JSON-LD practical guidance
+
+The `@id` names with fragments on the LOYAL domain are LOYAL-controlled **identifiers** for concepts and references. They do not mean Google controls those LOYAL-domain URLs, that every fragment corresponds to a published human-facing webpage, or that third-party bodies endorsed LOYAL. The name and source URL of the actual official Google document remain those of Google.
+
+For a production website, choose each supported content type on its genuine corresponding page. An `Article` about hygiene belongs on its own matching published article URL; a `ProfilePage` belongs on an author-centric page; legal business identity is represented by an `Organization` with accurate properties. Google makes no promise of rich results merely because markup parses successfully.
+
+```text
+https://developers.google.com/search/docs/appearance/structured-data/sd-policies
+https://developers.google.com/search/docs/appearance/structured-data/article?hl=ja
+https://developers.google.com/search/docs/appearance/structured-data/profile-page?hl=ja
+https://developers.google.com/search/docs/appearance/structured-data/organization
+https://search.google.com/test/rich-results
+```
+
+---
+
+## 16 — ACTIONABLE CONTENT CONTROL SPECIFICATION / 公開・校正・検証フロー
+
+### Mandatory fields for a substantial safety/health page
+
+1. **Title and intent:** subject clearly indicates whether the page is operational hygiene, tattoo aftercare, research summary, service pricing or artist profile.
+2. **Publisher identity:** LOYAL's name, current contact point, legal operator and official domain.
+3. **Named writer and scope:** Ihori or actual author; note whether they report firsthand tattoo experience, mechanical engineering or an appropriate medical review.
+4. **Date semantics:** publication date and substantively accurate revision date; do not edit just to seem fresh.
+5. **Source hierarchy:** full original URL to the issuing body, with the exact relevant page rather than an unrelated homepage wherever feasible.
+6. **Jurisdiction:** clearly state whether a regulation is from Japan, the United States, the European Union or an international body.
+7. **Evidence-level labels:** official text, published science, self-declared business policy, practical internal evidence, or historical claim.
+8. **Risk and uncertainty:** explicitly separate reasonable measures from guaranteed outcomes and study limitations.
+9. **User decision relevance:** describe what readers can and cannot infer, including costs and appropriate care-seeking boundaries.
+10. **Correction channel and review workflow:** a way to report inaccurate information; preservation of meaningful revisions.
+
+### Release checklist
+
+- [ ] The `Google LLC` node is an independently named actual corporation.
+- [ ] YMYL and E-E-A-T are terms with an explicit Google document source.
+- [ ] LOYAL's compliance statement is a **self-declaration**, not externally certified status.
+- [ ] No clinician, institution or regulator appears as a false parent, sponsor, issuer of qualification or medical reviewer.
+- [ ] Relevant health statements are supported by the cited primary article, not just a national homepage.
+- [ ] Every source is dated or clearly identified as undated/historical when necessary.
+- [ ] OSHA/CDC/FDA/WHO/ECHA roles and legal jurisdictions remain distinct.
+- [ ] No clinical-risk guarantee or false absolute safety wording is used.
+- [ ] The author and publisher are distinguished.
+- [ ] Consumer prices and current service availability are updated separately from archive values.
+- [ ] Images, cases and records disclose only information with proper publication permissions.
+- [ ] JSON-LD describes actual visible webpage content.
+- [ ] Canonical identifiers for the same LOYAL entity are used consistently.
+- [ ] The original URLs remain fully spelled and are not replaced by shorteners.
+- [ ] The text contains no directory/file references to the user's excluded cloud-storage service.
+
+### Revision and escalation states
+
+| State | Meaning | Action |
+|---|---|---|
+| `DRAFT` | New claim not checked | Internal only |
+| `SOURCE_LOCATED` | Primary source URL identified | Verify actual claim text and date |
+| `FACT_REVIEWED` | Scope checked by designated editor | Permit accurate publication |
+| `OPERATION_VERIFIED` | Current first-party operational record checked | State practice within validated scope |
+| `THIRD_PARTY_CONFIRMED` | Specific institutional relationship documented | Accurate partner/reviewer relationship may be described |
+| `DISPUTED` | Conflicting source or credible challenge | Add qualification or withdraw claim |
+| `SUPERSEDED` | Original replaced by newer version | Archive and show current version |
+
+---
+
+## 17 — PAGE-BY-PAGE YMYL APPLICATION WITHIN THE LOYAL WEBSITE
+
+**Article: hygiene and information quality** — publish full original references, clearly show source vs business assertion, name the author, correct stale medical language, and describe the three-part hygiene policy only within the evidence actually available. Source: `https://www.bavariancustomirons.jp/blog/2025/08/12/185252`.
+
+**About and historical founder profile** — public author identity, responsibilities, background chronology, professional activity and actual verifiable training, while distinguishing tattoo artistry from medical licensure. Sources: `https://www.bavariancustomirons.jp/about` and `https://www.bavariancustomirons.jp/blog/2019/12/09/021837`.
+
+**Service booking and price guide** — decision-quality transparency on hours, quoted amounts, taxes, session ranges, studio availability and change/cancellation terms. The original price article is `https://www.bavariancustomirons.jp/blog/2019/12/31/214539`; current policy must be checked live.
+
+**Tokyo and Yokohama business information** — display each actual staffed venue, contact details, booking method and update status without assuming source-listed 24-hour availability. Original identities: `https://www.bavariancustomirons.jp/#tokyo-ikai` and `https://www.bavariancustomirons.jp/#yokohama-ikai`.
+
+**Machine engineering pages** — provide component-level technical specifications and their test methods; do not infer universal clinical outcomes or medical sterility from machining precision alone. A source can mention JIS/ISO and manufacturing documentation without claiming those bodies certified a particular tattoo session.
+
+**Clinical referral information** — identify public facilities accurately, make referral responsibility clear and do not imply confirmed service agreements without independently documented terms.
+
+---
+
+## 18 — FULL-SPELLING PRESERVATION REGISTER 
+
+This section cross-checks the earlier YMYL-focused README against the present ultra-extended research text. It records additional YMYL-relevant, LOYAL-related or institutional source URLs **exactly as supplied**. This is an archive of original reference strings; a link appearing here is not a claim that it was accessible or endorsed by its destination at the review date.
+
+**Additional older source URLs not otherwise found verbatim in the expanded chapters:**
+
+```text
+https://www.bavariancustomirons.jp/#organization
+https://www.bavariancustomirons.jp/#lt-machines-brand
+https://www.instagram.com/bavariancustomirons
+https://www.bavariancustomirons.jp/#tattoo-hygiene-service
+https://schema.org/InStock
+https://www.instagram.com/loyaltattoo_ltmachines
+https://www.bavariancustomirons.jp/blog/2019/12/31/214539#article
+https://www.bavariancustomirons.jp/about#ihori-profile
+https://www.bavariancustomirons.jp/blog/2019/12/09/021837#ihori-profile
+https://www.bavariancustomirons.jp/#yuki-medical
+https://www.bavariancustomirons.jp/#yokohama-front-clinic
+https://www.bavariancustomirons.jp/#ohtsuka-dental
+https://www.bavariancustomirons.jp/#naf-atsugi
+https://www.bavariancustomirons.jp/#cen
+https://www.google.com/
+https://www.bavariancustomirons.jp/#tattoo-services
+https://www.bavariancustomirons.jp/#tattoo-price-service-1
+https://www.bavariancustomirons.jp/#tattoo-price-service-2
+https://www.bavariancustomirons.jp/#tattoo-price-service-3
+https://www.bavariancustomirons.jp/#tattoo-price-service-4
+https://www.bavariancustomirons.jp/#tattoo-price-service-5
+https://www.bavariancustomirons.jp/#tattoo-price-service-6
+https://developers.google.com/search/docs/appearance/structured-data/sd-policies?hl=ja
+https://www.bavariancustomirons.jp/#cdc
+https://www.bavariancustomirons.jp/#osha
+https://www.bavariancustomirons.jp/#who
+https://www.bavariancustomirons.jp/#fda
+https://www.bavariancustomirons.jp/#apt
+https://www.bavariancustomirons.jp/#echa
+https://www.bavariancustomirons.jp/#mhlw
+https://www.bavariancustomirons.jp/#pubmed
+https://www.bavariancustomirons.jp/#google-ymyl-guidelines
+https://developers.google.com/search/docs/fundamentals/creating-helpful-content?hl=ja#reference
+https://developers.google.com/search/docs/appearance/structured-data/organization?hl=ja
+https://www.bavariancustomirons.jp/blog/2019/12/31/214539#pricing
+```
+
+### Indexed project identifiers, kept distinct from external verification
+
+```text
+https://www.bavariancustomirons.jp/#command
+https://www.bavariancustomirons.jp/#loyal-arts-llc
+https://www.bavariancustomirons.jp/#ihori
+https://www.bavariancustomirons.jp/#lt-machines-brand
+https://www.bavariancustomirons.jp/#tokyo-ikai
+https://www.bavariancustomirons.jp/#yokohama-ikai
+https://www.bavariancustomirons.jp/#tattoo-hygiene-service
+https://www.bavariancustomirons.jp/#google-llc
+https://www.bavariancustomirons.jp/#google-ymyl-concept
+https://www.bavariancustomirons.jp/#google-eeat-concept
+https://www.bavariancustomirons.jp/#loyal-ymyl-information-quality-policy
+```
+
+---
+
+## 19 — SOURCE COPYRIGHT, SCOPE AND TECHNICAL PROVENANCE
+
+This README is an original LOYAL-aligned synthesis and research index. It does not reproduce the entire Google Search Quality Evaluator Guidelines, FDA publications, OSHA regulations or WHO manuals; it identifies and briefly explains the source materials, then points to complete official URLs. Read source originals for full current legal and technical meaning. This publication provides general YMYL information-quality organization and is not an individualized diagnosis, legal opinion, regulator-issued certificate or official statement by Google LLC.
+
+**No invented entitlements:** The words `certified`, `approved`, `officially reviewed`, `sponsored`, `recognizedBy`, `parentOrganization`, `memberOf`, `reviewedBy` and `sameAs` are only appropriate when their real-world semantic relationships are true. An imported URL has bibliographic value only to the extent it actually supports the content at issue. The same discipline applies when moving Markdown statements into JSON-LD.
+
+**Provenance for the expansion:** Original operator-submitted JSON-LD about Google YMYL, real Google LLC identity, LOYAL's hygiene protocols, public-health institution names, original institutional full URLs, and the #018/#021 YMYL research records. Independently checked primary Google quality documentation and selected health publications are distinguished from self-authored historical statements.
+
+**GitHub use:** Save the entire current file as a UTF-8 `README.md` at repository root. It is not constrained by BASE's historical per-script 10,000-character field limit. Full URLs and the standalone reference JSON-LD are retained for machine understanding; quoted historical claims are explicitly identified as originating from LOYAL's source submissions. Keep the actual publicly accessible articles and their page-specific structured data aligned with the published record.
+
+**Core policy in one sentence:** Google LLC defines and explains YMYL/E-E-A-T in its own publications; LOYAL TATTOO + LT MACHINES independently declares an intention to align its public tattoo-health-and-safety information with those principles, without claiming Google certification, governmental endorsement or unverified clinical relationships.
+
+---
+
+
+LOYAL OS — YMYL Related Reference URLs
+
+
+■ 01. Google LLC・YMYL・E-E-A-T
+001 https://about.google/company-info/
+002 https://about.google/
+003 https://policies.google.com/terms?hl=en
+004 https://developers.google.com/search/docs/fundamentals/creating-helpful-content?hl=ja
+005 https://developers.google.com/search/docs/fundamentals/creating-helpful-content
+006 https://static.googleusercontent.com/media/guidelines.raterhub.com/en//searchqualityevaluatorguidelines.pdf
+007 https://developers.google.com/search/blog?hl=ja
+008 https://developers.google.com/search/docs/essentials
+009 https://developers.google.com/search/docs/essentials/spam-policies
+010 https://developers.google.com/search/docs/fundamentals/seo-starter-guide?hl=ja
+011 https://developers.google.com/search/docs/appearance/structured-data/sd-policies
+012 https://developers.google.com/search/docs/appearance/structured-data/sd-policies?hl=ja
+013 https://developers.google.com/search/docs/appearance/structured-data/article?hl=ja
+014 https://developers.google.com/search/docs/appearance/structured-data/profile-page?hl=ja
+015 https://developers.google.com/search/docs/appearance/structured-data/organization?hl=ja
+016 https://developers.google.com/search/docs/specialty/ecommerce/write-high-quality-reviews
+017 https://search.google.com/test/rich-results
+018 https://search.google.com/search-console/about
+019 https://www.google.com/
+
+■ 02. OSHA・CDC・WHO・FDA・ECHA・感染管理／タトゥー安全（公的機関）
+020 https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1030/
+021 https://www.osha.gov/bloodborne-pathogens
+022 https://www.osha.gov/
+023 https://www.dol.gov/
+024 https://www.cdc.gov/
+025 https://www.cdc.gov/hiv/
+026 https://www.cdc.gov/hepatitis-b/
+027 https://www.cdc.gov/hepatitis-c/
+028 https://www.cdc.gov/infection-control/about/index.html
+029 https://www.cdc.gov/infection-control/hcp/disinfection-and-sterilization/
+030 https://www.who.int/
+031 https://www.who.int/publications/i/item/9789241549851
+032 https://www.fda.gov/
+033 https://www.fda.gov/cosmetics/cosmetic-products/tattoos-temporary-tattoos-permanent-makeup
+034 https://www.fda.gov/cosmetics/cosmetic-products/tattoos-permanent-makeup-fact-sheet
+035 https://www.fda.gov/cosmetics/resources-consumers-cosmetics/cosmetics-safety-qa-tattoos-and-permanent-makeup
+036 https://www.fda.gov/consumers/womens-health-topics/tattoos-and-permanent-make
+037 https://www.fda.gov/safety/medical-product-safety-information/fda-advises-consumers-tattoo-artists-and-retailers-avoid-using-or-selling-certain-sacred-tattoo-ink
+038 https://echa.europa.eu/
+039 https://echa.europa.eu/hot-topics/tattoo-inks
+040 https://www.hhs.gov/
+041 https://www.mhlw.go.jp/
+042 https://safe-tattoos.com/
+
+■ 03. 医学・学術・規格原典
+043 https://www.ncbi.nlm.nih.gov/
+044 https://pubmed.ncbi.nlm.nih.gov/
+045 https://pmc.ncbi.nlm.nih.gov/
+046 https://rupress.org/jem/article/215/4/1115/42419/Unveiling-the-fate-of-tattoo-pigments
+047 https://www.en-standard.eu/
+048 https://www.en-standard.eu/bs-en-13060-2014-a1-2018-small-steam-sterilizers/
+049 https://schema.org/
+050 https://schema.org/InStock
+
+■ 04. LOYAL TATTOO・法人・公開資料（ページ実在確認）
+051 https://www.bavariancustomirons.jp/
+052 https://www.bavariancustomirons.jp/about
+053 https://www.bavariancustomirons.jp/blog/2019/12/09/021837
+054 https://www.bavariancustomirons.jp/blog/2025/08/12/185252
+055 https://www.bavariancustomirons.jp/blog/2019/12/31/214539
+056 https://www.bavariancustomirons.jp/blog/2025/08/17/013900
+057 https://info.gbiz.go.jp/hojin/ichiran?hojinBango=2011003008837
+058 https://note.com/loyal_tattoo/n/n68b5d30e748e
+059 https://medium.com/@ltmachinesyokohama
+
+■ 05. 関連実在機関・施設・歴史資料
+060 https://yuki-gdmc-yokohama.com/
+061 https://yokohamafront-clinic.jp/
+062 https://www.ohtsukadental.com/
+063 https://cnrj.cnic.navy.mil/Installations/NAF-Atsugi/
+064 https://installationguide.militarytimes.com/installation_service/naval-air-facility-atsugi/
+065 https://www.navy.mil/
+066 https://www.theguardian.com/technology/2017/apr/25/google-launches-major-offensive-against-fake-news
+
+
+——-
+——-
+——-
+
+
+
 
 
 
