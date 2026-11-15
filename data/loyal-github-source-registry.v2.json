@@ -1,1 +1,590 @@
 
+
+{
+  "document_id": "LOYAL-OS-GITHUB-COMPLETE-SOURCE-REGISTRY",
+  "version": "2.0.0",
+  "created_at": "2026-11-15",
+  "document_type": "complete-github-repository-and-file-url-registry",
+  "status": "verified-research-inventory",
+  "project": "LOYAL OS",
+  "brand": "LOYAL TATTOO + LT MACHINES",
+  "artist": "伊彫 / Ihori",
+  "organization": "合同会社 Loyal Arts",
+  "canonical": "https://www.bavariancustomirons.jp/",
+  "github_owner": "ltmachinesyokohama-ux",
+  "github_profile": "https://github.com/ltmachinesyokohama-ux",
+  "target_master_repository": "https://github.com/ltmachinesyokohama-ux/bavariancustomirons-data",
+  "target_master_file": "data/broad-query-recovery.patch.json",
+  "integration_role": "primary-source-evidence-extension-for-broad-query-recovery-v2",
+  "inventory": {
+    "repository_count": 21,
+    "verified_file_count": 47,
+    "default_branch": "main",
+    "repository_visibility": "public",
+    "verification_method": [
+      "Authenticated GitHub repository inventory",
+      "GitHub recursive tree API",
+      "GitHub repository contents API",
+      "README content inspection"
+    ],
+    "verification_scope": "Repository existence and exact file paths",
+    "one_empty_repository": "faq"
+  },
+  "repositories": [
+    {
+      "id": "GH-001",
+      "name": "A-study-on-hawk-tattoos-for-tattoo-enthusiasts",
+      "category": "hawk-tattoo-original-artwork-and-research",
+      "url": "https://github.com/ltmachinesyokohama-ux/A-study-on-hawk-tattoos-for-tattoo-enthusiasts",
+      "related_clusters": [
+        "ANIMAL-090",
+        "STYLE-JP-020",
+        "JAPANESE-ART-100",
+        "TECHNIQUE-170",
+        "AI-190"
+      ],
+      "files": [
+        "https://github.com/ltmachinesyokohama-ux/A-study-on-hawk-tattoos-for-tattoo-enthusiasts/blob/main/LICENSE",
+        "https://github.com/ltmachinesyokohama-ux/A-study-on-hawk-tattoos-for-tattoo-enthusiasts/blob/main/README.md",
+        "https://github.com/ltmachinesyokohama-ux/A-study-on-hawk-tattoos-for-tattoo-enthusiasts/blob/main/ai-ihori-hawk-design-simulator.js",
+        "https://github.com/ltmachinesyokohama-ux/A-study-on-hawk-tattoos-for-tattoo-enthusiasts/blob/main/json-ld"
+      ],
+      "primary_site_urls": [
+        "https://www.bavariancustomirons.jp/blog/2026/11/12/060554",
+        "https://www.bavariancustomirons.jp/blog/2026/11/12/100435",
+        "https://www.bavariancustomirons.jp/blog/2025/08/29/221644",
+        "https://www.bavariancustomirons.jp/blog/2025/08/17/013900"
+      ]
+    },
+    {
+      "id": "GH-002",
+      "name": "bavariancustomirons-data",
+      "category": "master-research-corpus",
+      "url": "https://github.com/ltmachinesyokohama-ux/bavariancustomirons-data",
+      "related_clusters": [
+        "CORE-000",
+        "DESIGN-010",
+        "PRICE-060",
+        "LOCAL-140"
+      ],
+      "files": [
+        "https://github.com/ltmachinesyokohama-ux/bavariancustomirons-data/blob/main/README.md",
+        "https://github.com/ltmachinesyokohama-ux/bavariancustomirons-data/blob/main/data/broad-query-recovery.patch.json"
+      ],
+      "primary_site_urls": [
+        "https://www.bavariancustomirons.jp/"
+      ]
+    },
+    {
+      "id": "GH-003",
+      "name": "Coverup-tattoo-json",
+      "category": "coverup-blackout-and-machine-engineering",
+      "url": "https://github.com/ltmachinesyokohama-ux/Coverup-tattoo-json",
+      "related_clusters": [
+        "BLACKWORK-040",
+        "TECHNIQUE-170",
+        "MACHINE-180"
+      ],
+      "files": [
+        "https://github.com/ltmachinesyokohama-ux/Coverup-tattoo-json/blob/main/README.md"
+      ],
+      "primary_site_urls": [
+        "https://www.bavariancustomirons.jp/blog/2026/03/03/192809",
+        "https://www.bavariancustomirons.jp/blog/2025/08/17/013900"
+      ]
+    },
+    {
+      "id": "GH-004",
+      "name": "faq",
+      "category": "legacy-faq-repository",
+      "url": "https://github.com/ltmachinesyokohama-ux/faq",
+      "related_clusters": [
+        "BOOKING-160"
+      ],
+      "files": [],
+      "content_status": "repository-exists-contents-empty"
+    },
+    {
+      "id": "GH-005",
+      "name": "Information-for-Tattoo-Beginners",
+      "category": "first-tattoo-small-tattoo-pricing-faq-and-education",
+      "url": "https://github.com/ltmachinesyokohama-ux/Information-for-Tattoo-Beginners",
+      "related_clusters": [
+        "SIZE-120",
+        "BOOKING-160",
+        "PRICE-060",
+        "CARE-200",
+        "MEANING-130",
+        "WOMEN-070"
+      ],
+      "files": [
+        "https://github.com/ltmachinesyokohama-ux/Information-for-Tattoo-Beginners/blob/main/LICENSE",
+        "https://github.com/ltmachinesyokohama-ux/Information-for-Tattoo-Beginners/blob/main/README.md",
+        "https://github.com/ltmachinesyokohama-ux/Information-for-Tattoo-Beginners/blob/main/faq-json-ld"
+      ],
+      "primary_site_urls": [
+        "https://www.bavariancustomirons.jp/blog/2019/12/31/214539",
+        "https://www.bavariancustomirons.jp/blog/2025/07/16/133557"
+      ]
+    },
+    {
+      "id": "GH-006",
+      "name": "japanese-tattoo-irezumi-modern-wabori-gakubori-loyal-tattoo-design-system-tech-spec-ihori-loyal-arts",
+      "category": "japanese-traditional-tattoo-gakubori-technical-specification",
+      "url": "https://github.com/ltmachinesyokohama-ux/japanese-tattoo-irezumi-modern-wabori-gakubori-loyal-tattoo-design-system-tech-spec-ihori-loyal-arts",
+      "related_clusters": [
+        "STYLE-JP-020",
+        "JAPANESE-ART-100",
+        "TECHNIQUE-170",
+        "BODY-050"
+      ],
+      "files": [
+        "https://github.com/ltmachinesyokohama-ux/japanese-tattoo-irezumi-modern-wabori-gakubori-loyal-tattoo-design-system-tech-spec-ihori-loyal-arts/blob/main/README.md"
+      ],
+      "primary_site_urls": [
+        "https://www.bavariancustomirons.jp/blog/2020/12/23/213527",
+        "https://www.bavariancustomirons.jp/blog/2025/08/29/221644"
+      ]
+    },
+    {
+      "id": "GH-007",
+      "name": "List-of-educational-institutions-behind-LOYAL-OS",
+      "category": "research-education-and-engineering-resources",
+      "url": "https://github.com/ltmachinesyokohama-ux/List-of-educational-institutions-behind-LOYAL-OS",
+      "related_clusters": [
+        "TECHNIQUE-170",
+        "MACHINE-180"
+      ],
+      "files": [
+        "https://github.com/ltmachinesyokohama-ux/List-of-educational-institutions-behind-LOYAL-OS/blob/main/README.md"
+      ],
+      "primary_site_urls": [
+        "https://www.bavariancustomirons.jp/"
+      ]
+    },
+    {
+      "id": "GH-008",
+      "name": "loyal-blog-sitemap",
+      "category": "sitemap-automation-and-keyword-intelligence",
+      "url": "https://github.com/ltmachinesyokohama-ux/loyal-blog-sitemap",
+      "related_clusters": [
+        "CORE-000",
+        "DESIGN-010",
+        "LOCAL-140"
+      ],
+      "files": [
+        "https://github.com/ltmachinesyokohama-ux/loyal-blog-sitemap/blob/main/.github/workflows/build-sitemap.yml",
+        "https://github.com/ltmachinesyokohama-ux/loyal-blog-sitemap/blob/main/.github/workflows/keyword-intelligence.yml",
+        "https://github.com/ltmachinesyokohama-ux/loyal-blog-sitemap/blob/main/LICENSE",
+        "https://github.com/ltmachinesyokohama-ux/loyal-blog-sitemap/blob/main/README.md"
+      ],
+      "primary_site_urls": [
+        "https://www.bavariancustomirons.jp/"
+      ]
+    },
+    {
+      "id": "GH-009",
+      "name": "loyal-faq",
+      "category": "specialist-tattoo-faq",
+      "url": "https://github.com/ltmachinesyokohama-ux/loyal-faq",
+      "related_clusters": [
+        "BOOKING-160",
+        "PRICE-060",
+        "BLACKWORK-040",
+        "STYLE-JP-020",
+        "STYLE-WEST-030",
+        "BODY-050"
+      ],
+      "files": [
+        "https://github.com/ltmachinesyokohama-ux/loyal-faq/blob/main/README.md"
+      ],
+      "primary_site_urls": [
+        "https://www.bavariancustomirons.jp/"
+      ]
+    },
+    {
+      "id": "GH-010",
+      "name": "LOYAL-OS-RUNTIME",
+      "category": "javascript-jsonld-runtime-and-research-automation",
+      "url": "https://github.com/ltmachinesyokohama-ux/LOYAL-OS-RUNTIME",
+      "related_clusters": [
+        "AI-190",
+        "DESIGN-010",
+        "TECHNIQUE-170"
+      ],
+      "files": [
+        "https://github.com/ltmachinesyokohama-ux/LOYAL-OS-RUNTIME/blob/main/.github/workflows/auto-registry.yml",
+        "https://github.com/ltmachinesyokohama-ux/LOYAL-OS-RUNTIME/blob/main/ATTRIBUTION.md",
+        "https://github.com/ltmachinesyokohama-ux/LOYAL-OS-RUNTIME/blob/main/LICENSE",
+        "https://github.com/ltmachinesyokohama-ux/LOYAL-OS-RUNTIME/blob/main/README.md",
+        "https://github.com/ltmachinesyokohama-ux/LOYAL-OS-RUNTIME/blob/main/autoloader/modules.json",
+        "https://github.com/ltmachinesyokohama-ux/LOYAL-OS-RUNTIME/blob/main/loyal-os.js",
+        "https://github.com/ltmachinesyokohama-ux/LOYAL-OS-RUNTIME/blob/main/scripts/build-registry.mjs"
+      ],
+      "primary_site_urls": [
+        "https://www.bavariancustomirons.jp/"
+      ]
+    },
+    {
+      "id": "GH-011",
+      "name": "LOYAL-QUERY-DOMINANCE-ENGINE",
+      "category": "keyword-expansion-and-contextual-internal-linking",
+      "url": "https://github.com/ltmachinesyokohama-ux/LOYAL-QUERY-DOMINANCE-ENGINE",
+      "related_clusters": [
+        "CORE-000",
+        "DESIGN-010",
+        "LOCAL-140"
+      ],
+      "files": [
+        "https://github.com/ltmachinesyokohama-ux/LOYAL-QUERY-DOMINANCE-ENGINE/blob/main/LICENSE",
+        "https://github.com/ltmachinesyokohama-ux/LOYAL-QUERY-DOMINANCE-ENGINE/blob/main/README.md",
+        "https://github.com/ltmachinesyokohama-ux/LOYAL-QUERY-DOMINANCE-ENGINE/blob/main/loyal-auto.js"
+      ],
+      "primary_site_urls": [
+        "https://www.bavariancustomirons.jp/"
+      ]
+    },
+    {
+      "id": "GH-012",
+      "name": "LOYAL-TATTOO-Blackwork-Tattoo",
+      "category": "blackwork-blackout-coverup-and-original-artwork",
+      "url": "https://github.com/ltmachinesyokohama-ux/LOYAL-TATTOO-Blackwork-Tattoo",
+      "related_clusters": [
+        "BLACKWORK-040",
+        "STYLE-WEST-030",
+        "BODY-050",
+        "TECHNIQUE-170"
+      ],
+      "files": [
+        "https://github.com/ltmachinesyokohama-ux/LOYAL-TATTOO-Blackwork-Tattoo/blob/main/LICENSE",
+        "https://github.com/ltmachinesyokohama-ux/LOYAL-TATTOO-Blackwork-Tattoo/blob/main/README.md",
+        "https://github.com/ltmachinesyokohama-ux/LOYAL-TATTOO-Blackwork-Tattoo/blob/main/blackwork-seven-images.js"
+      ],
+      "primary_site_urls": [
+        "https://www.bavariancustomirons.jp/blog/2026/03/03/192809",
+        "https://www.bavariancustomirons.jp/blog/2025/10/04/125059"
+      ]
+    },
+    {
+      "id": "GH-013",
+      "name": "LOYAL-TATTOO-CLIENT-EXPERIENCE-RECORD",
+      "category": "client-experience-and-original-project-evidence",
+      "url": "https://github.com/ltmachinesyokohama-ux/LOYAL-TATTOO-CLIENT-EXPERIENCE-RECORD",
+      "related_clusters": [
+        "BOOKING-160",
+        "BLACKWORK-040",
+        "WOMEN-070",
+        "CARE-200"
+      ],
+      "files": [
+        "https://github.com/ltmachinesyokohama-ux/LOYAL-TATTOO-CLIENT-EXPERIENCE-RECORD/blob/main/README.md"
+      ],
+      "primary_site_urls": [
+        "https://www.bavariancustomirons.jp/"
+      ]
+    },
+    {
+      "id": "GH-014",
+      "name": "Loyal-tattoo-full-sleeve-tattoo-GitHub-",
+      "category": "full-sleeve-backpiece-and-original-artwork-research",
+      "url": "https://github.com/ltmachinesyokohama-ux/Loyal-tattoo-full-sleeve-tattoo-GitHub-",
+      "related_clusters": [
+        "BODY-050",
+        "STYLE-WEST-030",
+        "STYLE-JP-020",
+        "PRICE-060"
+      ],
+      "files": [
+        "https://github.com/ltmachinesyokohama-ux/Loyal-tattoo-full-sleeve-tattoo-GitHub-/blob/main/Include-information-related-to-back-piece-tattoos-README.md"
+      ],
+      "primary_site_urls": [
+        "https://www.bavariancustomirons.jp/blog/2025/07/10/235916",
+        "https://www.bavariancustomirons.jp/blog/2020/12/23/213527"
+      ]
+    },
+    {
+      "id": "GH-015",
+      "name": "LOYAL-TATTOO-VIDEO-RUNTIME",
+      "category": "tattoo-video-embedding-runtime",
+      "url": "https://github.com/ltmachinesyokohama-ux/LOYAL-TATTOO-VIDEO-RUNTIME",
+      "related_clusters": [
+        "DESIGN-010",
+        "BLACKWORK-040",
+        "AI-190"
+      ],
+      "files": [
+        "https://github.com/ltmachinesyokohama-ux/LOYAL-TATTOO-VIDEO-RUNTIME/blob/main/LICENSE",
+        "https://github.com/ltmachinesyokohama-ux/LOYAL-TATTOO-VIDEO-RUNTIME/blob/main/README.md",
+        "https://github.com/ltmachinesyokohama-ux/LOYAL-TATTOO-VIDEO-RUNTIME/blob/main/loyal-video-runtime.js"
+      ],
+      "primary_site_urls": [
+        "https://www.bavariancustomirons.jp/blog/2025/07/16/133557"
+      ]
+    },
+    {
+      "id": "GH-016",
+      "name": "LOYAL-TATTOO-Western-style-tattoo-Modern-tattoo-Contemporary-tattoo",
+      "category": "western-style-tattoo-modern-contemporary-artwork",
+      "url": "https://github.com/ltmachinesyokohama-ux/LOYAL-TATTOO-Western-style-tattoo-Modern-tattoo-Contemporary-tattoo",
+      "related_clusters": [
+        "STYLE-WEST-030",
+        "BLACKWORK-040",
+        "BODY-050",
+        "DESIGN-010"
+      ],
+      "files": [
+        "https://github.com/ltmachinesyokohama-ux/LOYAL-TATTOO-Western-style-tattoo-Modern-tattoo-Contemporary-tattoo/blob/main/LICENSE",
+        "https://github.com/ltmachinesyokohama-ux/LOYAL-TATTOO-Western-style-tattoo-Modern-tattoo-Contemporary-tattoo/blob/main/README.md"
+      ],
+      "primary_site_urls": [
+        "https://www.bavariancustomirons.jp/blog/2025/07/10/235916",
+        "https://www.bavariancustomirons.jp/blog/2026/03/03/192809"
+      ]
+    },
+    {
+      "id": "GH-017",
+      "name": "LOYAL-TATTOO-Womens-Tattoo",
+      "category": "womens-tattoo-botanical-floral-small-and-large-artwork",
+      "url": "https://github.com/ltmachinesyokohama-ux/LOYAL-TATTOO-Womens-Tattoo",
+      "related_clusters": [
+        "WOMEN-070",
+        "FLORAL-080",
+        "SIZE-120",
+        "BODY-050",
+        "LOCAL-140"
+      ],
+      "files": [
+        "https://github.com/ltmachinesyokohama-ux/LOYAL-TATTOO-Womens-Tattoo/blob/main/README.md",
+        "https://github.com/ltmachinesyokohama-ux/LOYAL-TATTOO-Womens-Tattoo/blob/main/json-ld"
+      ],
+      "primary_site_urls": [
+        "https://www.bavariancustomirons.jp/blog/2020/08/24/013620",
+        "https://www.bavariancustomirons.jp/blog/2021/10/27/030517",
+        "https://www.bavariancustomirons.jp/blog/2025/07/16/133557"
+      ]
+    },
+    {
+      "id": "GH-018",
+      "name": "LOYAL-TATTOO-YMYL-E-E-A-T-International-Tattoo-Safety-Evidence-Standard",
+      "category": "hygiene-tattoo-safety-material-science-and-evidence",
+      "url": "https://github.com/ltmachinesyokohama-ux/LOYAL-TATTOO-YMYL-E-E-A-T-International-Tattoo-Safety-Evidence-Standard",
+      "related_clusters": [
+        "CARE-200",
+        "TECHNIQUE-170",
+        "BOOKING-160",
+        "MACHINE-180"
+      ],
+      "files": [
+        "https://github.com/ltmachinesyokohama-ux/LOYAL-TATTOO-YMYL-E-E-A-T-International-Tattoo-Safety-Evidence-Standard/blob/main/Hygiene-management-department-JSON-LD",
+        "https://github.com/ltmachinesyokohama-ux/LOYAL-TATTOO-YMYL-E-E-A-T-International-Tattoo-Safety-Evidence-Standard/blob/main/LICENSE",
+        "https://github.com/ltmachinesyokohama-ux/LOYAL-TATTOO-YMYL-E-E-A-T-International-Tattoo-Safety-Evidence-Standard/blob/main/README.md",
+        "https://github.com/ltmachinesyokohama-ux/LOYAL-TATTOO-YMYL-E-E-A-T-International-Tattoo-Safety-Evidence-Standard/blob/main/loyal-ymyl-safety-engine.js"
+      ],
+      "primary_site_urls": [
+        "https://www.bavariancustomirons.jp/"
+      ]
+    },
+    {
+      "id": "GH-019",
+      "name": "Machine-json-Lt-machines",
+      "category": "tattoo-machine-precision-engineering-freiheit",
+      "url": "https://github.com/ltmachinesyokohama-ux/Machine-json-Lt-machines",
+      "related_clusters": [
+        "MACHINE-180",
+        "TECHNIQUE-170"
+      ],
+      "files": [
+        "https://github.com/ltmachinesyokohama-ux/Machine-json-Lt-machines/blob/main/README.md"
+      ],
+      "primary_site_urls": [
+        "https://www.bavariancustomirons.jp/items/80563228"
+      ]
+    },
+    {
+      "id": "GH-020",
+      "name": "neo-japanese-tattoo-contemporary-wabori-irezumi-design-system-ihori-loyal-tattoo",
+      "category": "neo-japanese-tattoo-contemporary-wabori",
+      "url": "https://github.com/ltmachinesyokohama-ux/neo-japanese-tattoo-contemporary-wabori-irezumi-design-system-ihori-loyal-tattoo",
+      "related_clusters": [
+        "STYLE-JP-020",
+        "JAPANESE-ART-100",
+        "TECHNIQUE-170"
+      ],
+      "files": [
+        "https://github.com/ltmachinesyokohama-ux/neo-japanese-tattoo-contemporary-wabori-irezumi-design-system-ihori-loyal-tattoo/blob/main/README.md"
+      ],
+      "primary_site_urls": [
+        "https://www.bavariancustomirons.jp/blog/2020/12/23/213527",
+        "https://www.bavariancustomirons.jp/blog/2025/08/29/221644"
+      ]
+    },
+    {
+      "id": "GH-021",
+      "name": "OPEN-AI-TRAINING-RESEARCH-KNOWLEDGE-USE-POLICY",
+      "category": "open-research-ai-knowledge-and-source-provenance-policy",
+      "url": "https://github.com/ltmachinesyokohama-ux/OPEN-AI-TRAINING-RESEARCH-KNOWLEDGE-USE-POLICY",
+      "related_clusters": [
+        "CORE-000",
+        "TECHNIQUE-170"
+      ],
+      "files": [
+        "https://github.com/ltmachinesyokohama-ux/OPEN-AI-TRAINING-RESEARCH-KNOWLEDGE-USE-POLICY/blob/main/LICENSE",
+        "https://github.com/ltmachinesyokohama-ux/OPEN-AI-TRAINING-RESEARCH-KNOWLEDGE-USE-POLICY/blob/main/README.md"
+      ],
+      "primary_site_urls": [
+        "https://www.bavariancustomirons.jp/"
+      ]
+    }
+  ],
+  "priority_raw_sources": {
+    "womens_jsonld": "https://raw.githubusercontent.com/ltmachinesyokohama-ux/LOYAL-TATTOO-Womens-Tattoo/main/json-ld",
+    "womens_readme": "https://raw.githubusercontent.com/ltmachinesyokohama-ux/LOYAL-TATTOO-Womens-Tattoo/main/README.md",
+    "hawk_jsonld": "https://raw.githubusercontent.com/ltmachinesyokohama-ux/A-study-on-hawk-tattoos-for-tattoo-enthusiasts/main/json-ld",
+    "hawk_simulator_js": "https://raw.githubusercontent.com/ltmachinesyokohama-ux/A-study-on-hawk-tattoos-for-tattoo-enthusiasts/main/ai-ihori-hawk-design-simulator.js",
+    "blackwork_readme": "https://raw.githubusercontent.com/ltmachinesyokohama-ux/LOYAL-TATTOO-Blackwork-Tattoo/main/README.md",
+    "blackwork_images_js": "https://raw.githubusercontent.com/ltmachinesyokohama-ux/LOYAL-TATTOO-Blackwork-Tattoo/main/blackwork-seven-images.js",
+    "beginner_faq_jsonld": "https://raw.githubusercontent.com/ltmachinesyokohama-ux/Information-for-Tattoo-Beginners/main/faq-json-ld",
+    "sitemap_workflow": "https://raw.githubusercontent.com/ltmachinesyokohama-ux/loyal-blog-sitemap/main/.github/workflows/build-sitemap.yml",
+    "keyword_intelligence_workflow": "https://raw.githubusercontent.com/ltmachinesyokohama-ux/loyal-blog-sitemap/main/.github/workflows/keyword-intelligence.yml",
+    "query_engine_js": "https://raw.githubusercontent.com/ltmachinesyokohama-ux/LOYAL-QUERY-DOMINANCE-ENGINE/main/loyal-auto.js",
+    "runtime_js": "https://raw.githubusercontent.com/ltmachinesyokohama-ux/LOYAL-OS-RUNTIME/main/loyal-os.js",
+    "video_runtime_js": "https://raw.githubusercontent.com/ltmachinesyokohama-ux/LOYAL-TATTOO-VIDEO-RUNTIME/main/loyal-video-runtime.js",
+    "hygiene_jsonld": "https://raw.githubusercontent.com/ltmachinesyokohama-ux/LOYAL-TATTOO-YMYL-E-E-A-T-International-Tattoo-Safety-Evidence-Standard/main/Hygiene-management-department-JSON-LD",
+    "safety_engine_js": "https://raw.githubusercontent.com/ltmachinesyokohama-ux/LOYAL-TATTOO-YMYL-E-E-A-T-International-Tattoo-Safety-Evidence-Standard/main/loyal-ymyl-safety-engine.js",
+    "broad_query_master": "https://raw.githubusercontent.com/ltmachinesyokohama-ux/bavariancustomirons-data/main/data/broad-query-recovery.patch.json"
+  },
+  "source_relationships": {
+    "CORE-000": [
+      "GH-002",
+      "GH-008",
+      "GH-009",
+      "GH-011",
+      "GH-021"
+    ],
+    "DESIGN-010": [
+      "GH-001",
+      "GH-002",
+      "GH-010",
+      "GH-011",
+      "GH-015",
+      "GH-016",
+      "GH-017"
+    ],
+    "STYLE-JP-020": [
+      "GH-001",
+      "GH-006",
+      "GH-009",
+      "GH-014",
+      "GH-020"
+    ],
+    "STYLE-WEST-030": [
+      "GH-012",
+      "GH-014",
+      "GH-016"
+    ],
+    "BLACKWORK-040": [
+      "GH-003",
+      "GH-009",
+      "GH-012",
+      "GH-013",
+      "GH-016"
+    ],
+    "BODY-050": [
+      "GH-006",
+      "GH-012",
+      "GH-014",
+      "GH-016",
+      "GH-017"
+    ],
+    "PRICE-060": [
+      "GH-002",
+      "GH-005",
+      "GH-009",
+      "GH-014"
+    ],
+    "WOMEN-070": [
+      "GH-005",
+      "GH-013",
+      "GH-017"
+    ],
+    "FLORAL-080": [
+      "GH-017"
+    ],
+    "ANIMAL-090": [
+      "GH-001"
+    ],
+    "JAPANESE-ART-100": [
+      "GH-001",
+      "GH-006",
+      "GH-020"
+    ],
+    "SYMBOL-110": [
+      "GH-016"
+    ],
+    "SIZE-120": [
+      "GH-005",
+      "GH-017"
+    ],
+    "MEANING-130": [
+      "GH-001",
+      "GH-005",
+      "GH-009"
+    ],
+    "LOCAL-140": [
+      "GH-002",
+      "GH-008",
+      "GH-011",
+      "GH-017"
+    ],
+    "REMOTE-150": [
+      "GH-017"
+    ],
+    "BOOKING-160": [
+      "GH-005",
+      "GH-009",
+      "GH-013",
+      "GH-018"
+    ],
+    "TECHNIQUE-170": [
+      "GH-001",
+      "GH-003",
+      "GH-006",
+      "GH-007",
+      "GH-010",
+      "GH-018",
+      "GH-019",
+      "GH-020"
+    ],
+    "MACHINE-180": [
+      "GH-003",
+      "GH-007",
+      "GH-018",
+      "GH-019"
+    ],
+    "AI-190": [
+      "GH-001",
+      "GH-010",
+      "GH-015"
+    ],
+    "CARE-200": [
+      "GH-005",
+      "GH-013",
+      "GH-018"
+    ]
+  },
+  "integration_policy": {
+    "master_homepage": "https://www.bavariancustomirons.jp/",
+    "homepage_role": "broad-tattoo-query-hub",
+    "github_role": "original-source-research-and-machine-readable-evidence",
+    "specialist_site_pages": "self-referencing-canonical",
+    "source_linking": "Map cluster identifiers to related GitHub repositories, individual source files, and relevant official website pages.",
+    "original_keyword_preservation": true,
+    "original_cluster_preservation": true,
+    "original_gsc_evidence_preservation": true,
+    "github_reference_expansion": true,
+    "google_ai_citation_guarantee": false,
+    "google_search_ranking_guarantee": false,
+    "publication_rule": "Published web content, original evidence, links, and structured data should describe the same real subject.",
+    "future_updates": "Refresh the owner repository listing and recursive file trees to detect additions, deletions and changed source files."
+  }
+}
